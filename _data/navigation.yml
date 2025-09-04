@@ -11,11 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Media Appearances"
-    url: /media-appearances/
-
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    

@@ -286,14 +286,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _media-appearances
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 
