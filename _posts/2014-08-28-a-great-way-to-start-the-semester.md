@@ -3,6 +3,7 @@ title: 'A great way to start the semester'
 date: 2014-08-28
 permalink: /posts/2014/08/a-great-way-to-start-the-semester/
 tags:
+    - Students
 ---
 
 I like it when I get a chance to talk about the positive things my students do, so I thought I’d share this little story.

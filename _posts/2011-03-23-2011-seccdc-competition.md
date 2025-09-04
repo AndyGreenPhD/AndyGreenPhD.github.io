@@ -3,6 +3,8 @@ title: '2011 SECCDC competition'
 date: 2011-03-23
 permalink: /posts/2011/03/2011-seccdc-competition/
 tags:
+    - CCDC
+    - SECCDC
 ---
 
 We recently hosted the 2011 South East Collegiate Cyber Defense competition at Kennesaw State University. First place was awarded to the University of Louisville, and they also swept all the individual category awards as well. All in all, a pretty dominating performance by that team. This year, we had a total of 10 teams competing, our largest turnout ever.
