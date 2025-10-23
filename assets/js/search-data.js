@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais/";
           
         },
+      },{id: "post-to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-amp-security",
+        
+          title: "“To report or not to report? Extending Protection Motivation Theory to Vulnerability Discovery...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-&-security/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
