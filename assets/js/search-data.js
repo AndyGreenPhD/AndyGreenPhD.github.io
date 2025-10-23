@@ -146,6 +146,13 @@ ninja.data = [{
           window.open("https://github.com/AndyGreenPhD", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/AndyGreenPhD", "_blank");
+        },
+      },{
         id: 'social-mastodon',
         title: 'Mastodon',
         section: 'Socials',
