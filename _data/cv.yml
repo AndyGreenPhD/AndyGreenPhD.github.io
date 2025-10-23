@@ -2,45 +2,35 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Andrew William Green, Ph.D.
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy - Information Systems, Supporting Area of Emphasis:  Information Security
+      institution: Nova Southeastern University, Fort Lauderdale, Florida, US
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Dissertation
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - SNS Use, Risk, and Executive Behavior
+        - title: Advisor
+          contents:
+            - James Parrish, Ph.D.
+    - title: Master of Science - Information Systems, Supporting Area of Emphasis:  Information Security
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 2007
 
-- title: Experience
+
+- title: Academic Positions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Assistant Professor of Information Security and Assurance
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 2007 - Present
+      
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
