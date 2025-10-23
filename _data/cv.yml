@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy - Information Systems, Supporting Area of Emphasis:  Information Security
+    - title: Doctor of Philosophy - Information Systems, Supporting Area of Emphasis - Information Security
       institution: Nova Southeastern University, Fort Lauderdale, Florida, US
       year: 2020
       description:
@@ -19,7 +19,7 @@
         - title: Advisor
           contents:
             - James Parrish, Ph.D.
-    - title: Master of Science - Information Systems, Supporting Area of Emphasis:  Information Security
+    - title: Master of Science - Information Systems, Supporting Area of Emphasis - Information Security
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: 2007
 
@@ -30,7 +30,7 @@
     - title: Assistant Professor of Information Security and Assurance
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: 2007 - Present
-      
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
