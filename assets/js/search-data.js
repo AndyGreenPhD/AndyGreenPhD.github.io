@@ -69,17 +69,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/is-georgia-moving-to-hand-marked-paper-ballots-for-elections/";
           
         },
-      },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly.md/";
-          
-        },
       },{id: "post-what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais",
         
           title: "“What does ChatGPT Know about Information Systems?” accepted for publication at the Communications...",
