@@ -2,9 +2,9 @@
 layout: post
 title: Is Georgia moving to hand-marked paper ballots for elections?
 date: 2025-03-27
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+#description: march & april, looking forward to summer
+#tags: formatting links
+categories: Analysis,Legislation
 ---
 
 The Georgia Assembly is considering a bill to return the state to hand-marked paper ballots as the default, with touchscreen voting devices available for people with disabilities.
