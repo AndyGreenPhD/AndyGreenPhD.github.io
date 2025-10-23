@@ -11,4 +11,4 @@ The study found that generative AI tools like ChatGPT performed well on actual e
 
 We recommend that academia look at ways to implement AI tools in the classroom so that students can be prepared for their use in the workplace, rather than prohibiting their use. It’s our job to ensure that students are well prepared when they graduate, and AI is just the latest innovation we must incorporate into our teaching.
 
-The article is available for download at https://aisel.aisnet.org/cais/vol56/iss1/19/
+The article is available for download at (https://aisel.aisnet.org/cais/vol56/iss1/19/)
