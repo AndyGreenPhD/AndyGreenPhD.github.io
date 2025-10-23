@@ -80,6 +80,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais",
+        
+          title: "“What does ChatGPT Know about Information Systems?” accepted for publication at the Communications...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
