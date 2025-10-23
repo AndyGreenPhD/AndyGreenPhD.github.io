@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "",
         section: "Posts",
         handler: () => {
           
