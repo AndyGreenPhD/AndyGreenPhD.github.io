@@ -15,10 +15,10 @@ I believe this is a very good move for the state, and I hope it passes next year
 
 hand-marked paper ballots are the safest and most secure way to ensure that a voter’s intent is counted as intended and provide a clean method for post-election audits (hopefully using the risk-limiting audit method).
 
-AJC reporting – https://www.ajc.com/politics/georgia-lawmakers-propose-switch-to-hand-marked-paper-ballots/WFF4W34YCJEBPNMIEPODCMFGWM/?fbclid=IwZXh0bgNhZW0CMTAAAR0nLbIt23T8h2y7zTCy_-SOTLIZABxbMmsspc3LJRRwz20Z8OZiEux1x5M_aem_3bzzfM47-eKz8LI78tmUeg
+AJC reporting – <https://www.ajc.com/politics/georgia-lawmakers-propose-switch-to-hand-marked-paper-ballots/WFF4W34YCJEBPNMIEPODCMFGWM/?fbclid=IwZXh0bgNhZW0CMTAAAR0nLbIt23T8h2y7zTCy_-SOTLIZABxbMmsspc3LJRRwz20Z8OZiEux1x5M_aem_3bzzfM47-eKz8LI78tmUeg>
 
-Senate Bill 214 text – https://www.legis.ga.gov/api/legislation/document/20252026/233014?fbclid=IwZXh0bgNhZW0CMTAAAR21Ov5iwZLFeefwyNWpl7o8Qz_o4tICq-Z7uinQ_avlkocS4dYUcc3Kw6U_aem_V2FpMdWycNEFdSkRxUeJCQ
+Senate Bill 214 text – <https://www.legis.ga.gov/api/legislation/document/20252026/233014?fbclid=IwZXh0bgNhZW0CMTAAAR21Ov5iwZLFeefwyNWpl7o8Qz_o4tICq-Z7uinQ_avlkocS4dYUcc3Kw6U_aem_V2FpMdWycNEFdSkRxUeJCQ>
 
-2018 National Academies of Sciences, Engineering, and Medicine study on election security – https://nap.nationalacademies.org/read/25120/chapter/1
+2018 National Academies of Sciences, Engineering, and Medicine study on election security – <https://nap.nationalacademies.org/read/25120/chapter/1>
 
-LinkedIn post from Dr. Wenke Lee on why he supports the use of hand-marked paper ballots – https://www.linkedin.com/pulse/why-computer-scientists-prefer-paper-ballots-wenke-lee/
+LinkedIn post from Dr. Wenke Lee on why he supports the use of hand-marked paper ballots – <https://www.linkedin.com/pulse/why-computer-scientists-prefer-paper-ballots-wenke-lee/>
