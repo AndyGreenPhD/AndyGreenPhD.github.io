@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 Andrew William (Andy) Green, Ph.D., is an Assistant Professor of Information Security and Assurance in the Information Systems Department, located in the Michael J. Coles College of Business at Kennesaw State University, Kennesaw, Georgia.  Andy currently serves as the program coordinator for the Information Security and Assurance undergraduate degree program, as well as the faculty advisor for the award-winning student-led KSU Offensive Security Research Club.
