@@ -77,7 +77,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/plotly.md/";
           
         },
       },{id: "post-what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais",
