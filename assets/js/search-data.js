@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
+        },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
         
