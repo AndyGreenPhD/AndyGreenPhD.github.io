@@ -1,38 +1,55 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
 "oliver":
   - firstname: ["DeJarvis", "DJ", "D.J."]
     url: https://scholar.google.com/citations?user=MBkDFTMAAAAJ&hl=en
+
+"o'leary":
+  - firstname: ["Daniel E.", "Dan E.", "Dan"]
+    url: https://www.marshall.usc.edu/personnel/daniel-edmund-oleary
+
+"storey":
+  - firstname: ["Veda"]
+  - url: https://robinson.gsu.edu/profile/veda-c-storey/
+
+"french":
+  - firstname: ["Aaron", "Aaron M."]
+  - url: https://www.linkedin.com/in/dr-french/
+
+"buckman":
+  - firstname: ["Joseph R."]
+  - url: https://robinson.gsu.edu/profile/joseph-buckman/
+
+"chua":
+  - firstname: ["Cecil"]
+  - url: https://works.bepress.com/cecil-chua/about/
+
+"gu":
+  - firstname: ["Grace"]
+  - url: https://www.graceyuangu.com/
+
+"niederman":
+  - firstname: ["Fred"]
+  - url: https://www.slu.edu/business/about/faculty/niederman-fred.php
+
+"pereira":
+  - firstname: ["Francis"]
+  - url: https://www.marshall.usc.edu/personnel/francis-pereira
+
+"templeton":
+  - firstname: ["Gary"]
+  - url: https://business.wvu.edu/faculty-and-staff/directory/profile?pid=3499
+
+"wallace":
+  - firstname: ["Linda"]
+  - url: https://acis.pamplin.vt.edu/directory/Wallace.html
+
+"woszczynski":
+  - firstname: ["Amy B.", "Amy", "A.B.", "Amy Burhalter"]
+  - url: https://scholar.google.com/citations?user=ONmOYEMAAAAJ&hl=en
+
+"saeed":
+  - firstname: ["Khawaja Asjad"]
+  - url: https://scholar.google.com/citations?user=tVCKFEEAAAAJ&hl=en
+
+"hedrick":
+  -firstname: ["Alison Brooke"]
+  -url: https://facultyweb.kennesaw.edu/ahedric1/index.php
