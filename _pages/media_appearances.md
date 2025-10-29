@@ -17,3 +17,17 @@ nav_order: 4
 **August 1, 2024** - [11 Alive TV interview about issues with the Georgia Secretary of State’s new voter registration cancellation website](https://www.11alive.com/video/news/politics/85-57d76a98-bbdb-4600-af86-191af836b91b)
 
 **July 23, 2024** - [11 Alive TV interview about Delta Airlines IT issues](https://www.11alive.com/article/travel/delta-pilot-cyber-security-expert-respond-ongoing-delta-issues-following-global-cyber-outage/85-f13ef356-c4d1-44e9-b961-a937c9c42454)
+
+**July 22, 2024** - [WSB TV interview about Crowdstrike outage](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTg5NDUwMSZNRFNlZWQ9ODI1MyZUeXBlPU1lZGlh)
+
+**July 20, 2024** - [WANF TV interview about Crowdstrike outage](https://www.atlantanewsfirst.com/2024/07/20/it-will-happen-again-information-security-expert-says-it-could-take-companies-weeks-recover-crowdstrike-outage/)
+
+**July 19, 2024** - [11 Alive interview about Crowdstrike outage](https://www.11alive.com/video/news/local/explanation-for-why-cyber-outage-happened-across-america/85-eea664a0-4602-4b67-8298-5bc0ef294675)
+
+**July 12, 2024** - [WSB TV interview about AT&T data breach](https://www.wsbtv.com/news/local/atlanta/millions-att-customers-exposed-data-breach-cyber-expert-talks-security-privacy/CPQBZKTZXRETXFSDHIH222OD3E/)
+
+**March 30, 2024** - [WXIA TV interview about AT&T data breach](https://www.11alive.com/article/tech/att-data-breach-impacts-millions-account-holders-dark-web/85-184feb31-e742-4435-8dd0-2e82d23ef4d3)
+
+**February 20, 2024** - [WSB TV interview about the Fulton County ransomware attack](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTA1NTYwNSZNRFNlZWQ9MzgzNSZUeXBlPU1lZGlh)
+
+**February 16, 2024** - [Neighborhood TV interview about the Fulton County ransomware attack](https://www.neighborhoodtv.com/vod/fulton-county-cyber-security-02-19-2024-atlanta.html)
