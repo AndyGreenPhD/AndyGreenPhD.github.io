@@ -47,12 +47,21 @@
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: January 2017 - August 2020
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Lecturer of Information Security and Assurance
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: June 2012 - August 2020
+
+    - title: Temporary Instructor
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: August 2011 - May 2012
+
+    - title: Temporary Instructor
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: January 2010 - August 2011
+
+    - title: Adjunct Instructor
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: August 2008 - December 2009
 
 - title: Honors and Awards
   type: time_table
