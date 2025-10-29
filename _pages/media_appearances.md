@@ -31,3 +31,19 @@ nav_order: 4
 **February 20, 2024** - [WSB TV interview about the Fulton County ransomware attack](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTA1NTYwNSZNRFNlZWQ9MzgzNSZUeXBlPU1lZGlh)
 
 **February 16, 2024** - [Neighborhood TV interview about the Fulton County ransomware attack](https://www.neighborhoodtv.com/vod/fulton-county-cyber-security-02-19-2024-atlanta.html)
+
+---
+
+# 2023
+
+**August 15, 2023** - [Quoted in an article about digital literacy for kids](https://conduitstreet.mdcounties.org/2023/08/09/florida-california-and-others-take-action-on-mandated-social-media-literacy-for-youth/)
+
+**August 8, 2023** - [Quoted in an article about digital literacy for kids](https://www.route-fifty.com/digital-government/2023/08/more-states-look-boost-kids-social-media-literacy/389195/)
+
+**June 20, 2023** - [Quoted in an article about digital literacy for kids](https://www.route-fifty.com/digital-government/2023/06/digital-literacy-not-bans-should-shape-social-media-guardrails/387985/)
+
+**May 16, 2023** - [Quoted in an article about Montana TikTok ban legislation](https://www.route-fifty.com/cybersecurity/2023/05/enforcement-questions-dog-states-proposed-tiktok-ban/386423/)
+
+**April 6, 2023** - [WXIA TV interview about Georgia Attorney General’s cybercrime investigation](https://www.11alive.com/article/news/crime/georgia-investigations-cybercriminals/85-7e334478-55fb-4578-8918-9d01b812a8fe)
+
+**March 20, 2023** - [WXIA TV interview about the US Government banning foreign apps](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
