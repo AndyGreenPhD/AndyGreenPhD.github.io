@@ -63,30 +63,17 @@
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: August 2008 - December 2009
 
-- title: Honors and Awards
+- title: Professional Positions
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Owner
+      institution: Strategic Security Consulting Services
+      year: March 2020 - Present
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Owner
+      institution: Green Consulting
+      year: March 2002 - March 2020
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Software Developer
+      institution: Medquist
+      year: September 1998 - March 2002
