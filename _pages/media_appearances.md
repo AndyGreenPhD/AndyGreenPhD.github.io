@@ -9,6 +9,11 @@ nav_order: 4
 
 # 2024
 
+**November 19, 2024** - WSB TV interview about Discord Security
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTEyMDA4MDgmTURJRD0yMjU4MzEwOSZNRFNlZWQ9NjU3NSZUeXBlPU1lZGlh" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+
 **October 17, 2024** - WSB TV interview about password fatigue
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/11.17.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -47,3 +52,9 @@ nav_order: 4
 **April 6, 2023** - [WXIA TV interview about Georgia Attorney General’s cybercrime investigation](https://www.11alive.com/article/news/crime/georgia-investigations-cybercriminals/85-7e334478-55fb-4578-8918-9d01b812a8fe)
 
 **March 20, 2023** - [WXIA TV interview about the US Government banning foreign apps](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
+
+---
+
+# 2022
+
+**December 12, 2022** - [WXIA TV interview about USPS text scams](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
