@@ -11,11 +11,17 @@ nav_order: 4
 
 **October 21, 2025** [WXIA TV "The Take" interview about Amazon AWS outage](https://www.11alive.com/video/news/11alive-news-the-take-amazon-tech-outage-inside-what-happened-102125/85-ce19e005-2d40-4ab3-aaa0-dd550ed8296f)
 
-**September 24, 2025** [WXIA TV "The Take" interview about SIM farm discovery in NYC](https://www.youtube.com/watch?v=FYMJME3gojQ)
+**September 24, 2025** WXIA TV "The Take" interview about SIM farm discovery in NYC
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=FYMJME3gojQ" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
 
 **June 19, 2025** [WXIA TV "The Take" interview about NBS News poll on AI use in American society](https://www.11alive.com/video/entertainment/television/programs/the-take/11alive-news-the-take/85-65d85ba9-8605-461b-ae84-f9ed6d46dece) (interview is approximately 31 minutes in)
 
-**May 3, 2025** [WXIA TV interview about Cobb County ransomware attack](https://www.youtube.com/watch?v=ZYS_lDJrhhc)
+**May 3, 2025** WXIA TV interview about Cobb County ransomware attack 
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=ZYS_lDJrhhc" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
 
 **March 26, 2025** - [Marietta Daily Journal interview about Cobb County data breach](https://www.newsbreak.com/marietta-daily-journal-561232/3872902771442-update-cobb-officials-still-looking-to-see-if-data-compromised-in-server-breach)
 
