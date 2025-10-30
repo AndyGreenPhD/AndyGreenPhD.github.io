@@ -7,6 +7,20 @@ nav: true
 nav_order: 4
 ---
 
+# 2025
+
+**October 21, 2025** [WXIA TV "The Take" interview about Amazon AWS outage](https://www.11alive.com/video/news/11alive-news-the-take-amazon-tech-outage-inside-what-happened-102125/85-ce19e005-2d40-4ab3-aaa0-dd550ed8296f)
+
+**September 24, 2025** [WXIA TV "The Take" interview about SIM farm discovery in NYC](https://www.youtube.com/watch?v=FYMJME3gojQ)
+
+**June 19, 2025** [WXIA TV "The Take" interview about NBS News poll on AI use in American society](https://www.11alive.com/video/entertainment/television/programs/the-take/11alive-news-the-take/85-65d85ba9-8605-461b-ae84-f9ed6d46dece) (interview is approximately 31 minutes in)
+
+**May 3, 2025** [WXIA TV interview about Cobb County ransomware attack](https://www.youtube.com/watch?v=ZYS_lDJrhhc)
+
+**March 26, 2025** - [Marietta Daily Journal interview about Cobb County data breach](https://www.newsbreak.com/marietta-daily-journal-561232/3872902771442-update-cobb-officials-still-looking-to-see-if-data-compromised-in-server-breach)
+
+---
+
 # 2024
 
 **November 19, 2024** - WSB TV interview about Discord Security
@@ -19,15 +33,15 @@ nav_order: 4
         {% include video.liquid path="assets/video/11.17.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 </div>
 
-**August 1, 2024** - [11 Alive TV interview about issues with the Georgia Secretary of State’s new voter registration cancellation website](https://www.11alive.com/video/news/politics/85-57d76a98-bbdb-4600-af86-191af836b91b)
+**August 1, 2024** - [WXIA TV interview about issues with the Georgia Secretary of State’s new voter registration cancellation website](https://www.11alive.com/video/news/politics/85-57d76a98-bbdb-4600-af86-191af836b91b)
 
-**July 23, 2024** - [11 Alive TV interview about Delta Airlines IT issues](https://www.11alive.com/article/travel/delta-pilot-cyber-security-expert-respond-ongoing-delta-issues-following-global-cyber-outage/85-f13ef356-c4d1-44e9-b961-a937c9c42454)
+**July 23, 2024** - [WXIA TV interview about Delta Airlines IT issues](https://www.11alive.com/article/travel/delta-pilot-cyber-security-expert-respond-ongoing-delta-issues-following-global-cyber-outage/85-f13ef356-c4d1-44e9-b961-a937c9c42454)
 
 **July 22, 2024** - [WSB TV interview about Crowdstrike outage](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTg5NDUwMSZNRFNlZWQ9ODI1MyZUeXBlPU1lZGlh)
 
 **July 20, 2024** - [WANF TV interview about Crowdstrike outage](https://www.atlantanewsfirst.com/2024/07/20/it-will-happen-again-information-security-expert-says-it-could-take-companies-weeks-recover-crowdstrike-outage/)
 
-**July 19, 2024** - [11 Alive interview about Crowdstrike outage](https://www.11alive.com/video/news/local/explanation-for-why-cyber-outage-happened-across-america/85-eea664a0-4602-4b67-8298-5bc0ef294675)
+**July 19, 2024** - [WXIA TV interview about Crowdstrike outage](https://www.11alive.com/video/news/local/explanation-for-why-cyber-outage-happened-across-america/85-eea664a0-4602-4b67-8298-5bc0ef294675)
 
 **July 12, 2024** - [WSB TV interview about AT&T data breach](https://www.wsbtv.com/news/local/atlanta/millions-att-customers-exposed-data-breach-cyber-expert-talks-security-privacy/CPQBZKTZXRETXFSDHIH222OD3E/)
 
