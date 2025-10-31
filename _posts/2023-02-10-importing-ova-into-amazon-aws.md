@@ -23,7 +23,7 @@ CAVEAT – This process was successfully tested using an OVA. I do not know how 
 4. Edit the Url value in the import.json file and paste the S3 URL value.
 5. Edit the Description value in the import.json file and provide an appropriate description.
 6. Open a command prompt and navigate to the directory where you saved the import.json file
-7. Run the command aws ec2 import-image --description "ENTER VALUE HERE" --disk-containers "file://import.json”
+7. Run the command ***aws ec2 import-image --description "ENTER VALUE HERE" --disk-containers "file://import.json”***
 - description is a text value used to describe the import task.
 - file:// points to the location of the saved import.json file. If you did not navigate to the directory where the file is located, you will need to specify the full path here.
 8. The import process will take a few minutes. Use the aws ec2 describe-import-image-tasks command to monitor import progress
@@ -49,6 +49,6 @@ CAVEAT – This process was successfully tested using an OVA. I do not know how 
 
 ## References
 
-- https://docs.aws.amazon.com/vm-import/latest/userguide/vmimport-image-import.html
-- https://aws.amazon.com/ec2/vm-import/
-- https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html
+- (https://docs.aws.amazon.com/vm-import/latest/userguide/vmimport-image-import.html)
+- (https://aws.amazon.com/ec2/vm-import/)
+- (https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
