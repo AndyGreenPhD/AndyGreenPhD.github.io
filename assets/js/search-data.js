@@ -70,6 +70,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-&-security/";
           
         },
+      },{id: "post-importing-ova-into-amazon-aws-quot",
+        
+          title: "“Importing OVA into Amazon AWS&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/importing-ova-into-amazon-aws/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
