@@ -59,7 +59,7 @@
     url: https://scholar.google.com/citations?hl=en&user=bpnyRNUAAAAJ
 
 "mattord":
-  - firstname: ["Herbert J.", "Herb J.", "Herb"]
+  - firstname: ["Herbert J.", "Herb J.", "Herb", "Herbert"]
     url: https://scholar.google.com/citations?user=SzrU9W0AAAAJ&hl=en
 
 "dodson":
@@ -69,3 +69,7 @@
 "easton":
   - firstname: ["Peter"]
     url: https://www.linkedin.com/in/peter-easton-12878080/
+
+"zafar":
+  - firstname: ["Humayun"]
+    url: https://scholar.google.com/citations?hl=en&user=P9HU-YIAAAAJ
