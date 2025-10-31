@@ -81,6 +81,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/importing-ova-into-amazon-aws/";
           
         },
+      },{id: "post-converting-vm-images-to-docker-containers-quot",
+        
+          title: "“Converting VM images to Docker containers&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/converting-vm-images-to-docker-containers/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
