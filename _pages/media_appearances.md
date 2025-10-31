@@ -26,7 +26,7 @@ nav_order: 4
 **November 19, 2024** - WSB TV interview about Discord Security
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTEyMDA4MDgmTURJRD0yMjU4MzEwOSZNRFNlZWQ9NjU3NSZUeXBlPU1lZGlh" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/11.19.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 </div>
 </div>
 
