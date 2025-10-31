@@ -305,7 +305,7 @@ scholar:
   group_by: year, type
   group_order: descending
 
-  type_names: {conference: Conference}
+  type_names: {conference: Conferences, textbook: Textbooks}
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
