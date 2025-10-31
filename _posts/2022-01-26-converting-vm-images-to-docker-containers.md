@@ -46,4 +46,23 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
 15. Success! My container is now up and running, and I can move around as needed within the environment.
 
 
+![directory listing output](assets/img/2022-01-26-directory.png)
+*Directory listing from inside my container*
+
+You can also look at the state of the image and container by using Docker Desktop:
+
+![docker desktop image](assets/img/2022-01-26-docker-desktop.png)
+*Output from the "Images" tab inside Docker Desktop*
+
+![docker container image](assets/img/2022-01-26-docker-desktop-container.png)
+*Output from the “Containers/Apps” tab inside Docker Desktop showing a running container*
+
+You can stop the container inside Docker Desktop by hovering over the container name and clicking the “stop” button, or you can use the `docker stop <container_name>` command. In my case, I typed `docker stop xenodochial_darwin`
+
+![docker stop image](img/2022-01-26-docker-stop.png)
+*Output from docker stop command*
+
+The output of the container name after running the command is confirmation that the container has stopped running. You can also verify the container’s state in Docker Desktop as well.
+
+
 
