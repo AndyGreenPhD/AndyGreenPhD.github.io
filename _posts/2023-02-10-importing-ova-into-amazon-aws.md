@@ -49,6 +49,6 @@ CAVEAT – This process was successfully tested using an OVA. I do not know how 
 
 ## References
 
-- [https://docs.aws.amazon.com/vm-import/latest/userguide/vmimport-image-import.html]
-- [https://aws.amazon.com/ec2/vm-import/]
-- [https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html]
+- <https://docs.aws.amazon.com/vm-import/latest/userguide/vmimport-image-import.html>
+- <https://aws.amazon.com/ec2/vm-import/>
+- <https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html>
