@@ -25,9 +25,14 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
 6. Now you’re ready to convert the VMDK to a raw file. The syntax is `qemu-img convert -O raw <source VMDK file> <destination>`. In my case, I typed `qemu-img convert-O raw image.vdmk container/image.raw` (WARNING – This conversion process can take a while, depending on VMDK size)
 7. Once the conversion process is complete, you need to look at the partition table on the new RAW file in order to get details necessary to mount the file for further use. I typed `parted -s container/image.raw unit b print` to get the data I needed in order to mount the partition. Below is my output – yours may vary. The important thing to pick up is the value in the “Start” column for the boot sector. In my case, it was **1045876**
 
-![parted command output](/assets/img/2022-01-26-parted.png)
-
-*Sample output from the parted command*
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-parted.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sample output from the parted command
+</div>
 
 8. Next, I had to mount the partition for use. I created a mount point by `typing mkdir /mnt/container`
 9. Next, I mounted the RAW file by typing `mount -o loop,ro,offset=1045876 container/image.raw /mnt/container`
@@ -48,15 +53,6 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
 14. Now you can start a new container from your docker image by typing `docker run -i -t <image id> <commands>`. Since this is a Linux-based image, I needed to launch the bash shell on startup. In my case, I typed `docker run -i -t 891dcfcad752 /bin/bash`
 15. Success! My container is now up and running, and I can move around as needed within the environment.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-directory.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Directory listing from inside my container
-</div>
- 
 ![directory listing output](/assets/img/2022-01-26-directory.png)
 
 *Directory listing from inside my container*
