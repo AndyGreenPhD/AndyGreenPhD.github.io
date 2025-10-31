@@ -26,6 +26,7 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
 7. Once the conversion process is complete, you need to look at the partition table on the new RAW file in order to get details necessary to mount the file for further use. I typed `parted -s container/image.raw unit b print` to get the data I needed in order to mount the partition. Below is my output – yours may vary. The important thing to pick up is the value in the “Start” column for the boot sector. In my case, it was **1045876**
 
 ![parted command output](/assets/img/2022-01-26-parted.png)
+
 *Sample output from the parted command*
 
 8. Next, I had to mount the partition for use. I created a mount point by `typing mkdir /mnt/container`
@@ -33,6 +34,7 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
 10. Next, I verified a successful mount by typing `ls /mnt/container`
 
 ![ls command output](/assets/img/2022-01-26-ls-output.png)
+
 *Sample output from the ls command*
 
 11. Now that we have access to the file system of the VM, we need to put the entire partition in a tarball. I did this by typing `tar -C /mnt/container -czf image.tar.gz container/.` (WARNING – this may take a while, depending on partition size)
@@ -40,6 +42,7 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
 13. Once the import process completes, type `docker images` to get details on your new Docker image that you’ll need to launch a new container.
 
 ![docker images command output](/assets/img/2022-01-26-docker-images.png)
+
 *Sample output from the docker images command*
 
 14. Now you can start a new container from your docker image by typing `docker run -i -t <image id> <commands>`. Since this is a Linux-based image, I needed to launch the bash shell on startup. In my case, I typed `docker run -i -t 891dcfcad752 /bin/bash`
@@ -54,21 +57,24 @@ My current environment is a Win10 Enterprise System with WSL and Ubuntu app inst
     Directory listing from inside my container
 </div>
  
-
 ![directory listing output](/assets/img/2022-01-26-directory.png)
+
 *Directory listing from inside my container*
 
 You can also look at the state of the image and container by using Docker Desktop:
 
 ![docker desktop image](/assets/img/2022-01-26-docker-desktop.png)
+
 *Output from the "Images" tab inside Docker Desktop*
 
 ![docker container image](/assets/img/2022-01-26-docker-desktop-container.png)
+
 *Output from the “Containers/Apps” tab inside Docker Desktop showing a running container*
 
 You can stop the container inside Docker Desktop by hovering over the container name and clicking the “stop” button, or you can use the `docker stop <container_name>` command. In my case, I typed `docker stop xenodochial_darwin`
 
 ![docker stop image](/assets/img/2022-01-26-docker-stop.png)
+
 *Output from docker stop command*
 
 The output of the container name after running the command is confirmation that the container has stopped running. You can also verify the container’s state in Docker Desktop as well.
