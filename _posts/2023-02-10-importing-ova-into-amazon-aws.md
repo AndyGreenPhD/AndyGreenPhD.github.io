@@ -2,7 +2,7 @@
 layout: post
 title: “Importing OVA into Amazon AWS"
 date: 2023-02-10
-categories: Academia, Research
+categories: Tips, Research
 ---
 
 While working on a project, I needed to be able to import OVAs into my Amazon AWS account for use in various ways.
