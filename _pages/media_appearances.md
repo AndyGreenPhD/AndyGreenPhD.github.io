@@ -29,8 +29,10 @@ nav_order: 4
     </div>
 
 **October 17, 2024** - WSB TV interview about password fatigue
+<div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/11.17.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
 </div>
 
 **August 1, 2024** - [WXIA TV interview about issues with the Georgia Secretary of State’s new voter registration cancellation website](https://www.11alive.com/video/news/politics/85-57d76a98-bbdb-4600-af86-191af836b91b)
