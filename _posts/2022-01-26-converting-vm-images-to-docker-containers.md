@@ -17,63 +17,104 @@ These instructions were pieced together from the following sources:
 
 My current environment is a Win10 Enterprise System with WSL and Ubuntu app installed.
 
-1. Open your Ubuntu app and jump into root by typing `su root`
-2. Fully update Ubuntu by typing `apt-get update && apt-get upgrade`
-3. We will use qemu-img to convert the existing VM VDMK file to a RAW file for Docker use. Install qemu-img by typing `apt-get install qemu-utils` and accept all prompts
-4. Ubuntu automatically maps the Windows C partition for access. My VMs are in separate folders in the Windows partition located in c:\agreen\VMs To access that folder, I typed `cd /mnt/c/agreen\VMs` (NOTE: you will need to use the directory name on your system where you have your VMs stored)
-5. Next, you need to convert your existing VMDK to a raw file for further use. Prior to beginning the conversion process, I created a directory named container under the specific VM folder of the image I’m converting. I’ll use this folder to hold my conversion work product.
-6. Now you’re ready to convert the VMDK to a raw file. The syntax is `qemu-img convert -O raw <source VMDK file> <destination>`. In my case, I typed `qemu-img convert-O raw image.vdmk container/image.raw` (WARNING – This conversion process can take a while, depending on VMDK size)
-7. Once the conversion process is complete, you need to look at the partition table on the new RAW file in order to get details necessary to mount the file for further use. I typed `parted -s container/image.raw unit b print` to get the data I needed in order to mount the partition. Below is my output – yours may vary. The important thing to pick up is the value in the “Start” column for the boot sector. In my case, it was **1045876**
+- Open your Ubuntu app and jump into root by typing `su root`
+- Fully update Ubuntu by typing `apt-get update && apt-get upgrade`
+- We will use qemu-img to convert the existing VM VDMK file to a RAW file for Docker use. Install qemu-img by typing `apt-get install qemu-utils` and accept all prompts
+- Ubuntu automatically maps the Windows C partition for access. My VMs are in separate folders in the Windows partition located in c:\agreen\VMs To access that folder, I typed `cd /mnt/c/agreen\VMs` (NOTE: you will need to use the directory name on your system where you have your VMs stored)
+- Next, you need to convert your existing VMDK to a raw file for further use. Prior to beginning the conversion process, I created a directory named container under the specific VM folder of the image I’m converting. I’ll use this folder to hold my conversion work product.
+- Now you’re ready to convert the VMDK to a raw file. The syntax is `qemu-img convert -O raw <source VMDK file> <destination>`. In my case, I typed `qemu-img convert-O raw image.vdmk container/image.raw` (WARNING – This conversion process can take a while, depending on VMDK size)
+- Once the conversion process is complete, you need to look at the partition table on the new RAW file in order to get details necessary to mount the file for further use. I typed `parted -s container/image.raw unit b print` to get the data I needed in order to mount the partition. Below is my output – yours may vary. The important thing to pick up is the value in the “Start” column for the boot sector. In my case, it was **1045876**
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-parted.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-parted.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Sample output from the parted command
 </div>
 
-8. Next, I had to mount the partition for use. I created a mount point by `typing mkdir /mnt/container`
-9. Next, I mounted the RAW file by typing `mount -o loop,ro,offset=1045876 container/image.raw /mnt/container`
-10. Next, I verified a successful mount by typing `ls /mnt/container`
+- Next, I had to mount the partition for use. I created a mount point by `typing mkdir /mnt/container`
+- Next, I mounted the RAW file by typing `mount -o loop,ro,offset=1045876 container/image.raw /mnt/container`
+- Next, I verified a successful mount by typing `ls /mnt/container`
 
-![ls command output](/assets/img/2022-01-26-ls-output.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-ls-output.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Sample output from the ls command
+</div>
 
-*Sample output from the ls command*
+- Now that we have access to the file system of the VM, we need to put the entire partition in a tarball. I did this by typing `tar -C /mnt/container -czf image.tar.gz container/.` (WARNING – this may take a while, depending on partition size)
+- Now that we have the tarball, it’s time to import it into Docker. Ensure Docker is running on your system, then open a PowerShell terminal in Administrator mode and navigate to the container folder that has the tarball. The syntax to import the tarball into Docker is `docker import <filename> <repository>:<tag>`. In my case, I typed `docker import image.tar.gz demotest:1.0` (WARNING – this may take a while, depending on tarball size)
+- Once the import process completes, type `docker images` to get details on your new Docker image that you’ll need to launch a new container.
 
-11. Now that we have access to the file system of the VM, we need to put the entire partition in a tarball. I did this by typing `tar -C /mnt/container -czf image.tar.gz container/.` (WARNING – this may take a while, depending on partition size)
-12. Now that we have the tarball, it’s time to import it into Docker. Ensure Docker is running on your system, then open a PowerShell terminal in Administrator mode and navigate to the container folder that has the tarball. The syntax to import the tarball into Docker is `docker import <filename> <repository>:<tag>`. In my case, I typed `docker import image.tar.gz demotest:1.0` (WARNING – this may take a while, depending on tarball size)
-13. Once the import process completes, type `docker images` to get details on your new Docker image that you’ll need to launch a new container.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-docker-images.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Sample output from the docker images command
+</div>
 
-![docker images command output](/assets/img/2022-01-26-docker-images.png)
+- Now you can start a new container from your docker image by typing `docker run -i -t <image id> <commands>`. Since this is a Linux-based image, I needed to launch the bash shell on startup. In my case, I typed `docker run -i -t 891dcfcad752 /bin/bash`
+- Success! My container is now up and running, and I can move around as needed within the environment.
 
-*Sample output from the docker images command*
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-directory.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Directory listing from inside my container
+</div>
 
-14. Now you can start a new container from your docker image by typing `docker run -i -t <image id> <commands>`. Since this is a Linux-based image, I needed to launch the bash shell on startup. In my case, I typed `docker run -i -t 891dcfcad752 /bin/bash`
-15. Success! My container is now up and running, and I can move around as needed within the environment.
-
-![directory listing output](/assets/img/2022-01-26-directory.png)
-
-*Directory listing from inside my container*
 
 You can also look at the state of the image and container by using Docker Desktop:
 
-![docker desktop image](/assets/img/2022-01-26-docker-desktop.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-docker-desktop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Output from the "Images" tab inside Docker Desktop
+</div>
 
-*Output from the "Images" tab inside Docker Desktop*
-
-![docker container image](/assets/img/2022-01-26-docker-desktop-container.png)
-
-*Output from the “Containers/Apps” tab inside Docker Desktop showing a running container*
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-docker-desktop-container.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Output from the “Containers/Apps” tab inside Docker Desktop showing a running container
+</div>
 
 You can stop the container inside Docker Desktop by hovering over the container name and clicking the “stop” button, or you can use the `docker stop <container_name>` command. In my case, I typed `docker stop xenodochial_darwin`
 
-![docker stop image](/assets/img/2022-01-26-docker-stop.png)
-
-*Output from docker stop command*
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-docker-stop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Output from docker stop command
+</div>
 
 The output of the container name after running the command is confirmation that the container has stopped running. You can also verify the container’s state in Docker Desktop as well.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022-01-26-docker-container-stopped.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Output from the “Containers/Apps” tab inside Docker Desktop showing a stopped container
+</div>
+
+That’s it! We now have a VM image converted into a fully functional Docker container.
 
 
