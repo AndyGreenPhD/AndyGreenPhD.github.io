@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/is-georgia-moving-to-hand-marked-paper-ballots-for-elections/";
+            window.location.href = "/blog/2025/03/27/is-georgia-moving-to-hand-marked-paper-ballots-for-elections/";
           
         },
       },{id: "post-what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais",
@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais/";
+            window.location.href = "/blog/2025/03/26/what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais/";
           
         },
       },{id: "post-to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-amp-security",
@@ -67,7 +67,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-&-security/";
+            window.location.href = "/blog/2024/04/27/to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-&-security/";
           
         },
       },{id: "post-importing-ova-into-amazon-aws-quot",
@@ -78,7 +78,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/importing-ova-into-amazon-aws/";
+            window.location.href = "/blog/2023/02/10/importing-ova-into-amazon-aws/";
           
         },
       },{id: "post-converting-vm-images-to-docker-containers-quot",
@@ -89,7 +89,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/converting-vm-images-to-docker-containers/";
+            window.location.href = "/blog/2022/01/26/converting-vm-images-to-docker-containers/";
           
         },
       },{id: "post-a-quick-analysis-of-georgia-hb-134-and-hb-156-quot",
@@ -100,7 +100,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/a-quick-analysis-of-georgia-hb-134-and-hb-156/";
+            window.location.href = "/blog/2021/04/28/a-quick-analysis-of-georgia-hb-134-and-hb-156/";
           
         },
       },{id: "books-the-godfather",
