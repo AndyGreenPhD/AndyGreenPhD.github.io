@@ -104,7 +104,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-#blog_description: Thoughts about Cybersecurity, Privacy, Public Policy, Academia, and other things... # blog_description will be displayed below the blog_name
+blog_description: Thoughts about Cybersecurity, Privacy, Public Policy, Academia, and other things... # blog_description will be displayed below the blog_name
 permalink: /blog/:year/:month/:day/:title/ # alternative permalink structure
 lsi: false # produce an index for related posts
 
