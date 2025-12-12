@@ -9,7 +9,7 @@ During the 2021 legislative session, the Georgia Assembly passed two bills relat
 
 ---
 
-HB 134 <https://www.legis.ga.gov/legislation/59005> is sitting on Governor Kemp’s desk and has not yet been signed into law. The bill is designed to carve out exemptions from open meeting requirements and public records requests related to cybersecurity contracting and planning. Specifically, HB 134 amends subsection (b) of Chapter 14 of Title 50 of the Official Code of Georgia Annotated (OCGA) (Code SEction 50-14-3) by adding a new section 5, which reads as follows:
+HB 134 (<https://www.legis.ga.gov/legislation/59005>) is sitting on Governor Kemp’s desk and has not yet been signed into law. The bill is designed to carve out exemptions from open meeting requirements and public records requests related to cybersecurity contracting and planning. Specifically, HB 134 amends subsection (b) of Chapter 14 of Title 50 of the Official Code of Georgia Annotated (OCGA) (Code SEction 50-14-3) by adding a new section 5, which reads as follows:
 
 > *Meetings when discussing or deliberating upon cybersecurity plans, procedures, and contracts regarding the provision of cybersecurity services. No vote in executive session to enter into a cybersecurity contract shall be binding on an agency until a subsequent vote is taken in an open meeting where the identity of the contractor and the terms of the agreement that are not subject to paragraph (25) of subsection (a) of Code Section 50-18-72 are disclosed before the vote.*
 
@@ -25,7 +25,7 @@ I believe Governor Kemp should veto this bill, and that he should ask the Georgi
 
 ---
 
-Governor Kemp signed HB 156 <https://www.legis.ga.gov/legislation/59069> into law on March 25th and went into immediate effect.
+Governor Kemp signed HB 156 (<https://www.legis.ga.gov/legislation/59069>) into law on March 25th and went into immediate effect.
 
 HB 156 added two new code sections to the OCGA (38-3-22.2 and 38-3-22.3), but it’s section 38-3-22-2 that is problematic. This new code section requires government agencies and utilities to:
 
