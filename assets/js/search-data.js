@@ -114,6 +114,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/12/15/quick-thoughts-about-the-solarwinds-breach/";
           
         },
+      },{id: "post-2020-election-rumors-and-facts-my-analysis-quot",
+        
+          title: "“2020 Election rumors and facts – my analysis&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/0202/11/08/2020-election-rumors-and-facts-my-analysis/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
