@@ -103,6 +103,17 @@ ninja.data = [{
             window.location.href = "/blog/2021/04/28/a-quick-analysis-of-georgia-hb-134-and-hb-156/";
           
         },
+      },{id: "post-quick-thoughts-about-the-solarwinds-breach-quot",
+        
+          title: "“Quick thoughts about the SolarWinds breach&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/12/15/quick-thoughts-about-the-solarwinds-breach/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
