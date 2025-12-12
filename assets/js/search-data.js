@@ -92,6 +92,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/converting-vm-images-to-docker-containers/";
           
         },
+      },{id: "post-a-quick-analysis-of-georgia-hb-134-and-hb-156-quot",
+        
+          title: "“A quick analysis of Georgia HB 134 and HB 156&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/a-quick-analysis-of-georgia-hb-134-and-hb-156/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
