@@ -105,7 +105,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_description: My blog
-permalink: /blog/:year/:title/
+#permalink: /blog/:year/:title/
+permalink: /blog/:year/:month/:day/:title/ # alternative permalink structure
 lsi: false # produce an index for related posts
 
 # Pagination
