@@ -2,7 +2,13 @@
 layout: post
 title: “Converting VM images to Docker containers"
 date: 2022-01-26
-categories: Research
+categories: Research, Tips
+tags:
+    - Container
+    - Docker
+    - Ubuntu
+    - Virtual machine
+    - VM
 ---
 
 I’m starting to experiment with Docker containers. From a pedagogical perspective, I see lots of opportunities to quickly and easily script environments to support hands-on lab objectives for my students. Being able to create a series of images, push them to a public Docker repo, and then store a Docker compose script in a Github repo for students to access and run as needed just seems like the way to go. Students can choose to run the lab environment locally, or they can stand up a cloud-based VM in AWS, Azure, Digital Ocean, Linode… you get the idea.
