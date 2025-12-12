@@ -4,6 +4,10 @@ title: “Quick thoughts about the SolarWinds breach"
 date: 2020-12-15 # date of publication
 categories: 
     - Analysis
+tags:
+    - Breach
+    - CISA
+    - Supply chain attack
 ---
 
 Over the weekend, SolarWinds announced a significant breach.  SolarWinds is a suite of tools that allows firms to manage and monitor their systems and networks.  SolarWinds says it provides services to:
