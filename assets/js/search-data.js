@@ -122,7 +122,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/0202/11/08/2020-election-rumors-and-facts-my-analysis/";
+            window.location.href = "/blog/2020/11/08/2020-election-rumors-and-facts-my-analysis/";
           
         },
       },{id: "books-the-godfather",
