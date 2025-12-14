@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How to \“hack the vote\” – Georgia style"
+title: How to “hack the vote” – Georgia style
 date: 2020-10-17 # date of publication
 categories: 
     - Analysis
