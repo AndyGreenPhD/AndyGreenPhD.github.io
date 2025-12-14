@@ -169,6 +169,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/09/01/no-michigan-voter-registration-data-wasnt-hacked/";
           
         },
+      },{id: "post-practical-student-tips-for-online-real-time-class-attendance",
+        
+          title: "Practical student tips for online, real-time class attendance",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/08/12/practical-student-tips-for-online-real-time-class-attendance/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
