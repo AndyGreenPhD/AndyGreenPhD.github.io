@@ -22,4 +22,4 @@ tags:
 
 I recently participated as a speaker for Kennesaw State University’s Cybersecurity Awareness Day program (<https://cybersecurity.kennesaw.edu/docs/csa-day-oct-6-2020.pdf>). My topic was security, privacy, and public policy issues related to Higher Education usage of contact tracing apps.
 
-I’ve posted my slide deck as a PDF ![here]</assets/pdf/2020-10-06-covid-19-tracing-apps-security-privacy-and-public-policy-issues-for-higher-education.pdf>, in case anyone is interested in seeing them.
+I’ve posted my slide deck as a PDF ![here](/assets/pdf/2020-10-06-covid-19-tracing-apps-security-privacy-and-public-policy-issues-for-higher-education.pdf), in case anyone is interested in seeing them.
