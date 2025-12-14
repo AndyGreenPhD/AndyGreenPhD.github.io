@@ -33,3 +33,44 @@ Any Georgia citizen can request an absentee ballot be mailed to them by using a 
 
 ![Image of a screen](/assets/img/2020-10-17-1.png)
 
+After the website locates your record, you will be taken to the page that allows you to make the actual ballot request.  On this page, you can request that your ballot be mailed to the permanent address on file or to a temporary address in case you are away and unable to get your mail at your permanent address.  You will also be asked to provide contact details in case elections officials need to reach you.  Next, you will be given the option to request automatic mailing of absentee ballots for future elections if you fall into one of the listed categories.  Finally, you click the affirmation box and then click the “SUBMIT” button to make your request.  The page looks similar to this:
+
+![Image of a screen](/assets/img/2020-10-17-2.png)
+
+Success!  You have now requested your absentee ballot to be mailed to you!  But, how do you know that the request is being acted on, and what’s happening with it?
+
+## Step two – Create an account on the Georgia Ballottrax website
+
+The Georgia Secretary of State’s office has partnered with BallotTrax, an absentee ballot tracking website, to provide voters details on their absentee ballot status.  Voters can create an account on the website and receive status updates on their ballot.  The URL is https://georgia.ballottrax.net
+
+To begin the process, supply the details asked for on the front page (name, DOB, Zip Code).  NOTE:  This will only work if a voter has completed step one and submitted their absentee ballot request.  The page will look similar to this:
+
+![Image of a screen](/assets/img/2020-10-17-3.png)
+
+On your first visit to the site, you will be given the option to “opt-in” to receive update notifications via email and SMS.  I chose the email option and received an initial email almost immediately:
+
+Additionally, the BallotTrax website will show you the status of your ballot request.  It will look similar to this:
+
+![Image of a screen](/assets/img/2020-10-17-4.png)
+
+Additionally, the BallotTrax website will show the voter the status of their ballot request.  It will look similar to this:
+
+![Image of a screen](/assets/img/2020-10-17-5.png)
+
+Notice the section that my ballot has been accepted is greyed out, indicating my ballot has not yet been received and accepted by my county elections officials.  This is accurate, as I have not yet submitted my ballot.  Now voters know the status of their absentee ballot request!
+
+## Step three – Hand-deliver your absentee ballot to your county election officials.
+
+County election officials are offering secure ballot drop-off locations.  Voters can choose to deliver in-person during office hours or take advantage of after-hours secure ballot drop boxes.  These locations vary by county, so voters will need to contact their county election office to get the location details.  Voters can find the contact details for their county election office by visiting https://georgia.gov/locate-county-registrars-office
+
+Once voters have dropped their ballot off, they can use the BallotTrax website to monitor its status or wait for a notification email or SMS message if they chose either of those options. Voters can update their notification preferences in the Ballottrax website at any time.
+
+If the ballot status does not change to “Accepted” seven days after the voter delivers it to the county election office, contact county election officials to follow up.
+
+## Step four – Sit back and wait
+
+And that’s it! Georgia voters who follow these steps can “hack the vote” safely, securely, and with oversight of the process from start to finish!
+
+No waiting in line, no worrying about physical distancing, no worrying about electronic voting systems failing mid-vote, no worrying about whether the QR code on your in-person voting ballot actually represents your intent as a voter.
+
+Now, sit back and wait for county election officials to count the votes and certify the results. This will take time, so don’t freak out if we don’t have final results on election night. Or the next day, or the day after that. Counting absentee ballots will take time, and most county election offices are understaffed. Additionally, Georgia prohibits the counting of absentee ballots before election day. County election officials may pre-process and verify absentee ballots to prepare them for counting before election day. Still, they may not begin the tabulation process until 7 am on election day.
