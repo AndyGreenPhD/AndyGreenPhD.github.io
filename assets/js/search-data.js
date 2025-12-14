@@ -180,6 +180,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/08/12/practical-student-tips-for-online-real-time-class-attendance/";
           
         },
+      },{id: "post-practical-zoom-meeting-security-tips",
+        
+          title: "Practical Zoom meeting security tips",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/04/01/practical-zoom-meeting-security-tips/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
