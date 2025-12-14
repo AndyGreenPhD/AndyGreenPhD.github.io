@@ -8,5 +8,5 @@ categories:
 tags: 
     - tag 1
     - tag 2
-excerpt: "A brief summary or excerpt of the blog post goes here."
+#excerpt: "A brief summary or excerpt of the blog post goes here."
 ---
