@@ -50,7 +50,7 @@ ninja.data = [{
         },
       },{id: "post-what-does-chatgpt-know-about-information-systems-accepted-for-publication-at-the-communications-of-the-ais",
         
-          title: "“What does ChatGPT Know about Information Systems?” accepted for publication at the Communications...",
+          title: "What does ChatGPT Know about Information Systems?” accepted for publication at the Communications...",
         
         description: "",
         section: "Posts",
@@ -61,7 +61,7 @@ ninja.data = [{
         },
       },{id: "post-to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-amp-security",
         
-          title: "“To report or not to report? Extending Protection Motivation Theory to Vulnerability Discovery...",
+          title: "To report or not to report? Extending Protection Motivation Theory to Vulnerability Discovery...",
         
         description: "",
         section: "Posts",
@@ -70,9 +70,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/04/27/to-report-or-not-to-report-extending-protection-motivation-theory-to-vulnerability-discovery-and-disclosure-accepted-for-publication-at-computers-&-security/";
           
         },
-      },{id: "post-importing-ova-into-amazon-aws-quot",
+      },{id: "post-importing-ova-into-amazon-aws",
         
-          title: "“Importing OVA into Amazon AWS&quot;",
+          title: "Importing OVA into Amazon AWS",
         
         description: "",
         section: "Posts",
@@ -81,9 +81,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/02/10/importing-ova-into-amazon-aws/";
           
         },
-      },{id: "post-converting-vm-images-to-docker-containers-quot",
+      },{id: "post-converting-vm-images-to-docker-containers",
         
-          title: "“Converting VM images to Docker containers&quot;",
+          title: "Converting VM images to Docker containers",
         
         description: "",
         section: "Posts",
@@ -92,9 +92,9 @@ ninja.data = [{
             window.location.href = "/blog/2022/01/26/converting-vm-images-to-docker-containers/";
           
         },
-      },{id: "post-a-quick-analysis-of-georgia-hb-134-and-hb-156-quot",
+      },{id: "post-a-quick-analysis-of-georgia-hb-134-and-hb-156",
         
-          title: "“A quick analysis of Georgia HB 134 and HB 156&quot;",
+          title: "A quick analysis of Georgia HB 134 and HB 156",
         
         description: "",
         section: "Posts",
@@ -103,9 +103,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/04/28/a-quick-analysis-of-georgia-hb-134-and-hb-156/";
           
         },
-      },{id: "post-quick-thoughts-about-the-solarwinds-breach-quot",
+      },{id: "post-quick-thoughts-about-the-solarwinds-breach",
         
-          title: "“Quick thoughts about the SolarWinds breach&quot;",
+          title: "Quick thoughts about the SolarWinds breach",
         
         description: "",
         section: "Posts",
@@ -114,9 +114,9 @@ ninja.data = [{
             window.location.href = "/blog/2020/12/15/quick-thoughts-about-the-solarwinds-breach/";
           
         },
-      },{id: "post-2020-election-rumors-and-facts-my-analysis-quot",
+      },{id: "post-2020-election-rumors-and-facts-my-analysis",
         
-          title: "“2020 Election rumors and facts – my analysis&quot;",
+          title: "2020 Election rumors and facts – my analysis",
         
         description: "",
         section: "Posts",
