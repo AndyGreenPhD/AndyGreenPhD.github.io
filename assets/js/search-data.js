@@ -125,6 +125,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/11/08/2020-election-rumors-and-facts-my-analysis/";
           
         },
+      },{id: "post-how-to-hack-the-vote-georgia-style-quot",
+        
+          title: "“How to \“hack the vote\” – Georgia style&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/10/17/how-to-hack-the-vote-georgia-style/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
