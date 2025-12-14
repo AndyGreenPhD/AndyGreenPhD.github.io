@@ -147,6 +147,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/10/13/the-state-of-georgia-dhs-breach-and-the-bigger-picture/";
           
         },
+      },{id: "post-cybersecurity-month-2020-presentation-on-security-privacy-and-public-policy-concerns-for-higher-education-when-using-contact-tracing-apps",
+        
+          title: "Cybersecurity Month 2020 presentation on Security, Privacy, and Public Policy concerns for Higher...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/10/06/cybersecurity-month-2020-presentation-on-security-privacy-and-public-policy-concerns-for-higher-education-when-using-contact-tracing-apps/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
