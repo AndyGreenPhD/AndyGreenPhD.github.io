@@ -158,6 +158,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/10/06/cybersecurity-month-2020-presentation-on-security-privacy-and-public-policy-concerns-for-higher-education-when-using-contact-tracing-apps/";
           
         },
+      },{id: "post-no-michigan-voter-registration-data-wasn-t-hacked",
+        
+          title: "No, Michigan voter registration data wasn’t “hacked”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/09/01/no-michigan-voter-registration-data-wasnt-hacked/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
