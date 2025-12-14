@@ -7,6 +7,11 @@ categories:
     - Organization behavior
     - Privacy
     - Tips
+tags: 
+    - PHI
+    - PII
+    - WFH
+    - Work from home
 ---
 
 Late in the afternoon on Friday, October 9th, the Georgia Department of Human Services (DHS) announced a data breach of personally identifiable information (PII) and protected health information (PHI). You can read their public statement at <https://dhs.georgia.gov/press-releases/2020-10-09/dhs-notifies-customers-about-breach-confidential-information>
