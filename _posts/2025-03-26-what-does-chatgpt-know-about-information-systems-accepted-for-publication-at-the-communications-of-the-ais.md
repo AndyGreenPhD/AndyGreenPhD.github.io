@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “What does ChatGPT Know about Information Systems?” accepted for publication at the Communications of the AIS
+title: What does ChatGPT Know about Information Systems?” accepted for publication at the Communications of the AIS
 date: 2025-03-26
 categories: Academia, Research, Students
 ---

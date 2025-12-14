@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Importing OVA into Amazon AWS"
+title: Importing OVA into Amazon AWS
 date: 2023-02-10
 categories: Tips, Research
 ---
