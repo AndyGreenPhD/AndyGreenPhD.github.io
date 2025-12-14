@@ -125,9 +125,9 @@ ninja.data = [{
             window.location.href = "/blog/2020/11/08/2020-election-rumors-and-facts-my-analysis/";
           
         },
-      },{id: "post-how-to-hack-the-vote-georgia-style-quot",
+      },{id: "post-how-to-hack-the-vote-georgia-style",
         
-          title: "“How to \“hack the vote\” – Georgia style&quot;",
+          title: "How to “hack the vote” – Georgia style",
         
         description: "",
         section: "Posts",
