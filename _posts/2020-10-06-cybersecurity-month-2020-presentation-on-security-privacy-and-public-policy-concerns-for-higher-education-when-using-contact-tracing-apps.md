@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cybersecurity Month 2020 presentation on Security, Privacy, and Public Policy concerns for Higher Education when using Contact Tracing Apps
-date: YYYY-MM-DD # date of publication
+date: 2020-10-06 # date of publication
 categories: 
     - Academia
     - Analysis
