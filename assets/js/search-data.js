@@ -136,6 +136,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/10/17/how-to-hack-the-vote-georgia-style/";
           
         },
+      },{id: "post-the-state-of-georgia-dhs-breach-and-the-bigger-picture",
+        
+          title: "The State of Georgia DHS breach, and the bigger picture",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/10/13/the-state-of-georgia-dhs-breach-and-the-bigger-picture/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
