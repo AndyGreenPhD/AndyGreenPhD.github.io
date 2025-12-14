@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “TITLE GOES HERE IN QUOTES"
+title: TITLE GOES HERE
 date: YYYY-MM-DD # date of publication
 categories: 
     - category 1

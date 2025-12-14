@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Quick thoughts about the SolarWinds breach"
+title: Quick thoughts about the SolarWinds breach
 date: 2020-12-15 # date of publication
 categories: 
     - Analysis

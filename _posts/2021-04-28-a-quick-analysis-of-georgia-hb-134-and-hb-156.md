@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “A quick analysis of Georgia HB 134 and HB 156"
+title: A quick analysis of Georgia HB 134 and HB 156
 date: 2021-04-28
 categories: Analysis, Legislation
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Converting VM images to Docker containers"
+title: Converting VM images to Docker containers
 date: 2022-01-26
 categories: Research, Tips
 tags:

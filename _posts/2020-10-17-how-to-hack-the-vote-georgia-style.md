@@ -31,5 +31,5 @@ An important caveat – this process will work for Georgia voters. I know becaus
 
 Any Georgia citizen can request an absentee ballot be mailed to them by using a secure website set up by the Secretary of State. Georgia citizens can make this request for any reason and do not have to justify the request. The URL to begin the request is <https://ballotrequest.sos.ga.gov/>. Once there, click the “REQUEST ABSENTEE BALLOT” button to start the request. Next, you will be taken to a search page used to locate your record. The page asks you for the necessary information to find your record, as shown in the image below:
 
-!(/assets/img/2020-10-17-1.png)
+![Image of a screen](/assets/img/2020-10-17-1.png)
 

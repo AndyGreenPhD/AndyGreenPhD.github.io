@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “2020 Election rumors and facts – my analysis"
+title: 2020 Election rumors and facts – my analysis
 date: 2020-11-08 # date of publication
 categories: 
     - Analysis
