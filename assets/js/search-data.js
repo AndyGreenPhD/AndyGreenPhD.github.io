@@ -191,6 +191,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/04/01/practical-zoom-meeting-security-tips/";
           
         },
+      },{id: "post-thoughts-after-running-a-virtual-conference",
+        
+          title: "Thoughts after running a virtual conference",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/03/31/thoughts-after-running-a-virtual-conference/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
