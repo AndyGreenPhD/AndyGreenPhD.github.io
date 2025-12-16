@@ -246,6 +246,17 @@ ninja.data = [{
             window.location.href = "/blog/2019/03/22/looking-back-on-the-city-of-atlanta-ransomware-attack-a-year-later/";
           
         },
+      },{id: "post-why-i-am-against-georgia-house-bill-316",
+        
+          title: "Why I am against Georgia House Bill 316",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/03/13/why-i-am-against-georgia-house-bill-316/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
