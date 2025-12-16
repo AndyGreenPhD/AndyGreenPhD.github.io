@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TITLE GOES HERE
-date: YYYY-MM-DD # date of publication
+title: Looking back on the City of Atlanta ransomware attack, a year later
+date: 2019-03-22 # date of publication
 categories: 
     - Analysis
 tags: 
