@@ -257,6 +257,28 @@ ninja.data = [{
             window.location.href = "/blog/2019/03/13/why-i-am-against-georgia-house-bill-316/";
           
         },
+      },{id: "post-2018-wisp-presentation-sns-use-risk-and-executive-behavior",
+        
+          title: "2018 WISP presentation – SNS Use, Risk, and Executive Behavior",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/12/13/2018-wisp-presentation-sns-use-risk-and-executive-behavior/";
+          
+        },
+      },{id: "post-fall-2018-password-cracking-lab-results",
+        
+          title: "Fall 2018 password cracking lab results",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/12/06/fall-2018-password-cracking-lab-results/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
