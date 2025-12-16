@@ -224,6 +224,28 @@ ninja.data = [{
             window.location.href = "/blog/2019/06/10/universities-donors-and-undue-influence/";
           
         },
+      },{id: "post-university-blog-about-dna-testing-concerns",
+        
+          title: "University blog about DNA testing concerns",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/05/02/university-blog-about-dna-testing-concerns/";
+          
+        },
+      },{id: "post-looking-back-on-the-city-of-atlanta-ransomware-attack-a-year-later",
+        
+          title: "Looking back on the City of Atlanta ransomware attack, a year later",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/03/22/looking-back-on-the-city-of-atlanta-ransomware-attack-a-year-later/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
