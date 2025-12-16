@@ -202,6 +202,28 @@ ninja.data = [{
             window.location.href = "/blog/2020/03/31/thoughts-after-running-a-virtual-conference/";
           
         },
+      },{id: "post-student-internship-dilemmas-a-case-study",
+        
+          title: "Student internship dilemmas – a case study",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/06/19/student-internship-dilemmas-a-case-study/";
+          
+        },
+      },{id: "post-universities-donors-and-undue-influence",
+        
+          title: "Universities, donors, and undue influence",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/06/10/universities-donors-and-undue-influence/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
