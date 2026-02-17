@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#8220;Learning Outcomes for Cyber Defense Competitions&#8221; journal&nbsp;publication
+title: \"Learning Outcomes for Cyber Defense Competitions\" journal publication
 date: 2017-11-15
 categories:
     - Academia
@@ -15,4 +15,4 @@ We interviewed judges and mentors for a well-established cyber defense competiti
 
 From the data collected during these interviews, we were able to create a set of recommended learning outcomes for cyber defense competitions. Prior research focused on the technical learning outcomes, so we chose to analyze human and social topics to build upon the body of literature.
 
-The journal article can be downloaded for free, and can be found at [http://jise.org/Volume28/n1/JISEv28n1p21.html](https://goo.gl/8d5Ndt)
+The journal article can be downloaded for free, and can be found at [http://jise.org/Volume28/n1/JISEv28n1p21.html](http://jise.org/Volume28/n1/JISEv28n1p21.html)
