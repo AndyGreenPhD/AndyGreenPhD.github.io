@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/media_appearances/";
           },
-        },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/02/17/2017-11-15-learning-outcomes-for-cyber-defense-competitions-journal-publication/";
+          
+        },
+      },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
         
@@ -277,6 +288,325 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2018/12/06/fall-2018-password-cracking-lab-results/";
+          
+        },
+      },{id: "post-study-abroad-survival-series-amp-8211-atm-amp-nbsp-usage",
+        
+          title: "Study abroad survival series &amp;#8211; ATM&amp;nbsp;usage",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/08/19/study-abroad-survival-series-8211-atm-usage/";
+          
+        },
+      },{id: "post-students-teachers-and-the-bigger-amp-nbsp-picture",
+        
+          title: "Students, teachers, and the bigger&amp;nbsp;picture",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/05/11/students-teachers-and-the-bigger-picture/";
+          
+        },
+      },{id: "post-governor-deal-vetoed-sb-315-now-amp-nbsp-what",
+        
+          title: "Governor Deal vetoed SB 315. Now&amp;nbsp;what?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/05/09/governor-deal-vetoed-sb-315-now-what/";
+          
+        },
+      },{id: "post-it-bootcamp-workshop",
+        
+          title: "IT Bootcamp workshop",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/04/25/it-bootcamp-workshop/";
+          
+        },
+      },{id: "post-google-and-microsoft-ask-governor-deal-to-veto-sb-amp-nbsp-315",
+        
+          title: "Google and Microsoft ask Governor Deal to veto SB&amp;nbsp;315",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/04/25/google-and-microsoft-ask-governor-deal-to-veto-sb315/";
+          
+        },
+      },{id: "post-on-conference-cfps-and-amp-nbsp-reviewing",
+        
+          title: "On conference CFPs and&amp;nbsp;reviewing",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/04/09/on-conference-cfps-and-reviewing/";
+          
+        },
+      },{id: "post-they-don-amp-8217-t-put-me-on-tv-when-good-things-amp-nbsp-happen-amp-8230",
+        
+          title: "They don&amp;#8217;t put me on TV when good things&amp;nbsp;happen&amp;#8230;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/03/25/they-dont-put-me-on-tv-when-good-things-happen/";
+          
+        },
+      },{id: "post-update-on-georgia-sb-315-amp-8211-going-from-bad-to-amp-nbsp-worse",
+        
+          title: "Update on Georgia SB 315 &amp;#8211; Going from bad to&amp;nbsp;worse",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/03/15/update-on-georgia-sb-315-going-from-bad-to-worse/";
+          
+        },
+      },{id: "post-free-admission-to-cybersecurity-panel-discussion-i-amp-8217-m-amp-nbsp-moderating",
+        
+          title: "Free admission to cybersecurity panel discussion I&amp;#8217;m&amp;nbsp;moderating",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/03/12/free-admission-to-cybersecurity-panel-discussion-im-moderating/";
+          
+        },
+      },{id: "post-ajc-interview-about-georgia-sb-315-and-some-larger-amp-nbsp-thoughts",
+        
+          title: "AJC interview about Georgia SB 315, and some larger&amp;nbsp;thoughts",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/03/12/ajc-interview-about-georgia-sb-315-and-some-larger-thoughts/";
+          
+        },
+      },{id: "post-spotlight-profile-in-ksu-student-amp-nbsp-newspaper",
+        
+          title: "Spotlight profile in KSU student&amp;nbsp;newspaper",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/03/06/spotlight-profile-in-ksu-student-newspaper/";
+          
+        },
+      },{id: "post-georgia-senator-proposes-joint-committee-to-study-cyber-security-amp-nbsp-issues",
+        
+          title: "Georgia Senator proposes joint committee to study cyber security&amp;nbsp;issues",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/03/05/georgia-senator-proposes-joint-committee-to-study-cyber-security-issues/";
+          
+        },
+      },{id: "post-ap-article-about-sb-amp-nbsp-315",
+        
+          title: "AP article about SB&amp;nbsp;315",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/26/ap-article-about-sb315/";
+          
+        },
+      },{id: "post-wsb-interview-about-marta-it-infrastructure-amp-nbsp-issues",
+        
+          title: "WSB interview about MARTA IT infrastructure&amp;nbsp;issues",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/22/wsb-interview-about-marta-it-infrastructure-issues/";
+          
+        },
+      },{id: "post-sb-315-amp-8211-senate-amp-nbsp-wrapup",
+        
+          title: "SB 315 &amp;#8211; Senate&amp;nbsp;wrapup",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/19/sb-315-8211-senate-wrapup/";
+          
+        },
+      },{id: "post-interview-with-wabe-about-georgia-amp-nbsp-sb315",
+        
+          title: "Interview with WABE about Georgia&amp;nbsp;SB315",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/15/interview-with-wabe-about-georgia-sb315/";
+          
+        },
+      },{id: "post-sb-315-article-in-the-amp-nbsp-parallax",
+        
+          title: "SB 315 article in The&amp;nbsp;Parallax",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/08/sb-315-article-in-the-parallax/";
+          
+        },
+      },{id: "post-how-academic-competitions-help-amp-nbsp-students",
+        
+          title: "How academic competitions help&amp;nbsp;students",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/06/how-academic-competitions-help-students/";
+          
+        },
+      },{id: "post-cvs-amp-8211-your-customer-privacy-policy-needs-amp-nbsp-work",
+        
+          title: "CVS &amp;#8211; Your customer privacy policy needs&amp;nbsp;work",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/05/cvs-8211-your-customer-privacy-policy-needs-work/";
+          
+        },
+      },{id: "post-students-are-you-asking-the-wrong-amp-nbsp-questions",
+        
+          title: "Students, are you asking the wrong&amp;nbsp;questions?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/04/students-are-you-asking-the-wrong-questions/";
+          
+        },
+      },{id: "post-georgia-sb-315-amp-8211-a-deeper-amp-nbsp-dive",
+        
+          title: "Georgia SB 315 &amp;#8211; A deeper&amp;nbsp;dive",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/02/02/georgia-sb-315-a-deeper-dive/";
+          
+        },
+      },{id: "post-georgia-sb-315-amp-8211-a-quick-amp-nbsp-analysis",
+        
+          title: "Georgia SB 315 &amp;#8211; A quick&amp;nbsp;analysis",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/01/20/georgia-sb-315-a-quick-analysis/";
+          
+        },
+      },{id: "post-quick-rundown-of-the-meltdown-and-spectre-amp-nbsp-vulnerabilities",
+        
+          title: "Quick rundown of the Meltdown and Spectre&amp;nbsp;vulnerabilities",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/01/04/quick-rundown-of-the-meltdown-and-spectre-vulnerabilities/";
+          
+        },
+      },{id: "post-interview-with-wsb-tv-about-marta-it-and-infosec-amp-nbsp-concerns",
+        
+          title: "Interview with WSB TV about MARTA IT and InfoSec&amp;nbsp;concerns",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/11/13/interview-with-wsb-tv-about-marta-it-and-infosec-concerns/";
+          
+        },
+      },{id: "post-thoughts-about-the-amp-8220-textalyzer-amp-8221",
+        
+          title: "Thoughts about the &amp;#8220;Textalyzer&amp;#8221;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/10/30/thoughts-about-the-textalyzer/";
+          
+        },
+      },{id: "post-lit-reviews-are-not-amp-nbsp-fun",
+        
+          title: "Lit Reviews Are Not&amp;nbsp;Fun",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/10/28/lit-reviews-are-not-fun/";
+          
+        },
+      },{id: "post-wifi-krack-vulnerability-goes-amp-nbsp-public",
+        
+          title: "WiFi KRACK vulnerability goes&amp;nbsp;public",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/10/16/wifi-krack-vulnerability-goes-public/";
+          
+        },
+      },{id: "post-it-amp-8217-s-tough-to-write-when-you-amp-8217-re-writing-all-the-amp-nbsp-time",
+        
+          title: "It&amp;#8217;s tough to write, when you&amp;#8217;re writing all the&amp;nbsp;time!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/10/16/its-tough-to-write-when-youre-writing-all-the-time/";
+          
+        },
+      },{id: "post-how-helicopter-parents-are-ruining-college-students",
+        
+          title: "How helicopter parents are ruining college students",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/09/04/how-helicopter-parents-are-ruining-college-students/";
           
         },
       },{id: "post-10-things-every-college-professor-hates",
