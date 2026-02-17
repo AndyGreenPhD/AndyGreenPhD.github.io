@@ -534,7 +534,7 @@ ninja.data = [{
         },
       },{id: "post-quot-learning-outcomes-for-cyber-defense-competitions-quot-journal-publication",
         
-          title: "\&quot;Learning Outcomes for Cyber Defense Competitions\&quot; journal publication",
+          title: "&quot;Learning Outcomes for Cyber Defense Competitions&quot; journal publication",
         
         description: "",
         section: "Posts",
