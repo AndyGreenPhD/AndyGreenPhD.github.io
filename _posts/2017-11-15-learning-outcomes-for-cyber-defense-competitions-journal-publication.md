@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"Learning Outcomes for Cyber Defense Competitions\" journal publication
+title: '"Learning Outcomes for Cyber Defense Competitions" journal publication'
 date: 2017-11-15
 categories:
     - Academia
