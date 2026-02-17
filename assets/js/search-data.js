@@ -279,6 +279,17 @@ ninja.data = [{
             window.location.href = "/blog/2018/12/06/fall-2018-password-cracking-lab-results/";
           
         },
+      },{id: "post-an-infrequent-blogger",
+        
+          title: "An infrequent blogger",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/03/13/an-infrequent-blogger/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
