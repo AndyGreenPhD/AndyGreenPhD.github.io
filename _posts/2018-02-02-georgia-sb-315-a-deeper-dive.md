@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Georgia SB 315 &#8211; A deeper&nbsp;dive
+title: Georgia SB 315 - A deeper dive
 date: 2018-02-02
 categories:
     - Legislation
@@ -8,7 +8,7 @@ tags:
     - Computer crimes
 ---
 
-NOTE: You can find my original post about SB 315 [here](https://blog.andy-green.org/2018/01/20/georgia-sb-315-a-quick-analysis/).
+NOTE: You can find my original post about SB 315 [here](2018-01-20-georgia-sb-315-a-quick-analysis/).
 
 Thanks to the [watchful eye](https://www.ef-georgia.org/index.php/action-alerts/8-georgia-sb-315-the-computer-intrusion-bill.html) of the EFF Georgia group, I learned that SB 315 was approved by the Senate Public Safety committee, and is headed to the floor of the Senate for a final vote. If the bill passes there, it would then cross over to the House for their consideration.
 

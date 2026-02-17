@@ -32,5 +32,7 @@ I suggest the following steps for you to follow:
 
 Tip of the hat to Daniel Miessler ([@DanielMiessler](https://twitter.com/DanielMiessler/) on Twitter) for his excellent writeup (found [here](https://danielmiessler.com/blog/simple-explanation-difference-meltdown-spectre/)) which helped make sense of a lot of this for me!
 
-UPDATES1.5.2018 - Added recommendation to use an ad blocker with your web browser.  
+UPDATES
+
+1.5.2018 - Added recommendation to use an ad blocker with your web browser.  
 Modified recommendation #2 to include making changes to existing web browser configuration
