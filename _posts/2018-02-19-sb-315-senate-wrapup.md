@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SB 315 &#8211; Senate&nbsp;wrapup
+title: SB 315 - Senate wrapup
 date: 2018-02-19
 categories:
     - Legislation
@@ -10,7 +10,7 @@ tags:
 
 Friday, the Georgia Senate passed [SB 315](http://www.legis.ga.gov/legislation/en-US/Display/20172018/SB/315), sending it to the House for consideration. The final vote was 41-11.
 
-My previous comments on the bill can be found [here](http://blog.andy-green.org/2018/01/20/georgia-sb-315-a-quick-analysis/) and [here](http://blog.andy-green.org/2018/02/02/georgia-sb-315-a-deeper-dive/).
+My previous comments on the bill can be found [here](/blog/2018/01/20/georgia-sb-315-a-quick-analysis/) and [here](/blog/2018/02/02/georgia-sb-315-a-deeper-dive/).
 
 During the deliberations on the Senate floor prior to the vote, [Senator Bruce Thompson](http://www.senate.ga.gov/senators/en-US/member.aspx?Member=844) (one of the bill's sponsors) made comments in support of the bill. Of note, Senator Thompson referred to the EFF as a "…radical group out of California, with just a few members", referring to the concerns they (along with others) raised, as "noise".
 
