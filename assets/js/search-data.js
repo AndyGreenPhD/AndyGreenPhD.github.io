@@ -499,9 +499,9 @@ ninja.data = [{
             window.location.href = "/blog/2018/02/04/students-are-you-asking-the-wrong-questions/";
           
         },
-      },{id: "post-georgia-sb-315-amp-8211-a-deeper-amp-nbsp-dive",
+      },{id: "post-georgia-sb-315-a-deeper-dive",
         
-          title: "Georgia SB 315 &amp;#8211; A deeper&amp;nbsp;dive",
+          title: "Georgia SB 315 - A deeper dive",
         
         description: "",
         section: "Posts",
