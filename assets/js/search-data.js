@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/media_appearances/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/02/17/2017-11-15-learning-outcomes-for-cyber-defense-competitions-journal-publication/";
-          
-        },
-      },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
+        },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
         
@@ -543,6 +532,17 @@ ninja.data = [{
             window.location.href = "/blog/2018/01/04/quick-rundown-of-the-meltdown-and-spectre-vulnerabilities/";
           
         },
+      },{id: "post-quot-learning-outcomes-for-cyber-defense-competitions-quot-journal-publication",
+        
+          title: "\&quot;Learning Outcomes for Cyber Defense Competitions\&quot; journal publication",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/11/15/learning-outcomes-for-cyber-defense-competitions-journal-publication/";
+          
+        },
       },{id: "post-interview-with-wsb-tv-about-marta-it-and-infosec-amp-nbsp-concerns",
         
           title: "Interview with WSB TV about MARTA IT and InfoSec&amp;nbsp;concerns",
@@ -565,9 +565,9 @@ ninja.data = [{
             window.location.href = "/blog/2017/10/30/thoughts-about-the-textalyzer/";
           
         },
-      },{id: "post-lit-reviews-are-not-amp-nbsp-fun",
+      },{id: "post-lit-reviews-are-not-fun",
         
-          title: "Lit Reviews Are Not&amp;nbsp;Fun",
+          title: "Lit Reviews Are Not Fun",
         
         description: "",
         section: "Posts",
@@ -576,9 +576,9 @@ ninja.data = [{
             window.location.href = "/blog/2017/10/28/lit-reviews-are-not-fun/";
           
         },
-      },{id: "post-wifi-krack-vulnerability-goes-amp-nbsp-public",
+      },{id: "post-wifi-krack-vulnerability-goes-public",
         
-          title: "WiFi KRACK vulnerability goes&amp;nbsp;public",
+          title: "WiFi KRACK vulnerability goes public",
         
         description: "",
         section: "Posts",
