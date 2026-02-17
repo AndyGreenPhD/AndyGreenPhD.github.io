@@ -19,7 +19,7 @@ It took me a second to realize what had happened - CVS had opted me in to this p
 
 I asked the pharmacy tech if I was understanding this situation correctly. He saw the look on my face and was apologetic while he confirmed I was correct. He then said there was no way for me to opt out here, and that he couldn't opt me out either. He then printed out a notification and handed it to me, so I could opt out of the promotional offers via telephone:
 
-![](/assets/img/2018-02-05-1.jpg?w=225&h=300)
+![](/assets/img/2018-02-05-1.jpg)
 
 CVS - this is so very, very bad on many different levels.
 
