@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lit Reviews Are Not&nbsp;Fun
+title: Lit Reviews Are Not Fun
 date: 2017-10-28
 categories:
     - Research
