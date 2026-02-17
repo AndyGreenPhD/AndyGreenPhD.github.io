@@ -279,6 +279,39 @@ ninja.data = [{
             window.location.href = "/blog/2018/12/06/fall-2018-password-cracking-lab-results/";
           
         },
+      },{id: "post-10-things-every-college-professor-hates",
+        
+          title: "10 Things Every College Professor Hates",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/08/29/10-things-every-college-professor-hates/";
+          
+        },
+      },{id: "post-a-great-way-to-start-the-semester",
+        
+          title: "A great way to start the semester",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/08/28/a-great-way-to-start-the-semester/";
+          
+        },
+      },{id: "post-2011-seccdc-competition",
+        
+          title: "2011 SECCDC competition",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/03/23/2011-seccdc-competition/";
+          
+        },
       },{id: "post-an-infrequent-blogger",
         
           title: "An infrequent blogger",
