@@ -433,15 +433,15 @@ ninja.data = [{
             window.location.href = "/blog/2018/02/22/wsb-interview-about-marta-it-infrastructure-issues/";
           
         },
-      },{id: "post-sb-315-amp-8211-senate-amp-nbsp-wrapup",
+      },{id: "post-sb-315-senate-wrapup",
         
-          title: "SB 315 &amp;#8211; Senate&amp;nbsp;wrapup",
+          title: "SB 315 - Senate wrapup",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/02/19/sb-315-8211-senate-wrapup/";
+            window.location.href = "/blog/2018/02/19/sb-315-senate-wrapup/";
           
         },
       },{id: "post-interview-with-wabe-about-georgia-amp-nbsp-sb315",
