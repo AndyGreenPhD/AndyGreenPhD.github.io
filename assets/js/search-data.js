@@ -485,7 +485,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/02/05/cvs-8211-your-customer-privacy-policy-needs-work/";
+            window.location.href = "/blog/2018/02/05/cvs-your-customer-privacy-policy-needs-work/";
           
         },
       },{id: "post-students-are-you-asking-the-wrong-amp-nbsp-questions",
