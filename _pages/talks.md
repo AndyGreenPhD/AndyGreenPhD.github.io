@@ -2,7 +2,12 @@
 layout: page
 title: Talks
 permalink: /talks/
-description: Talks
 nav: true
 nav_order: 5
 ---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
