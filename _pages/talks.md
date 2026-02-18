@@ -6,5 +6,3 @@ description: Talks
 nav: true
 nav_order: 5
 ---
-
-# Talks
