@@ -11,5 +11,5 @@ permalink: /talks/
 {% endif %}
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-talk.liquid %}
 {% endfor %}
