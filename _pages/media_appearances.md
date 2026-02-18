@@ -9,6 +9,10 @@ nav_order: 4
 
 # 2025
 
+**November 20, 2025** [WXIA TV "The Take" interview about the causes of internet outages and how to prevent them](https://www.11alive.com/video/news/11alive-news-the-take-the-causes-of-internet-outages-and-how-to-prevent-them-112025/85-8e6b6fa5-1efd-424f-ada5-1ef8f5176537)
+
+**November 13, 2025** [WXIA TV "The Take" interview about The dangers of deepfakes](https://www.11alive.com/video/news/11alive-news-the-take-the-dangers-of-deepfakes-111325/85-dca19c98-3087-436c-a2b2-17c737bd2909)
+
 **October 21, 2025** [WXIA TV "The Take" interview about Amazon AWS outage](https://www.11alive.com/video/news/11alive-news-the-take-amazon-tech-outage-inside-what-happened-102125/85-ce19e005-2d40-4ab3-aaa0-dd550ed8296f)
 
 **September 24, 2025** [WXIA TV "The Take" interview about SIM farm discovery in NYC](https://www.youtube.com/watch?v=FYMJME3gojQ)
