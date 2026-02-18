@@ -1,27 +1,31 @@
-name: Scrape Talks
-
+name: Scrape Talk Locations
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Every day at midnight UTC
-
-permissions:
-  contents: read
-  actions: read
-
+  push:
+    paths:
+      - 'talks/**'
+      - 'talkmap.ipynb'
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Scrape talks
-        uses: some-action/scrape@v4
-        with:
-          output_file: talkmap.ipynb
-
-      - name: Upload results
-        uses: actions/upload-artifact@v4
-        with:
-          name: talkmap
-          path: talkmap.ipynb
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    - name: Install dependencies
+      run: |
+        pip install jupyter pandas requests beautifulsoup4 geopy
+        pip install getorg --upgrade
+    - name: Run Jupyter Notebook
+      run: |
+        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap.ipynb
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Automated update of talk locations" || echo "No changes to commit"
+        git push
