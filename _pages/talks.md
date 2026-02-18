@@ -11,5 +11,5 @@ nav_order: 5
 {% endif %}
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include default.liquid %}
 {% endfor %}
