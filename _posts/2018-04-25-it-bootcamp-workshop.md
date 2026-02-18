@@ -14,6 +14,6 @@ tags:
 
 [ ![NetTopo_PublicVPrivate](/assets/img/2018-04-25-nettopo_publicvprivate2.jpg)](/assets/img/2018-04-25-nettopo_publicvprivate.jpg)
 
-[ ![NetTop_3_Simple](/assets/img/2018-04-25-nettop_3_simple2.jpg)](/assets/img/2018-04-25-nettop_3_simple.jpg)
+[ ![NetTop_3_Simple](/assets/img/2018-04-25-nettop_3_simple2.jpg)](/assets/img/2018-04-25-nettop_3_simple.png)
 
 [ ![NetTopo_2](/assets/img/2018-04-25-nettopo_22.jpg)](/assets/img/2018-04-25-nettopo_2.jpg)
