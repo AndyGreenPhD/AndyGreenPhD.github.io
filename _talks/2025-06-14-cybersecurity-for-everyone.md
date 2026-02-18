@@ -3,7 +3,7 @@ title: Cybersecurity Hygiene for Everyone
 collection: talks
 type: "Conference presentation"
 venue: "Holy Trinity Greek Orthodox Church"
-date: 2014-03-01 #date of talk goes here
+date: 2025-06-14
 location: "30 Race Street, Charleston, SC, USA"
 ---
 
