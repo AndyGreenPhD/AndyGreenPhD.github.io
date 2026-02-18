@@ -728,16 +728,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "talks-cybersecurity-risk-management-for-parish-leadership",
-          title: 'Cybersecurity Risk Management for Parish Leadership',
+            },},{id: "talks-cobb-county-cybersecurity-day-presentation-on-vdp-research",
+          title: 'Cobb County Cybersecurity Day presentation on VDP research',
           description: "",
           section: "Talks",handler: () => {
-              window.location.href = "/talks/2025-06-14-cybersecurity-for-everyone%20copy/";
+              window.location.href = "/talks/2024-10-25-cobb-county-cybersecurity-day-presentation-on-vdp-research/";
             },},{id: "talks-cybersecurity-hygiene-for-everyone",
           title: 'Cybersecurity Hygiene for Everyone',
           description: "",
           section: "Talks",handler: () => {
               window.location.href = "/talks/2025-06-14-cybersecurity-for-everyone/";
+            },},{id: "talks-cybersecurity-risk-management-for-parish-leadership",
+          title: 'Cybersecurity Risk Management for Parish Leadership',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-06-14-cybersecurity-risk-management-for-parish-leadership/";
             },},{
         id: 'social-organization',
         title: 'Organization',
