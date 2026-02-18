@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: Talks
+layout: page
+title: Talks and Presentations
 permalink: /talks/
 nav: true
 nav_order: 5
