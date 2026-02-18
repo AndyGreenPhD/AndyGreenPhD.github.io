@@ -172,6 +172,8 @@ collections:
     output: true
   talks:
     output: true
+    defaults:
+      layout: post
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
