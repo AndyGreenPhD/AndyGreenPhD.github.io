@@ -10,10 +10,10 @@ tags:
     - Students
 ---
 
-[ ![NetTopo_1](https://i0.wp.com/andygreenphd.wordpress.com/wp-content/uploads/2018/04/nettopo_1.jpg?w=170&h=131&ssl=1) ](https://andygreen.phd/nettopo_1/)
+[ ![NetTopo_1](/assets/img/2018-04-25-nettopo_1.jpg)](/assets/img/2018-04-25-nettopo_1.jpg)
 
-[ ![NetTopo_PublicVPrivate](https://i0.wp.com/andygreenphd.wordpress.com/wp-content/uploads/2018/04/nettopo_publicvprivate.jpg?w=262&h=131&ssl=1) ](https://andygreen.phd/nettopo_publicvprivate/)
+[ ![NetTopo_PublicVPrivate](/assets/img/2018-04-25-nettopo_publicvprivate2.jpg)](/assets/img/2018-04-25-nettopo_publicvprivate2.jpg)
 
-[ ![NetTop_3_Simple](https://i0.wp.com/andygreenphd.wordpress.com/wp-content/uploads/2018/04/nettop_3_simple.png?w=163&h=131&ssl=1) ](https://andygreen.phd/nettop_3_simple/)
+[ ![NetTop_3_Simple](/assets/img/2018-04-25-nettop_3_simple2.jpg)](/assets/img/2018-04-25-nettop_3_simple2.jpg)
 
-[ ![NetTopo_2](https://i0.wp.com/andygreenphd.wordpress.com/wp-content/uploads/2018/04/nettopo_2.jpg?w=214&h=131&ssl=1) ](https://andygreen.phd/nettopo_2/)
+[ ![NetTopo_2](/assets/img/2018-04-25-nettopo_22.jpg)](/assets/img/2018-04-25-nettopo_22.jpg)
