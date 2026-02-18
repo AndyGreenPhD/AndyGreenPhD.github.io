@@ -721,6 +721,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "talks-cybersecurity-hygiene-for-everyone",
+          title: 'Cybersecurity Hygiene for Everyone',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-06-14-cybersecurity-for-everyone/";
+            },},{id: "talks-talkmap",
+          title: 'Talkmap',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/talkmap/";
             },},{
         id: 'social-organization',
         title: 'Organization',
