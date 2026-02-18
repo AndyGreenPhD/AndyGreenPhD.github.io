@@ -733,11 +733,6 @@ ninja.data = [{
           description: "",
           section: "Talks",handler: () => {
               window.location.href = "/talks/2025-06-14-cybersecurity-for-everyone/";
-            },},{id: "talks-talkmap",
-          title: 'Talkmap',
-          description: "",
-          section: "Talks",handler: () => {
-              window.location.href = "/talks/talkmap/";
             },},{
         id: 'social-organization',
         title: 'Organization',
