@@ -14,4 +14,4 @@ While the article is nice, I'm most happy about the display of solid drumming te
 
 I am truly a lucky guy. Not many people get to do what they want to do as a career, and for that I am immensely grateful. Even on my worst days, I never forget that I've got a damned good gig.
 
-The article can be found at <http://ksusentinel.com/2018/03/05/professor-profile-andrew-green/>
+The article can be found at <http://theksusentinel.com/2018/03/05/professor-profile-andrew-green/>
