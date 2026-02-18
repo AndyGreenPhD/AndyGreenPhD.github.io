@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
-        },{id: "nav-talks-and-presentations",
-          title: "Talks and Presentations",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/talks/";
-          },
         },{id: "nav-media-appearances",
           title: "Media Appearances",
           description: "Media Appearances",
