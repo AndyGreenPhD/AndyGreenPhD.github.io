@@ -71,21 +71,21 @@ Below are some resources that will help with understanding cloud services
 
 ### Amazon
 
-- How to start / stop an ec2 instance via the console
+- **How to start / stop an ec2 instance via the console**
     - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html
 
-- How to create, view bucket properties
+- **How to create, view bucket properties**
     - https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-buckets-s3.html
 
-- Security Groups
+- **Security Groups**
     - https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html#VPCSecurityGroups
     - https://www.techtarget.com/searchcloudcomputing/tip/How-to-create-Amazon-EC2-security-groups
 
-- Overview of  VPC and securing your VPC
+- **Overview of  VPC and securing your VPC**
     - https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 
-- What is an ENI ( Elastic Network Interface)
+- **What is an ENI ( Elastic Network Interface)**
     - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
 
-- How to setup client VPN to AWS
+- **How to setup client VPN to AWS**
     - https://docs.aws.amazon.com/vpn/latest/clientvpn-user/client-vpn-connect-windows.html
