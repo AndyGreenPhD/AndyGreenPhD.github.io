@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Sayings and Witticisms
+title: Sayings
 permalink: /sayings/
-#description: Sayings and Witticisms
 description: 'I’m going to try to capture clever sayings and witticisms here.  They may or may not be infosec-related, but they all manage to say something in a way I find clever, thoughtful, insightful, funny, etc…'
 nav: true
 nav_order: 7
