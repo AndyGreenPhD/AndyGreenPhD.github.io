@@ -4,7 +4,7 @@ title: Sayings
 permalink: /sayings/
 description: 'I’m going to try to capture clever sayings and witticisms here.  They may or may not be infosec-related, but they all manage to say something in a way I find clever, thoughtful, insightful, funny, etc…'
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 > Tell it all. Tell it early. Tell it yourself.

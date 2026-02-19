@@ -4,7 +4,7 @@ title: Media Appearances
 permalink: /media_appearances/
 description: Media Appearances
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 # 2025
