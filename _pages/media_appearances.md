@@ -79,6 +79,15 @@ WSB TV interview about password fatigue
 
 [WXIA TV interview about Crowdstrike outage](https://www.11alive.com/video/news/local/explanation-for-why-cyber-outage-happened-across-america/85-eea664a0-4602-4b67-8298-5bc0ef294675)
 
+**July 19**
+
+WSB TV interview about Crowdstrike outage
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/7.19.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
+</div>
+
 **July 12**
 
 [WSB TV interview about AT&T data breach](https://www.wsbtv.com/news/local/atlanta/millions-att-customers-exposed-data-breach-cyber-expert-talks-security-privacy/CPQBZKTZXRETXFSDHIH222OD3E/)

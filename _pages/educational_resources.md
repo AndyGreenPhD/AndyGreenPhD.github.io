@@ -60,8 +60,6 @@ These groups meet regularly and are security-related in nature. Some are meeting
     - 1st Tuesday, 7-9pm, Jefferson’s Restaurant – 28 W. Main Street, Cartersville GA
 - **ACE (Atlanta Cybersecurity Engineers) 678** – https://ace678.org
     - 2nd Wednesday, 6-9pm, Marietta Square Market – 68 North Marietta Pkwy NW, Marietta, GA 30060
-- **DC (Defcon) 470** – https://dc470.org/
-    - 3rd Thursday, 7-9pm, Fry’s Electronic Cafe – 3065 Webb Rd., Milton, GA 30004
 - **ATL 2600** – https://atl2600.org/
     - 1st Friday, 7-9pm, Lennox Square Mall Foodcourt – 3393 Peachtree Rd NE, Atlanta, GA 30326
 
