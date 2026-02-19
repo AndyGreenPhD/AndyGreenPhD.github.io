@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-sayings-and-witticisms",
           title: "Sayings and Witticisms",
-          description: "Sayings and Witticisms",
+          description: "I’m going to try to capture clever sayings and witticisms here.  They may or may not be infosec-related, but they all manage to say something in a way I find clever, thoughtful, insightful, funny, etc…",
           section: "Navigation",
           handler: () => {
             window.location.href = "/sayings/";
