@@ -191,8 +191,70 @@ WSB TV interview about Fulton County ransomware attack
 
 [WSB TV interview about social media use in court cases](https://www.wsbtv.com/news/local/federal-hate-crimes-trial-highlights-use-texts-social-media-court-cases/KLDLUVPW6JHNXLNL6AUXQUSYNQ/)
 
+---
+
 # 2021
 
 **December 27**
 
 [WXIA TV interview about "The Cloud"](https://www.11alive.com/article/tech/what-is-cloud/85-8576e10a-e173-403b-bedc-61347f116759)
+
+**November 17**
+
+[WSB TV interview about holiday shopping scams](https://www.wsbtv.com/news/local/holiday-shopping-season-ramps-up-so-are-scammers-coming-your-money-experts-say/QXJBOCZN3NENHEDQZOA77UEEIM/)
+
+**October 12**
+
+[Harvard Crimson interview about university data leakage](https://www.thecrimson.com/article/2021/10/12/security-oversight-harvard-administration/)
+
+**September 16**
+
+[AdvisorSmith interview about the best cyber insurance companies](https://advisorsmith.com/cyber-liability-insurance/best-cyber-insurance-companies/)
+
+**September 14**
+
+[WSB TV interview about critical Apple iPhone patch](https://www.youtube.com/watch?v=WY6hgrU9L24)
+
+**July 29**
+
+[Chicago Tribune interview about Illinois Attorney General ransomware attack](https://www.chicagotribune.com/investigations/ct-ransomware-attack-illinois-attorney-general-kwame-raoul-20210729-diukhbzjanhgzlcntft3nakbfy-story.html)
+
+**July 29**
+
+[Better Government Association interview about Illinois Attorney General ransomware attack](https://www.bettergov.org/news/no-ransom-paid-but-illinois-ag-office-is-spending-more-than-25-million-on-hacker-attack/)
+
+**June 17**
+
+[WATN TV interview about password cracking](https://www.localmemphis.com/article/life/ask-the-experts/how-long-would-it-take-hackers-to-crack-your-passwords/522-48bdb252-54d2-493a-b753-a5ed28d4d60e)
+
+**June 7**
+
+[WXIA TV interview about why cyber criminals to impact supply chains](https://www.11alive.com/article/money/cybercriminals-paralyze-goods/85-2bf3ab7d-6495-4be4-aad1-63da91995c05)
+
+**May 19**
+
+[WXIA TV interview about steps to take to protect yourself from online cyberattacks](https://www.11alive.com/article/news/local/protect-yourself-from-hackers/85-11663e99-b104-4b6d-a77a-8ea18ca3615a)
+
+**March 18**
+
+[WSB TV interview about legislation to hide cyber attack details](https://www.wsbtv.com/video/local-video/experts-say-bills-going-through-legislature-will-make-it-easier-government-hide-details-cyber-attacks/3d4f0dbe-f6e3-4f5c-8706-cd2f247631ea/)
+
+**March 12**
+
+[WSB TV interview about Cobb County emergency alert system attack](https://www.wsbtv.com/news/local/cobb-county/police-report-shows-cobb-county-schools-withheld-information-parents-teachers/F5J6ETRYNFBXTMVZZFBQV2BRWI/)
+
+**February 25**
+
+[WSB TV interview about Cobb County emergency alert system attack](https://vimeo.com/516931816)
+
+**February 25**
+
+[WSB TV interview about Cobb County alert system attack](https://vimeo.com/516918492)
+
+**February 24**
+
+[WXIA TV intervivew about Cobb County alert system attack](https://www.11alive.com/article/news/local/cobb-county-alert-false-alarm-a-targeted-attack/85-557f5bb3-d2d3-4193-b61a-698dece646cd)
+
+**January 15**
+
+[WSB TV interview about City of Atlanta's refusal to disclose SolarWinds exposure](https://www.wsbtv.com/video/local-video/experts-criticizing-citys-refusal-confirm-theyve-done-business-with-software-firm-hit-with-hack/7795b498-7499-4abf-afa1-5f057ed54dd7/)
