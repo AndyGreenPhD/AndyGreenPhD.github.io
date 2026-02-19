@@ -164,4 +164,35 @@ WSB TV interview about Fulton County ransomware attack
 [WXIA TV interview about USPS text scams](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
 
 **November 9**
+
 [WSB TV interview about app usage by state officials](https://www.wsbtv.com/news/2-investigates/it-expert-questions-use-app-by-state-officials/4GRWUDEZJZCTHJABJYZTB4JFQ4/)
+
+**October 11**
+
+[WSB TV interview about Dekalb county auditors refusal to release report](https://www.wsbtv.com/news/local/dekalb-county/dekalb-countys-internal-auditors-refusing-release-critical-report/DYZT5CAJ4NAV3EJYYESHO6FVBE/)
+
+**April 11**
+
+[Harvard Crimson interview about university data leakage](https://www.thecrimson.com/article/2022/4/12/harvard-huit-oversight-again/)
+
+**April 11**
+
+[MoneyGeek interview about Identy Theft and Fraud prevention](https://www.moneygeek.com/credit-cards/resources/fraud/)
+
+**March 22**
+
+[Marietta Daily Journal interview about potential Russian cyber-attacks](https://www.mdjonline.com/news/local/ksu-cyber-security-expert-on-potential-russian-cyber-attacks-don-t-panic/article_cf0112b8-aa17-11ec-af41-2346c0c873e9.html)
+
+**March 1**
+
+[WABE Radio interview about Cyber threats to U.S. corporations amid Russian invasion of Ukraine](https://www.wabe.org/cyber-threats-to-u-s-corporations-critical-infrastructure-still-loom-amid-russian-invasion-of-ukraine/)
+
+**February 22**
+
+[WSB TV interview about social media use in court cases](https://www.wsbtv.com/news/local/federal-hate-crimes-trial-highlights-use-texts-social-media-court-cases/KLDLUVPW6JHNXLNL6AUXQUSYNQ/)
+
+# 2021
+
+**December 27**
+
+[WXIA TV interview about "The Cloud"](https://www.11alive.com/article/tech/what-is-cloud/85-8576e10a-e173-403b-bedc-61347f116759)
