@@ -122,6 +122,11 @@ WSB TV interview about Fulton County ransomware attack
 
 [Neighborhood TV interview about the Fulton County ransomware attack](https://www.neighborhoodtv.com/vod/fulton-county-cyber-security-02-19-2024-atlanta.html)
 
+**January 30**
+
+[WXIA TV interview about Fulton County ransomware attack](https://www.11alive.com/article/tech/cybersecurity-experts-weigh-in-on-fulton-cyber-attack/85-c0798d8e-da81-4e6f-b3b8-0285050ed5c0)
+
+
 ---
 
 # 2023
