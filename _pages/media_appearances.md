@@ -162,3 +162,6 @@ WSB TV interview about Fulton County ransomware attack
 **December 12**
 
 [WXIA TV interview about USPS text scams](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
+
+**November 9**
+[WSB TV interview about app usage by state officials](https://www.wsbtv.com/news/2-investigates/it-expert-questions-use-app-by-state-officials/4GRWUDEZJZCTHJABJYZTB4JFQ4/)
