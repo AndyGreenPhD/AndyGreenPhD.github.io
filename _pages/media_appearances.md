@@ -133,11 +133,11 @@ WSB TV interview about Fulton County ransomware attack
 
 **August 15**
 
-[Quoted in an article about digital literacy for kids](https://conduitstreet.mdcounties.org/2023/08/09/florida-california-and-others-take-action-on-mandated-social-media-literacy-for-youth/)
+[Quoted in Maryland Association of Counties blog post about digital literacy for kids](https://conduitstreet.mdcounties.org/2023/08/09/florida-california-and-others-take-action-on-mandated-social-media-literacy-for-youth/)
 
 **August 8**
 
-[Quoted in an article about digital literacy for kids](https://www.route-fifty.com/digital-government/2023/08/more-states-look-boost-kids-social-media-literacy/389195/)
+[Quoted Route Fifty article about digital literacy for kids](https://www.route-fifty.com/digital-government/2023/08/more-states-look-boost-kids-social-media-literacy/389195/)
 
 **June 20**
 
@@ -145,7 +145,7 @@ WSB TV interview about Fulton County ransomware attack
 
 **May 16**
 
-[Quoted in an article about Montana TikTok ban legislation](https://www.route-fifty.com/cybersecurity/2023/05/enforcement-questions-dog-states-proposed-tiktok-ban/386423/)
+[Quoted in Route Fifty article about Montana TikTok ban legislation](https://www.route-fifty.com/cybersecurity/2023/05/enforcement-questions-dog-states-proposed-tiktok-ban/386423/)
 
 **April 6**
 
