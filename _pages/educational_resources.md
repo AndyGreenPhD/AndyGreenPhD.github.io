@@ -3,7 +3,7 @@ layout: page
 title: Educational Resources
 permalink: /educational_resources/
 nav: true
-nav_order: 9
+nav_order: 8
 ---
 
 A question I frequently get from students goes something like “green, what can I do to improve my technical skills and learn about <fill in the blank topic>?”, or “green, how can I get plugged into the infosec community?”
