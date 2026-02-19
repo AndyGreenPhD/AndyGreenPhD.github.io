@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
-        },{id: "nav-media-appearances",
-          title: "Media Appearances",
-          description: "Media Appearances",
+        },{id: "nav-media",
+          title: "Media",
+          description: "Here is a list of my media contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/media_appearances/";
