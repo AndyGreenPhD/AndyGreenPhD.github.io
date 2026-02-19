@@ -21,31 +21,31 @@ nav_order: 5
 
 # 2020
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 
 ---
 
 # 2019
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 
 ---
 
 # 2018
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 
 ---
 
 # 2017
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 
 ---
 
 # 2016
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 - Innovation in Teaching Award, Coles College.
 - Gary Roberts Outstanding Advisor to Student Organizations Award, Coles College.
 
@@ -53,23 +53,23 @@ nav_order: 5
 
 # 2015
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 
 ---
 
 # 2014
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 - Gary Roberts Outstanding Advisor to Student Organizations Award, Coles College.
 
 ---
 
 # 2012
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
 
 ---
 
 # 2011
 
-- Named Influential Instructor by Graduating Students.
+- Named "Influential Instructor" by Graduating Students.
