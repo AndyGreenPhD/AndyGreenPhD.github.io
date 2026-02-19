@@ -96,6 +96,24 @@ WSB TV interview about Crowdstrike outage
 
 [WXIA TV interview about AT&T data breach](https://www.11alive.com/article/tech/att-data-breach-impacts-millions-account-holders-dark-web/85-184feb31-e742-4435-8dd0-2e82d23ef4d3)
 
+**March 21**
+
+WSB TV interview about TikTok Federal legislation
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/3.21.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
+</div>
+
+**February 27**
+
+WSB TV interview about Fulton County ransomware attack
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/2.27.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
+</div>
+
 **February 20**
 
 [WSB TV interview about the Fulton County ransomware attack](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTA1NTYwNSZNRFNlZWQ9MzgzNSZUeXBlPU1lZGlh)
