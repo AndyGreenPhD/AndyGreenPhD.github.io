@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
-        },{id: "nav-awards-and-recognition",
-          title: "Awards and Recognition",
+        },{id: "nav-awards",
+          title: "Awards",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -51,12 +51,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/media_appearances/";
           },
-        },{id: "nav-sayings-and-witticisms",
-          title: "Sayings and Witticisms",
+        },{id: "nav-sayings",
+          title: "Sayings",
           description: "I’m going to try to capture clever sayings and witticisms here.  They may or may not be infosec-related, but they all manage to say something in a way I find clever, thoughtful, insightful, funny, etc…",
           section: "Navigation",
           handler: () => {
             window.location.href = "/sayings/";
+          },
+        },{id: "nav-administrivia",
+          title: "Administrivia",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/administrivia/";
           },
         },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
