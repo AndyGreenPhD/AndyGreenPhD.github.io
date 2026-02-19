@@ -65,6 +65,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/administrivia/";
           },
+        },{id: "nav-educational-resources",
+          title: "Educational Resources",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/educational_resources/";
+          },
         },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
