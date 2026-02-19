@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/media_appearances/";
           },
+        },{id: "nav-sayings-and-witticisms",
+          title: "Sayings and Witticisms",
+          description: "Sayings and Witticisms",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/sayings/";
+          },
         },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
