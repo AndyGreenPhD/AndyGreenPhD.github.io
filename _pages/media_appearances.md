@@ -331,6 +331,8 @@ WSB TV - Fulton County ransomware attack
 
 [WXIA TV - Verify: Is your phone's personal hot spot secure?](https://www.11alive.com/article/news/local/verify/verify-is-your-phones-personal-hot-spot-secure/85-6a8dee91-ea51-4134-9d10-a3196778361f)
 
+---
+
 # 2018
 
 **December 19**
