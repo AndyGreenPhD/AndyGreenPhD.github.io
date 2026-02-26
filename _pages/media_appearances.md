@@ -258,3 +258,19 @@ WSB TV interview about Fulton County ransomware attack
 **January 15**
 
 [WSB TV interview about City of Atlanta's refusal to disclose SolarWinds exposure](https://www.wsbtv.com/video/local-video/experts-criticizing-citys-refusal-confirm-theyve-done-business-with-software-firm-hit-with-hack/7795b498-7499-4abf-afa1-5f057ed54dd7/)
+
+---
+
+# 2020
+
+**December 22**
+
+[WSB TV interview - City of Atlanta refuses to answer whether it was impacted by massive computer attack](https://www.wsbtv.com/news/local/atlanta/city-atlanta-refuses-answer-whether-it-was-impacted-by-massive-computer-attack/F7JPGEQJKBAHVJKNBAUA35ASZY/)
+
+**October 9 **
+
+[WSB TV interview - Cyberattack on Georgia agency exposed private information of parents, children](https://www.wsbtv.com/news/local/cyberattack-georgia-agency-exposed-private-information-parents-children/6OA4DKDTWNAQJFWXTRK26KVDIU/)
+
+**August 8**
+
+[WXIA TV interview - Gwinnett students have issues logging in for virtual learning](https://www.11alive.com/video/news/education/gwinnett-students-have-issues-logging-in-for-virtual-learning/85-288acc82-d7d1-4da1-afaf-c61581fb29f1)
