@@ -435,7 +435,7 @@ WSB TV - Fulton County ransomware attack
 
 **March 22**
 
-["WXIA TV - Cyberattack hits Atlanta computers | 'Everyone who has done business' with city may be at risk"](https://www.11alive.com/article/news/local/cyberattack-hits-atlanta-computers-everyone-who-has-done-business-with-city-may-be-at-risk/85-530947288)
+[WXIA TV - Cyberattack hits Atlanta computers - 'Everyone who has done business' with city may be at risk](https://www.11alive.com/article/news/local/cyberattack-hits-atlanta-computers-everyone-who-has-done-business-with-city-may-be-at-risk/85-530947288)
 
 **March 22**
 
@@ -459,7 +459,7 @@ WSB TV - Fulton County ransomware attack
 
 **February 8**
 
-[The Parallax - Georgia bill could stifle the state’s booming cybersecurity community](https://www.the-parallax.com/georgia-315-cybersecurity-rights/)
+[The Parallax View - Georgia bill could stifle the state’s booming cybersecurity community](https://www.the-parallax.com/georgia-315-cybersecurity-rights/)
 
 **January 15**
 
@@ -468,3 +468,55 @@ WSB TV - Fulton County ransomware attack
 ---
 
 # 2017
+
+**November 13**
+
+[WSB TV - Confidential report shows MARTA paid contractor multimillion dollar contract after repeatedly not doing work](2wsb.tv/2mnI9HM)
+
+**October 11**
+
+[CBS46 TV - Trust and Caution](www.cbs46.com/clip/13806833/trust-and-caution)
+
+**October 5**
+
+[WSB TV - MARTA confirms exit of executive in charge of troubled IT system](2wsb.tv/2kr7z6n)
+
+**June 21**
+
+[CBS46 TV - Old votine machines questioned](/assets/pdf/2017-06-21-cbs46-old-voting-machines%20questioned.pdf)
+
+**June 20**
+
+[CBS46 TV - Karen Handel defeats Jon Ossoff in Georgia's 6th District (segment begins around the 8:08 mark)](www.cbs46.com/clip/13429590/karen-handel-defeats-jon-ossoff-in-georgias-6th-district)
+
+**May 24**
+
+[WSB TV - KSU professor gives perspective on report that rips reliability of MARTA's IT network](/assets/pdf/2017-05-24-wsb-ksu-professor-gives-perspective-on-marta-report.pdf)
+
+**May 18**
+
+WSB TV - MARTA disagrees with experts calling its IT operation 'chaotic'
+
+**May 17**
+
+[WSB TV - Cyber expert concerned MARTA won't release report](/assets/pdf/2017-05-17-wsb-cyber-expert-concerned-marta-wont-release-report.pdf)
+
+**May 4**
+
+[CDNet - How "adversarial engineering" of red teams is strengthening security practitioners](http://www.zdnet.com/article/adversarial­engineering­red­teams­strengthening­security/)
+
+**March 29**
+
+[WXIA TV - Verify: Does Congressional repeal on internet ads invade your privacy?](https://www.11alive.com/article/news/verify/verify-does-congressional-repeal-on-internet-ads-invade-your-privacy/85-426468805)
+
+**February 3**
+
+[WXIA TV - Ga. man steals over half a million dollars with single e-mail](https://www.11alive.com/article/news/crime/ga-man-steals-over-half-a-million-dollars-with-single-e-mail/85-395897509)
+
+**January 2**
+
+[WSB TV - MARTA hearing at Georgia State Capitol](www.wsbtv.com/video?videoId=481264570&videoVersion=1.0)
+
+---
+
+# 2016
