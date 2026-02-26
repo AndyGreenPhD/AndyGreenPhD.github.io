@@ -63,6 +63,41 @@
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: 8/2008 - 12/2009
 
+- title: Service - Institutional
+  type: time_table
+  contents:
+    - title: Vice Chair, Information Technology Advisory Committee (ITAC)
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 1/2026 - Present
+
+    - title: Director, KSU Cyber Range at Coles College
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 3/2024 - Present
+
+    - title: Faculty Advisor, Orthodox Christian Fellowship (OCF)
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 8/2022 - Present
+
+    - title: Program Coordinator, Information Security and Assurance (ISA) Undergraduate Program
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 8/2015 - 8/2026
+
+    - title: Faculty Advisor, KSU Offensive Security Research Club (OffSec)
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 12/2013 - Present
+    
+    - title: Committee Member, Cybersecurity governance committee
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 8/2022 - 1/2026
+
+    - title: Committee Member, Retention, Progression, and Graduation (RPG) Committee for IS and ISA Programs
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 8/2022 - 5/2023
+
+    - title: Committee Member, Coles Research and Development Council (RDC)
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 8/2020 - 5/2023
+
 - title: Professional Positions
   type: time_table
   contents:
