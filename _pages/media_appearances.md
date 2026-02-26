@@ -345,5 +345,47 @@ WSB TV - Fulton County ransomware attack
 
 **September 19**
 
-[AJC - Small businesses are big targets for cybercriminals](https://www.ajc.com/business/economy/small-businesses-are-big-targets-for-cybercriminals/giUsEjYNTCNhyo9LD54O4O/) 
+[AJC - Small businesses are big targets for cybercriminals](https://www.ajc.com/business/economy/small-businesses-are-big-targets-for-cybercriminals/giUsEjYNTCNhyo9LD54O4O/)
+
 [Alternate link via WRAL website](https://www.wral.com/story/small-businesses-are-big-targets-for-cybercriminals/17863442/)
+
+**July 26**
+
+[WMAZ TV - New emails circulating say there is video of you watching porn -- Is it real?](https://www.13wmaz.com/article/news/local/georgia/new-emails-circulating-say-there-is-video-of-you-watching-porn-is-it-real/93-577742745)
+
+**July 25**
+
+[WSB TV - Internal report reveals Fulton County lacks IT recovery plan](https://2wsb.tv/2v04lsy)
+
+**May 2**
+
+[Deseret News - What we can learn from the good-guy hackers](www.deseretnews.com/article/900017499/heres-what-we-can-learn-from-the-good-guy-hackers.html)
+
+**May 1**
+
+[AP News - Tech giants urge governor to veto Georgia cybercrime bill](https://apnews.com/general-news-national-national-3db0f0818c4f475dbae22ec4b6b4c5b9)
+
+**April 17**
+
+[STATESCOOP - Georgia infosec community urges governor to veto ambiguous computer crime bill](https://statescoop.com/georgia-infosec-community-urges-governor-to-veto-ambiguous-computer-crime-bill/)
+
+**April 6**
+
+[WXIA TV - Here's why cyber activists are pushing for veto of anti-hacking bill](https://www.11alive.com/article/tech/heres-why-cyber-activists-are-pushing-for-veto-of-anti-hacking-bill/85-536062135)
+
+**April 4**
+
+[Law.com Daily Report - Georgia Bill Raises Concerns, Questions for 'White Hat' Hackers](https://www.law.com/dailyreportonline/2018/04/04/georgia-bill-raises-concerns-questions-for-white-hat-hackers/)
+
+**April 2**
+
+[WABE Radio - Bill Criminalizing ‘Unauthorized Computer Access’ Concerns Security Experts](https://www.wabe.org/bill-criminalizing-unauthorized-computer-access-concerns-security-experts/)
+
+**April 2**
+
+[WSB TV - Internal audit raises more questions about how well MARTA's IT networks](www.wsbtv.com/video?videoId=725940960&videoVersion=1.0)
+
+**March 30**
+
+[Electronic Frontier Foundation - Georgia Passes Anti-Infosec Legislation](https://www.eff.org/deeplinks/2018/03/georgia-passes-anti-infosec-legislation)
+
