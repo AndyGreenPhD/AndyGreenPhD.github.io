@@ -435,7 +435,7 @@ WSB TV - Fulton County ransomware attack
 
 **March 22**
 
-[WXIA TV - Cyberattack hits Atlanta computers | 'Everyone who has done business' with city may be at risk](https://www.11alive.com/article/news/local/cyberattack-hits-atlanta-computers-everyone-who-has-done-business-with-city-may-be-at-risk/85-530947288)
+["WXIA TV - Cyberattack hits Atlanta computers | 'Everyone who has done business' with city may be at risk"](https://www.11alive.com/article/news/local/cyberattack-hits-atlanta-computers-everyone-who-has-done-business-with-city-may-be-at-risk/85-530947288)
 
 **March 22**
 
