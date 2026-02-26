@@ -526,6 +526,7 @@ WSB TV - MARTA disagrees with experts calling its IT operation 'chaotic'
 [WXIA TV - Yahoo says hackers stole information from over 1 billion accounts](www.11alive.com/news/yahoo-says-hackers-stole-information-from-over-1-billion-accounts/370167219)
 
 **October 21**
+
 [Newswise - Disruptive DYN attack motivations still sought, says Kennesaw State cybersecurity expert](https://www.newswise.com/articles/disruptive-dyn-attack-motivations-still-sought-says-kennesaw-state-cybersecurity-expert)
 
 **February 3**
