@@ -338,3 +338,12 @@ WSB TV - Fulton County ransomware attack
 **December 19**
 
 [CBS 46 Atlanta - Facebook's data sharing deals](https://www.cbs46.com/facebook-s-data-sharing-deals/video_cdaceee4-36ac-5c74-9679-0fcac3785c0c.html)
+
+**September 21**
+
+[WMAZ TV - Duluth man convicted of hacking into world's largest military base](https://www.13wmaz.com/article/news/local/georgia/duluth-man-convicted-of-hacking-into-worlds-largest-military-base/93-597044197)
+
+**September 19**
+
+[AJC - Small businesses are big targets for cybercriminals](https://www.ajc.com/business/economy/small-businesses-are-big-targets-for-cybercriminals/giUsEjYNTCNhyo9LD54O4O/) 
+[Alternate link via WRAL website](https://www.wral.com/story/small-businesses-are-big-targets-for-cybercriminals/17863442/)
