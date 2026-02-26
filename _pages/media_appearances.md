@@ -11,31 +11,35 @@ nav_order: 5
 
 **November 20** 
 
-[WXIA TV "The Take" interview about the causes of internet outages and how to prevent them](https://www.11alive.com/video/news/11alive-news-the-take-the-causes-of-internet-outages-and-how-to-prevent-them-112025/85-8e6b6fa5-1efd-424f-ada5-1ef8f5176537)
+[WXIA TV "The Take" - The causes of internet outages and how to prevent them](https://www.11alive.com/video/news/11alive-news-the-take-the-causes-of-internet-outages-and-how-to-prevent-them-112025/85-8e6b6fa5-1efd-424f-ada5-1ef8f5176537)
 
 **November 13** 
 
-[WXIA TV "The Take" interview about the dangers of deepfakes](https://www.11alive.com/video/news/11alive-news-the-take-the-dangers-of-deepfakes-111325/85-dca19c98-3087-436c-a2b2-17c737bd2909)
+[WXIA TV "The Take" - The dangers of deepfakes](https://www.11alive.com/video/news/11alive-news-the-take-the-dangers-of-deepfakes-111325/85-dca19c98-3087-436c-a2b2-17c737bd2909)
 
 **October 21** 
 
-[WXIA TV "The Take" interview about Amazon AWS outage](https://www.11alive.com/video/news/11alive-news-the-take-amazon-tech-outage-inside-what-happened-102125/85-ce19e005-2d40-4ab3-aaa0-dd550ed8296f)
+[WXIA TV "The Take" - Amazon tech outage: Inside what happened](https://www.11alive.com/video/news/11alive-news-the-take-amazon-tech-outage-inside-what-happened-102125/85-ce19e005-2d40-4ab3-aaa0-dd550ed8296f)
 
 **September 24** 
 
-[WXIA TV "The Take" interview about SIM farm discovery in NYC](https://www.youtube.com/watch?v=FYMJME3gojQ)
+[WXIA TV "The Take" - Secret Service finds NYC SIM farm threat](https://www.youtube.com/watch?v=FYMJME3gojQ)
 
 **June 19** 
 
-[WXIA TV "The Take" interview about NBS News poll on AI use in American society](https://www.11alive.com/video/entertainment/television/programs/the-take/11alive-news-the-take/85-65d85ba9-8605-461b-ae84-f9ed6d46dece) (interview is approximately 31 minutes in)
+[WXIA TV "The Take" - NBS News poll on AI use in American society](https://www.11alive.com/video/entertainment/television/programs/the-take/11alive-news-the-take/85-65d85ba9-8605-461b-ae84-f9ed6d46dece) (interview is approximately 31 minutes in)
 
 **May 3** 
 
-[WXIA TV interview about Cobb County ransomware attack](https://www.youtube.com/watch?v=ZYS_lDJrhhc)
+[WXIA TV - Cobb County cyberattack | Group demands ransom](https://www.youtube.com/watch?v=ZYS_lDJrhhc)
 
-**March 26** - 
+**March 26**
 
-[Marietta Daily Journal interview about Cobb County data breach](https://www.newsbreak.com/marietta-daily-journal-561232/3872902771442-update-cobb-officials-still-looking-to-see-if-data-compromised-in-server-breach)
+[Marietta Daily Journal - Cobb Officials "Still Looking" to see if Data Compromised in Server Breach](https://www.newsbreak.com/marietta-daily-journal-561232/3872902771442-update-cobb-officials-still-looking-to-see-if-data-compromised-in-server-breach)
+
+**January 20**
+
+[WXIA TV - Hackers hijack digital tickets, leaving metro Atlanta woman frustrated](https://www.11alive.com/article/news/investigations/ticketmaster-tickets-stolen-from-account/85-12c1314d-1c73-4037-954b-10b4ed0a4133)
 
 ---
 
@@ -43,7 +47,7 @@ nav_order: 5
 
 **November 19**
 
-WSB TV interview about Discord Security
+WSB TV - Discord Security
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/11.19.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -52,7 +56,7 @@ WSB TV interview about Discord Security
 
 **October 17**
 
-WSB TV interview about password fatigue
+WSB TV - password fatigue
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/11.17.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -61,27 +65,27 @@ WSB TV interview about password fatigue
 
 **August 1**
 
-[WXIA TV interview about issues with the Georgia Secretary of State’s new voter registration cancellation website](https://www.11alive.com/video/news/politics/85-57d76a98-bbdb-4600-af86-191af836b91b)
+[WXIA TV - Georgians concerned after glitch in voter registration website](https://www.11alive.com/video/news/politics/85-57d76a98-bbdb-4600-af86-191af836b91b)
 
 **July 23**
 
-[WXIA TV interview about Delta Airlines IT issues](https://www.11alive.com/article/travel/delta-pilot-cyber-security-expert-respond-ongoing-delta-issues-following-global-cyber-outage/85-f13ef356-c4d1-44e9-b961-a937c9c42454)
+[WXIA TV - Delta pilot describes ongoing issues with airline](https://www.11alive.com/article/travel/delta-pilot-cyber-security-expert-respond-ongoing-delta-issues-following-global-cyber-outage/85-f13ef356-c4d1-44e9-b961-a937c9c42454)
 
 **July 22**
 
-[WSB TV interview about Crowdstrike outage](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTg5NDUwMSZNRFNlZWQ9ODI1MyZUeXBlPU1lZGlh)
+[WSB TV - Crowdstrike outage](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTg5NDUwMSZNRFNlZWQ9ODI1MyZUeXBlPU1lZGlh)
 
 **July 20**
 
-[WANF TV interview about Crowdstrike outage](https://www.atlantanewsfirst.com/2024/07/20/it-will-happen-again-information-security-expert-says-it-could-take-companies-weeks-recover-crowdstrike-outage/)
+[WANF TV - ‘It will happen again’: Information security expert says it could take companies weeks to recover from CrowdStrike outage](https://www.atlantanewsfirst.com/2024/07/20/it-will-happen-again-information-security-expert-says-it-could-take-companies-weeks-recover-crowdstrike-outage/)
 
 **July 19**
 
-[WXIA TV interview about Crowdstrike outage](https://www.11alive.com/video/news/local/explanation-for-why-cyber-outage-happened-across-america/85-eea664a0-4602-4b67-8298-5bc0ef294675)
+[WXIA TV - Explanation for why cyber outage happened across America](https://www.11alive.com/video/news/local/explanation-for-why-cyber-outage-happened-across-america/85-eea664a0-4602-4b67-8298-5bc0ef294675)
 
 **July 19**
 
-WSB TV interview about Crowdstrike outage
+WSB TV - Crowdstrike outage
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/7.19.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -90,15 +94,15 @@ WSB TV interview about Crowdstrike outage
 
 **July 12**
 
-[WSB TV interview about AT&T data breach](https://www.wsbtv.com/news/local/atlanta/millions-att-customers-exposed-data-breach-cyber-expert-talks-security-privacy/CPQBZKTZXRETXFSDHIH222OD3E/)
+[WSB TV - Millions of AT&T customers exposed in data breach, cyber expert talks security, privacy](https://www.wsbtv.com/news/local/atlanta/millions-att-customers-exposed-data-breach-cyber-expert-talks-security-privacy/CPQBZKTZXRETXFSDHIH222OD3E/)
 
 **March 30**
 
-[WXIA TV interview about AT&T data breach](https://www.11alive.com/article/tech/att-data-breach-impacts-millions-account-holders-dark-web/85-184feb31-e742-4435-8dd0-2e82d23ef4d3)
+[WXIA TV - Millions of AT&T customers have personal information leaked following data breach](https://www.11alive.com/article/tech/att-data-breach-impacts-millions-account-holders-dark-web/85-184feb31-e742-4435-8dd0-2e82d23ef4d3)
 
 **March 21**
 
-WSB TV interview about TikTok Federal legislation
+WSB TV - TikTok Federal legislation
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/3.21.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -107,7 +111,7 @@ WSB TV interview about TikTok Federal legislation
 
 **February 27**
 
-WSB TV interview about Fulton County ransomware attack
+WSB TV - Fulton County ransomware attack
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/2.27.2024_wsb_tv_interview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -116,44 +120,44 @@ WSB TV interview about Fulton County ransomware attack
 
 **February 20**
 
-[WSB TV interview about the Fulton County ransomware attack](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTA1NTYwNSZNRFNlZWQ9MzgzNSZUeXBlPU1lZGlh)
+[WSB TV - the Fulton County ransomware attack](https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTExMjkzODQmTURJRD0yMTA1NTYwNSZNRFNlZWQ9MzgzNSZUeXBlPU1lZGlh)
 
 **February 16**
 
-[Neighborhood TV interview about the Fulton County ransomware attack](https://www.neighborhoodtv.com/vod/fulton-county-cyber-security-02-19-2024-atlanta.html)
+[Neighborhood TV - the Fulton County ransomware attack](https://www.neighborhoodtv.com/vod/fulton-county-cyber-security-02-19-2024-atlanta.html)
 
 **January 30**
 
-[WXIA TV interview about Fulton County ransomware attack](https://www.11alive.com/article/tech/cybersecurity-experts-weigh-in-on-fulton-cyber-attack/85-c0798d8e-da81-4e6f-b3b8-0285050ed5c0)
+[WXIA TV - Fulton County ransomware attack](https://www.11alive.com/article/tech/cybersecurity-experts-weigh-in-on-fulton-cyber-attack/85-c0798d8e-da81-4e6f-b3b8-0285050ed5c0)
 
 
 ---
 
 # 2023
 
-**August 15**
+**August 9**
 
-[Quoted in Maryland Association of Counties blog post about digital literacy for kids](https://conduitstreet.mdcounties.org/2023/08/09/florida-california-and-others-take-action-on-mandated-social-media-literacy-for-youth/)
+[Maryland Association of Counties - Florida, California, and Others Take Action on Mandated Social Media Literacy for Youth](https://conduitstreet.mdcounties.org/2023/08/09/florida-california-and-others-take-action-on-mandated-social-media-literacy-for-youth/)
 
 **August 8**
 
-[Quoted Route Fifty article about digital literacy for kids](https://www.route-fifty.com/digital-government/2023/08/more-states-look-boost-kids-social-media-literacy/389195/)
+[Route Fifty - More states look to boost kids’ social media literacy](https://www.route-fifty.com/digital-government/2023/08/more-states-look-boost-kids-social-media-literacy/389195/)
 
-**June 20**
+**June 27**
 
-[Quoted in an article about digital literacy for kids](https://www.route-fifty.com/digital-government/2023/06/digital-literacy-not-bans-should-shape-social-media-guardrails/387985/)
+[Route Fifty - Digital literacy, not bans, should shape states' approach to social media](https://www.route-fifty.com/digital-government/2023/06/digital-literacy-not-bans-should-shape-social-media-guardrails/387985/)
 
 **May 16**
 
-[Quoted in Route Fifty article about Montana TikTok ban legislation](https://www.route-fifty.com/cybersecurity/2023/05/enforcement-questions-dog-states-proposed-tiktok-ban/386423/)
+[Route Fifty - Enforcement questions dog state’s proposed TikTok ban](https://www.route-fifty.com/cybersecurity/2023/05/enforcement-questions-dog-states-proposed-tiktok-ban/386423/)
 
 **April 6**
 
-[WXIA TV interview about Georgia Attorney General’s cybercrime investigation](https://www.11alive.com/article/news/crime/georgia-investigations-cybercriminals/85-7e334478-55fb-4578-8918-9d01b812a8fe)
+[WXIA TV - Georgia attorney general launches next phase of investigations into cybercriminals across the state](https://www.11alive.com/article/news/crime/georgia-investigations-cybercriminals/85-7e334478-55fb-4578-8918-9d01b812a8fe)
 
 **March 20**
 
-[WXIA TV interview about the US Government banning foreign apps](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
+[WXIA TV - VERIFY: Has the U.S. ever placed a total ban on a foreign app?](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
 
 ---
 
@@ -161,35 +165,39 @@ WSB TV interview about Fulton County ransomware attack
 
 **December 12**
 
-[WXIA TV interview about USPS text scams](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
+[WXIA TV - Yes, text scams impersonating the United States Postal Service are circulating](https://www.11alive.com/article/news/verify/us-ban-oreign-app/85-3939f49a-c9a8-4bd0-8ebc-6ea54e46e163)
+
+**December 8**
+
+[WANF TV - Georgia senator wants to ban TikTok in Georgia](https://www.atlantanewsfirst.com/2022/12/08/could-georgia-be-next-state-ban-tiktok-government-devices/)
 
 **November 9**
 
-[WSB TV interview about app usage by state officials](https://www.wsbtv.com/news/2-investigates/it-expert-questions-use-app-by-state-officials/4GRWUDEZJZCTHJABJYZTB4JFQ4/)
+[WSB TV - IT expert questions use of app by state officials](https://www.wsbtv.com/news/2-investigates/it-expert-questions-use-app-by-state-officials/4GRWUDEZJZCTHJABJYZTB4JFQ4/)
 
 **October 11**
 
-[WSB TV interview about Dekalb county auditors refusal to release report](https://www.wsbtv.com/news/local/dekalb-county/dekalb-countys-internal-auditors-refusing-release-critical-report/DYZT5CAJ4NAV3EJYYESHO6FVBE/)
+[WSB TV - DeKalb County’s internal auditors refusing to release critical report](https://www.wsbtv.com/news/local/dekalb-county/dekalb-countys-internal-auditors-refusing-release-critical-report/DYZT5CAJ4NAV3EJYYESHO6FVBE/)
 
 **April 11**
 
-[Harvard Crimson interview about university data leakage](https://www.thecrimson.com/article/2022/4/12/harvard-huit-oversight-again/)
+[Harvard Crimson - IT Oversight Left Thousands of Harvard Internal Files Vulnerable — Again](https://www.thecrimson.com/article/2022/4/12/harvard-huit-oversight-again/)
 
 **April 11**
 
-[MoneyGeek interview about Identy Theft and Fraud prevention](https://www.moneygeek.com/credit-cards/resources/fraud/)
+[MoneyGeek - Identy Theft & Fraud](https://www.moneygeek.com/credit-cards/resources/fraud/)
 
 **March 22**
 
-[Marietta Daily Journal interview about potential Russian cyber-attacks](https://www.mdjonline.com/news/local/ksu-cyber-security-expert-on-potential-russian-cyber-attacks-don-t-panic/article_cf0112b8-aa17-11ec-af41-2346c0c873e9.html)
+[Marietta Daily Journal - KSU cyber security expert on potential Russian cyber-attacks: ‘Don’t panic’](https://www.mdjonline.com/news/local/ksu-cyber-security-expert-on-potential-russian-cyber-attacks-don-t-panic/article_cf0112b8-aa17-11ec-af41-2346c0c873e9.html)
 
 **March 1**
 
-[WABE Radio interview about Cyber threats to U.S. corporations amid Russian invasion of Ukraine](https://www.wabe.org/cyber-threats-to-u-s-corporations-critical-infrastructure-still-loom-amid-russian-invasion-of-ukraine/)
+[WABE Radio - Cyber threats to U.S. corporations, infrastructure loom amid Russian invasion of Ukraine](https://www.wabe.org/cyber-threats-to-u-s-corporations-critical-infrastructure-still-loom-amid-russian-invasion-of-ukraine/)
 
 **February 22**
 
-[WSB TV interview about social media use in court cases](https://www.wsbtv.com/news/local/federal-hate-crimes-trial-highlights-use-texts-social-media-court-cases/KLDLUVPW6JHNXLNL6AUXQUSYNQ/)
+[WSB TV - Federal hate crimes trial highlights use of texts, social media in court cases](https://www.wsbtv.com/news/local/federal-hate-crimes-trial-highlights-use-texts-social-media-court-cases/KLDLUVPW6JHNXLNL6AUXQUSYNQ/)
 
 ---
 
@@ -197,67 +205,67 @@ WSB TV interview about Fulton County ransomware attack
 
 **December 27**
 
-[WXIA TV interview about "The Cloud"](https://www.11alive.com/article/tech/what-is-cloud/85-8576e10a-e173-403b-bedc-61347f116759)
+[WXIA TV - What is the cloud?](https://www.11alive.com/article/tech/what-is-cloud/85-8576e10a-e173-403b-bedc-61347f116759)
 
 **November 17**
 
-[WSB TV interview about holiday shopping scams](https://www.wsbtv.com/news/local/holiday-shopping-season-ramps-up-so-are-scammers-coming-your-money-experts-say/QXJBOCZN3NENHEDQZOA77UEEIM/)
+[WSB TV - As holiday shopping season ramps up, so are scammers coming for your money](https://www.wsbtv.com/news/local/holiday-shopping-season-ramps-up-so-are-scammers-coming-your-money-experts-say/QXJBOCZN3NENHEDQZOA77UEEIM/)
 
 **October 12**
 
-[Harvard Crimson interview about university data leakage](https://www.thecrimson.com/article/2021/10/12/security-oversight-harvard-administration/)
+[Harvard Crimson - In Massive Security Oversight, Thousands of Private University Documents Left Vulnerable](https://www.thecrimson.com/article/2021/10/12/security-oversight-harvard-administration/)
 
 **September 16**
 
-[AdvisorSmith interview about the best cyber insurance companies](https://advisorsmith.com/cyber-liability-insurance/best-cyber-insurance-companies/)
+[AdvisorSmith - The Best Cyber Insurance Companies for 2021](https://advisorsmith.com/cyber-liability-insurance/best-cyber-insurance-companies/)
 
 **September 14**
 
-[WSB TV interview about critical Apple iPhone patch](https://www.youtube.com/watch?v=WY6hgrU9L24)
+[WSB TV - Apple issues urgent iPhone software update to address spyware vulnerability](https://www.youtube.com/watch?v=WY6hgrU9L24)
 
 **July 29**
 
-[Chicago Tribune interview about Illinois Attorney General ransomware attack](https://www.chicagotribune.com/investigations/ct-ransomware-attack-illinois-attorney-general-kwame-raoul-20210729-diukhbzjanhgzlcntft3nakbfy-story.html)
+[Chicago Tribune - Ransomware attack costs Illinois attorney general's office more than $2.5M](https://www.chicagotribune.com/investigations/ct-ransomware-attack-illinois-attorney-general-kwame-raoul-20210729-diukhbzjanhgzlcntft3nakbfy-story.html)
 
 **July 29**
 
-[Better Government Association interview about Illinois Attorney General ransomware attack](https://www.bettergov.org/news/no-ransom-paid-but-illinois-ag-office-is-spending-more-than-25-million-on-hacker-attack/)
+[Better Government Association - No Ransom Paid, but Illinois AG Office Is Spending More Than $2.5 Million on Hacker Attack](https://www.bettergov.org/news/no-ransom-paid-but-illinois-ag-office-is-spending-more-than-25-million-on-hacker-attack/)
 
 **June 17**
 
-[WATN TV interview about password cracking](https://www.localmemphis.com/article/life/ask-the-experts/how-long-would-it-take-hackers-to-crack-your-passwords/522-48bdb252-54d2-493a-b753-a5ed28d4d60e)
+[WATN TV - How long would it take hackers to crack your passwords?](https://www.localmemphis.com/article/life/ask-the-experts/how-long-would-it-take-hackers-to-crack-your-passwords/522-48bdb252-54d2-493a-b753-a5ed28d4d60e)
 
 **June 7**
 
-[WXIA TV interview about why cyber criminals to impact supply chains](https://www.11alive.com/article/money/cybercriminals-paralyze-goods/85-2bf3ab7d-6495-4be4-aad1-63da91995c05)
+[WXIA TV - Why are cybercriminals able to paralyze the production of goods we need?](https://www.11alive.com/article/money/cybercriminals-paralyze-goods/85-2bf3ab7d-6495-4be4-aad1-63da91995c05)
 
 **May 19**
 
-[WXIA TV interview about steps to take to protect yourself from online cyberattacks](https://www.11alive.com/article/news/local/protect-yourself-from-hackers/85-11663e99-b104-4b6d-a77a-8ea18ca3615a)
+[WXIA TV - steps to take to protect yourself from online cyberattacks](https://www.11alive.com/article/news/local/protect-yourself-from-hackers/85-11663e99-b104-4b6d-a77a-8ea18ca3615a)
 
 **March 18**
 
-[WSB TV interview about legislation to hide cyber attack details](https://www.wsbtv.com/video/local-video/experts-say-bills-going-through-legislature-will-make-it-easier-government-hide-details-cyber-attacks/3d4f0dbe-f6e3-4f5c-8706-cd2f247631ea/)
+[WSB TV - Experts say bills going through legislature will make it easier for government to hide details of cyber attacks](https://www.wsbtv.com/video/local-video/experts-say-bills-going-through-legislature-will-make-it-easier-government-hide-details-cyber-attacks/3d4f0dbe-f6e3-4f5c-8706-cd2f247631ea/)
 
 **March 12**
 
-[WSB TV interview about Cobb County emergency alert system attack](https://www.wsbtv.com/news/local/cobb-county/police-report-shows-cobb-county-schools-withheld-information-parents-teachers/F5J6ETRYNFBXTMVZZFBQV2BRWI/)
+[WSB TV - Police report shows Cobb County Schools withheld Information from parents, teachers](https://www.wsbtv.com/news/local/cobb-county/police-report-shows-cobb-county-schools-withheld-information-parents-teachers/F5J6ETRYNFBXTMVZZFBQV2BRWI/)
 
 **February 25**
 
-[WSB TV interview about Cobb County emergency alert system attack](https://vimeo.com/516931816)
+[WSB TV - Cobb Schools AlertPoint Cyber Attack 6pm piece](https://vimeo.com/516931816)
 
 **February 25**
 
-[WSB TV interview about Cobb County alert system attack](https://vimeo.com/516918492)
+[WSB TV - Cobb Schools AlertPoint Cyber Attack 5pm piece](https://vimeo.com/516918492)
 
 **February 24**
 
-[WXIA TV intervivew about Cobb County alert system attack](https://www.11alive.com/article/news/local/cobb-county-alert-false-alarm-a-targeted-attack/85-557f5bb3-d2d3-4193-b61a-698dece646cd)
+[WXIA TV - Code-Red alert sent district-wide to Cobb schools, forcing lockdowns, was 'targeted, external attack'](https://www.11alive.com/article/news/local/cobb-county-alert-false-alarm-a-targeted-attack/85-557f5bb3-d2d3-4193-b61a-698dece646cd)
 
 **January 15**
 
-[WSB TV interview about City of Atlanta's refusal to disclose SolarWinds exposure](https://www.wsbtv.com/video/local-video/experts-criticizing-citys-refusal-confirm-theyve-done-business-with-software-firm-hit-with-hack/7795b498-7499-4abf-afa1-5f057ed54dd7/)
+[WSB TV - Experts criticizing city's refusal to confirm they've done business with software firm hit with hack](https://www.wsbtv.com/video/local-video/experts-criticizing-citys-refusal-confirm-theyve-done-business-with-software-firm-hit-with-hack/7795b498-7499-4abf-afa1-5f057ed54dd7/)
 
 ---
 
@@ -267,10 +275,64 @@ WSB TV interview about Fulton County ransomware attack
 
 [WSB TV interview - City of Atlanta refuses to answer whether it was impacted by massive computer attack](https://www.wsbtv.com/news/local/atlanta/city-atlanta-refuses-answer-whether-it-was-impacted-by-massive-computer-attack/F7JPGEQJKBAHVJKNBAUA35ASZY/)
 
-**October 9 **
+**October 9**
 
 [WSB TV interview - Cyberattack on Georgia agency exposed private information of parents, children](https://www.wsbtv.com/news/local/cyberattack-georgia-agency-exposed-private-information-parents-children/6OA4DKDTWNAQJFWXTRK26KVDIU/)
 
-**August 8**
+**August 12**
 
 [WXIA TV interview - Gwinnett students have issues logging in for virtual learning](https://www.11alive.com/video/news/education/gwinnett-students-have-issues-logging-in-for-virtual-learning/85-288acc82-d7d1-4da1-afaf-c61581fb29f1)
+
+**August 12**
+
+[WXIA TV interview - Gwinnett Schools report issues with digital learning on first day of school](https://www.11alive.com/article/news/health/coronavirus/gwinnett-schools-online-learning-problems-logging-in/85-8eb22abc-aa84-45b1-ad68-90a548d3fd8f)
+
+**June 6**
+
+[Ars Technica - Georgia shows why November’s election could be chaos](https://arstechnica.com/tech-policy/2020/06/georgia-shows-why-novembers-election-could-be-chaos/)
+
+**April 7**
+
+[Marietta Daily Journal - KSU security expert: Key to Zoom security is in the settings](https://www.mdjonline.com/news/ksu-security-expert-key-to-zoom-security-is-in-the-settings/article_abf1c0ce-782d-11ea-863d-77a84ddcc377.html)
+
+**March 2020**
+
+[KSU Research Magazine - "False Alarm?"](https://research.kennesaw.edu/publications/research-magazine.php)
+
+**January 3**
+
+[WXIA TV - Amid threats of revenge, Atlanta knows Iran's cyber capabilities all too well](https://www.11alive.com/article/tech/iran-cyber-attack-atlanta-hack/85-3bc9abc5-5483-4cac-9b27-7518dabb95d7)
+
+---
+
+# 2019
+
+**December 17**
+
+[AJC - Henry County has spent $650,000 restoring computer network after hack](https://www.ajc.com/news/local/henry-county-has-spent-650-000-restoring-computer-network-after-hack/t1NlxcLheQuf7frMyViDdJ/)
+
+**November 26**
+
+[WXIA TV - VERIFY: Does Cyber Monday increase shoppers' risk of getting hacked?](https://www.11alive.com/article/news/verify/verify-cyber-monday-shopping-hacking-risk/85-542b687a-d9b4-468a-8e57-3aefa1fdbffb)
+
+**August 7**
+
+[AJC - Henry County spends $88,000 on consultants for cyber security](/assets/pdf/2019-08-07-ajc-article-henry-county-spends-88000-on-consultants-for-cyberattack.pdf)
+
+**July 29**
+
+[WSB TV - Security expert gives Atlanta Public Schools ‘C' for IT security](https://www.wsbtv.com/video?videoId=971066015&videoVersion=1.0)
+
+**July 25**
+
+[AJC - Experts: Henry, Lawrenceville cyberattack recovery will be slow](https://www.ajc.com/news/local/henry-lawrenceville-cyberattack-recovery-will-slow-experts-say/RemFXazQkBsBCNP3C9W0CI/)
+
+**February 2**
+
+[WXIA TV - Verify: Is your phone's personal hot spot secure?](https://www.11alive.com/article/news/local/verify/verify-is-your-phones-personal-hot-spot-secure/85-6a8dee91-ea51-4134-9d10-a3196778361f)
+
+# 2018
+
+**December 19**
+
+[CBS 46 Atlanta - Facebook's data sharing deals](https://www.cbs46.com/facebook-s-data-sharing-deals/video_cdaceee4-36ac-5c74-9679-0fcac3785c0c.html)
