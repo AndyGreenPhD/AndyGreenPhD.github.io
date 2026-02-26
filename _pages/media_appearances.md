@@ -383,9 +383,20 @@ WSB TV - Fulton County ransomware attack
 
 **April 2**
 
-[WSB TV - Internal audit raises more questions about how well MARTA's IT networks](www.wsbtv.com/video?videoId=725940960&videoVersion=1.0)
+[WSB TV - Internal audit raises more questions about how well MARTA's IT networks](https://www.wsbtv.com/video?videoId=725940960&videoVersion=1.0)
 
 **March 30**
 
 [Electronic Frontier Foundation - Georgia Passes Anti-Infosec Legislation](https://www.eff.org/deeplinks/2018/03/georgia-passes-anti-infosec-legislation)
 
+**March 29**
+
+[WABE Radio - What We Know About The Atlanta Ransomware Attack](https://www.wabe.org/know-atlanta-ransomware-attack/)
+
+**March 29**
+
+[Fox News Channel - Atlanta still battling effects of ransomware attack, expert says hack should be national 'wakeup call'](https://www.foxnews.com/tech/atlanta-still-battling-effects-of-ransomware-attack-expert-says-hack-should-be-national-wakeup-call)
+
+**March 29**
+
+[Fox News Channel - Special Report with Bret Baier"](https://video.foxnews.com/v/5760776978001/?#sp=show-clips)
