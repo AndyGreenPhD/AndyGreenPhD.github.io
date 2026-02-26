@@ -520,3 +520,62 @@ WSB TV - MARTA disagrees with experts calling its IT operation 'chaotic'
 ---
 
 # 2016
+
+**December 15**
+
+[WXIA TV - Yahoo says hackers stole information from over 1 billion accounts](www.11alive.com/news/yahoo-says-hackers-stole-information-from-over-1-billion-accounts/370167219)
+
+**October 21**
+[Newswise - Disruptive DYN attack motivations still sought, says Kennesaw State cybersecurity expert](https://www.newswise.com/articles/disruptive-dyn-attack-motivations-still-sought-says-kennesaw-state-cybersecurity-expert)
+
+**February 3**
+
+[WSB TV - MARTA network security followup](http://bcove.me/0zn81itq)
+
+---
+
+# 2015
+
+**December 18**
+
+WXIA TV - Internet-connected Christmas Toys
+
+**December 16**
+
+[Coles College of Business - Expert Advice:  How to keep kids safe with tech toys this season](/assets/pdf/2015-12-16-coles-college-of-business-expert-advice-how-to-keep-kids-safe-with-tech.pdf)
+
+**December**
+
+[Cobb in Focus - Prep Your Business for a Data Breach](/assets/pdf/2015-12-prep-your-business-for-a-data-breach.pdf)
+
+**November 26**
+
+[WSB TV - October 2015 Data Breach at the Georgia Secretary of State's Office](bcove.me/vmqdi7ra)
+
+**November 16**
+
+[WSB TV - MARTA struggling to correct computer system security problems](www.wsbtv.com/videos/news/marta-struggling-to-correct-computer-system/vDfGcM/)
+
+**September 30**
+
+Fox 5 Atlanta TV - Twitter, Cyber Mobs
+
+**September 23**
+
+[Business RadioX - Silver Lining in the Cloud broadcast](https://businessradiox.com/podcast/silverlining/cdi-managed-services-37/)
+
+**February 15**
+
+[Kennesaw State University - There’s No Free Lunch When Privacy is Involved](kennesawstatehootfeed.wordpress.com/2015/02/12/theres-no-free-lunch-when-privacy-is-involved/)
+
+**January 16**
+
+[Kennesaw State University - Blackhat, Whitehat: Understanding Cyber Lingo](kennesawstatehootfeed.wordpress.com/2015/01/16/blackhat-whitehat-understanding-cyber-lingo/)
+
+---
+
+# 2014
+
+**December 14**
+
+[WSB TV - Fake Twitter Account Causing Headaches for Local Police Department](www.wsbtv.com/videos/news/fake-twitter-account-causing-headaches-for-local/vC5LLX/)
