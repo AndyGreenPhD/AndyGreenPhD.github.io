@@ -400,3 +400,71 @@ WSB TV - Fulton County ransomware attack
 **March 29**
 
 [Fox News Channel - Special Report with Bret Baier"](https://video.foxnews.com/v/5760776978001/?#sp=show-clips)
+
+**March 28**
+
+[WXIA TV - How to protect your personal computer from ransomware](https://www.11alive.com/article/news/how-to-protect-your-personal-computer-from-ransomware/85-532739328)
+
+**March 27**
+
+[TechTarget - Five days after Atlanta ransomware attack, recovery begins](https://www.techtarget.com/searchsecurity/news/252437715/Five-days-after-Atlanta-ransomware-attack-recovery-begins)
+
+**March 26**
+
+[WXIA TV - Recovery from Atlanta cyber attack could take months](www.11alive.com/video/news/local/cyber-security-expert-full-recovery-from-atlanta-cyber-attack-could-take-months/85-8048003)
+
+**March 25**
+
+[WXIA TV - Public deserves to know more about how Atlanta is battling cyberattack, expert says](https://www.11alive.com/article/news/local/public-deserves-to-know-more-about-how-atlanta-is-battling-cyberattack-expert-says/85-532024266)
+
+**March 23**
+
+[WXIA TV - Video update from Kaitlyn Ross about City of Atlanta ransomware attack](https://x.com/kaitlynross1/status/977210726371790858)
+
+**March 23**
+
+[Fox 5 Atlanta - Atlanta Mayor: No evidence citizen, employee data compromised in cyberattack](https://www.fox5atlanta.com/news/atlanta-mayor-no-evidence-citizen-employee-data-compromised-in-cyberattack)
+
+**March 23**
+
+[WSB TV - MARTA study show transit agency had severe IT security problem](www.wsbtv.com/video?videoId=720806204&videoVersion=1.0)
+
+**March 22**
+
+[WXIA TV - HACKED! The City of Atlanta’s systems were compromised by a ransomware attack - how do you protect yourself??](https://www.facebook.com/kaitlynrossjournalist/videos/hacked-the-city-of-atlantas-systems-were-compromised-by-a-ransomware-attack-how-/1886085128088752/)
+
+**March 22**
+
+[WXIA TV - Cyberattack hits Atlanta computers | 'Everyone who has done business' with city may be at risk](https://www.11alive.com/article/news/local/cyberattack-hits-atlanta-computers-everyone-who-has-done-business-with-city-may-be-at-risk/85-530947288)
+
+**March 22**
+
+[GovTech.com - FBI, DHS Assisting Atlanta Response to Reported Ransomware Attack](https://www.govtech.com/security/FBI-DHS-Assisting-Atlanta-Response-to-Reported-Ransomware-Attack.html)
+
+**March 12**
+
+[AJC - Georgia bill might limit efforts to find internet security problems](https://politics.myajc.com/news/state--regional-govt--politics/georgia-bill-might-limit-efforts-find-internet-security-problems/du2KMoFlP2t6UPPMdxD74O/)
+
+**February 25**
+
+[AP News - Sweeping Georgia cybercrime bill would target 'snoopers'](https://apnews.com/general-news-8460069f254d4bb4bcc0d0d932d7eb95)
+
+**February 21**
+
+[WSB TV - IT expert criticizes how long MARTA is taking to correct problems that could affect riders](www.wsbtv.com/video?videoId=704630160&videoVersion=1.0)
+
+**February 15**
+
+[WABE Radio - Ga. Senate Passes Bill Criminalizing ‘Unauthorized Computer Access’](https://www.wabe.org/ga-senate-passes-bill-criminalizing-unauthorized-computer-access/)
+
+**February 8**
+
+[The Parallax - Georgia bill could stifle the state’s booming cybersecurity community](https://www.the-parallax.com/georgia-315-cybersecurity-rights/)
+
+**January 15**
+
+[KSU Sentinel - "Meltdown" and "Spectre" vulnerabilities pose threat to devices](https://web.archive.org/web/20180121125030/http://ksusentinel.com/2018/01/15/meltdown-and-spectre-vulnerabilities-pose-threat-to-devices/)
+
+---
+
+# 2017
