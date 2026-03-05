@@ -150,6 +150,73 @@
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: 8/2012 - 8/2014
 
+- title: Service - Professional
+  type: time_table
+  contents:
+    - title: President-Elect, Special Interest Group on Information Security and Privacy (SIGSEC)
+      institution: Association for Information Systems (AIS)
+      year: 8/2025 - Present
+
+    - title: Organizer
+      institution: BSides Atlanta Conference, Atlanta, Georgia, US
+      year: 1/2018 - Present
+
+    - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
+      institution: Association for Information Systems (AIS), Nashville, Tennessee, US
+      year: 5/2025 - 12/2025
+
+    - title: Track Organizer, Information Security and Privacy Track - Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Montréal, Quebec, Canada
+      year: 8/2020 - 8/2025
+
+    - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
+      institution: Association for Information Systems (AIS), Bangkok, Thailand
+      year: 5/2024 - 12/2024
+
+    - title: Session Chair, 2024 Dewald Roode Information Systems Research Symposium (DRIS)
+      institution: Kennesaw State University, Kennesaw, Georgia, US
+      year: 10/2024
+
+    - title: Track Organizer, Information Security and Privacy Track - Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Salt Lake City, Utah, US
+      year: 5/2023 - 8/2024
+
+    - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
+      institution: Association for Information Systems (AIS), Hyderabad, India
+      year: 5/2023 - 12/2023
+
+    - title: Session Chair, 29th Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Panama City, Panama
+      year: 8/2023
+
+    - title: Track Organizer, Information Security and Privacy Track - Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Minneapolis, Minnesota, US
+      year: 1/2022 - 8/2022
+
+    - title: Session Chair, 28th Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Minneapolis, Minnesota, US
+      year: 8/2022
+
+    - title: Track Organizer, Information Security and Privacy Track - 26th Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Salt Lake City, Utah, US
+      year: 1/2020 - 8/2020
+
+    - title: Session Chair, 26th Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), Salt Lake City, Utah, US
+      year: 8/2020
+
+    - title: Track Organizer, Information Security and Privacy Track - 24th Americas Conference on Information Systems (AMCIS)
+      institution: Association for Information Systems (AIS), New Orleans, Louisiana, US
+      year: 1/2018 - 8/2018
+
+    - title: Board Member (non-voting) - Metro Atlanta Chapter
+      institution: Information Systems Security Association (ISSA), Atlanta, Georgia, US
+      year: 1/2014 - 12/2014
+
+    - title: Program Committee Member,Southeast Conference
+      institution: Association for Computing Machinery (ACM), Tuscaloosa, Alabama, US
+      year: 1/2012 - 3/2012
+
 - title: Professional Positions
   type: time_table
   contents:
