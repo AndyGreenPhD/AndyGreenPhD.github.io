@@ -39,7 +39,7 @@
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: 8/2020 - Present
 
-    - title: Provisional Graduate Faculty
+    - title: Full Graduate Faculty
       institution: Kennesaw State University, Kennesaw, Georgia, US
       year: 4/2020 - Present
 
@@ -169,6 +169,10 @@
       institution: Association for Information Systems (AIS), Montréal, Quebec, Canada
       year: 8/2020 - 8/2025
 
+    - title: At-large Director, Special Interest Group on Information Security and Privacy (SIGSEC)
+      institution: Association for Information Systems (AIS)
+      year: 8/2022 - 8/2025
+
     - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
       institution: Association for Information Systems (AIS), Bangkok, Thailand
       year: 5/2024 - 12/2024
@@ -235,6 +239,9 @@
 - title: Awards and Honors
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Named “Influential Instructor” by Graduating Students - Kennesaw State University
     - year: 2025
       items:
         - Association for Information Systems (AIS) Distinguished Member
