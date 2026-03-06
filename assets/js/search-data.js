@@ -778,7 +778,7 @@ ninja.data = [{
         title: 'Mastodon',
         section: 'Socials',
         handler: () => {
-          window.open("https://AndyGreenPhd@infosec.exchange", "_blank");
+          window.open("https://infosec.exchange/@AndyGreenPhD", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -800,6 +800,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.zotero.org/andygreenphd", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://facultyweb.kennesaw.edu/agreen57/index.php", "_blank");
         },
       },{
       id: 'light-theme',
