@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/educational_resources/";
           },
-        },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
+        },{id: "post-georgia-senate-bill-568-fails-again-we-wait",
+        
+          title: "Georgia Senate Bill 568 fails — again, we wait",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/03/13/sb568-fails-what-next/";
+          
+        },
+      },{id: "post-is-georgia-moving-to-hand-marked-paper-ballots-for-elections",
         
           title: "Is Georgia moving to hand-marked paper ballots for elections?",
         
