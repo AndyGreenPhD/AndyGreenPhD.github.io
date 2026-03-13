@@ -33,4 +33,4 @@ My 2025 post on Senate Bill 214 – <https://andygreen.phd/blog/2025/03/27/is-ge
 
 My 2020 post on how to vote using a hand-marked absentee ballot in Georgia – <https://andygreen.phd/blog/2020/10/17/how-to-hack-the-vote-georgia-style/>
 
-Georgia Secretary of State Absentee Ballot website - <https://georgia.gov/vote-absentee-ballot
+Georgia Secretary of State Absentee Ballot website - <https://georgia.gov/vote-absentee-ballot>
