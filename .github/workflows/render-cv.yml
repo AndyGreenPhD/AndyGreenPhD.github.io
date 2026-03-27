@@ -27,11 +27,11 @@ jobs:
           pip install -r requirements.txt
       - name: RenderCV
         run: |
-          cv_file=$(find _data  -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
-          if [ -z "$cv_file" ]; then
-            echo "No cv.yml file found!"
-            exit 1
-          fi
+          #cv_file=$(find _data  -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
+          #if [ -z "$cv_file" ]; then
+          #  echo "No cv.yml file found!"
+          #  exit 1
+          #fi
           rendercv_dir=$(find assets -maxdepth 1 -type d -name "rendercv")
           if [ -z "$rendercv_dir" ]; then
             echo "No RenderCV config directory found!"
@@ -43,7 +43,7 @@ jobs:
             exit 1
           fi
           #rendercv render $cv_file --settings $settings
-          rendercv render cv.yml -- settings $settings
+          rendercv render _data/cv.yml --settings $settings
           rm assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
         uses: actions/upload-artifact@v4
