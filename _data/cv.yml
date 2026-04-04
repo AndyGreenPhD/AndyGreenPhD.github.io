@@ -8,7 +8,7 @@ cv:
     - network: GitHub
       username: AndyGreenPhD
     - network: Mastodon
-      username: '@AndyGreenPhD@infosec.exchange'
+      username: AndyGreenPhD@infosec.exchange
   
   custom_connections:
   
