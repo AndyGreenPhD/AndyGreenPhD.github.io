@@ -3,34 +3,34 @@ cv:
   website: https://andygreen.phd
   
   social_networks:
-    - network: LinkedIn
-      username: AndyGreenPhD
-    - network: GitHub
-      username: AndyGreenPhD
-    - network: Mastodon
-      username: '@AndyGreenPhD@infosec.exchange'
+    #- network: LinkedIn
+    #  username: AndyGreenPhD
+    #- network: GitHub
+    #  username: AndyGreenPhD
+    #- network: Mastodon
+    #  username: '@AndyGreenPhD@infosec.exchange'
   
   sections:
     education:
       - institution: Nova Southeastern University
         degree: Ph.D.
-        area: Information Systems, Supporting Area of Emphasis - Information Security
+        area: Information Systems, Supporting Area of Emphasis \- Information Security
         date: 2020
         location: Fort Lauderdale, Florida, USA
         highlights:
-          - 'Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)'
-          - 'Advisor - James Parrish, Ph.D.'
-          - 'Committee Members - Jason B. Thatcher, Ph.D., James N. Smith, DBA'
+          - Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)
+          - Advisor \- James Parrish, Ph.D.
+          - Committee Members \- Jason B. Thatcher, Ph.D., James N. Smith, DBA
 
       - institution: Kennesaw State University
         degree: M.S.
-        area: Information Systems, Supporting Area of Emphasis - Information Security
+        area: Information Systems, Supporting Area of Emphasis \- Information Security
         date: 2007
         location: Kennesaw, Georgia, USA
 
       - institution: Kennesaw State University
         degree: B.S.
-        area: Information Systems, Supporting Area of Emphasis - Information Security
+        area: Information Systems, Supporting Area of Emphasis \- Information Security
         date: 2005
         location: Kennesaw, Georgia, USA
     
