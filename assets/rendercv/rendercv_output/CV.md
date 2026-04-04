@@ -1,10 +1,13 @@
 # Andrew William Green, Ph.D.'s CV
 
 - Website: [andygreen.phd](https://andygreen.phd/)
+- LinkedIn: [AndyGreenPhD](https://linkedin.com/in/AndyGreenPhD)
+- GitHub: [AndyGreenPhD](https://github.com/AndyGreenPhD)
+- Mastodon: [@AndyGreenPhD@infosec.exchange](https://infosec.exchange/@AndyGreenPhD)
 
 
 # Education
-## **Nova Southeastern University**, Information Systems, Supporting Area of Emphasis \- Information Security
+## **Nova Southeastern University**, Information Systems, Supporting Area of Emphasis - Information Security
 
 **Ph.D.**
 
@@ -20,11 +23,13 @@ Fort Lauderdale, Florida, USA
 
   - James Parrish, Ph.D.
 
-- Committee Members \- Jason B. Thatcher, Ph.D., James N. Smith, DBA
+- Committee Members
+
+  - Jason B. Thatcher, Ph.D., James N. Smith, DBA
 
 
 
-## **Kennesaw State University**, Information Systems, Supporting Area of Emphasis \- Information Security
+## **Kennesaw State University**, Information Systems, Supporting Area of Emphasis - Information Security
 
 **M.S.**
 
@@ -36,7 +41,7 @@ Kennesaw, Georgia, USA
 
 
 
-## **Kennesaw State University**, Information Systems, Supporting Area of Emphasis \- Information Security
+## **Kennesaw State University**, Information Systems, Supporting Area of Emphasis - Information Security
 
 **B.S.**
 
