@@ -10,26 +10,4 @@ cv:
     - network: Mastodon
       username: '@AndyGreenPhD@infosec.exchange'
   
-  sections:
-    education:
-      - institution: 'Nova Southeastern University'
-        degree: 'Doctor of Philosophy (Ph.D.)'
-        area: 'Information Systems, Supporting Area of Emphasis - Information Security'
-        date: 2020
-        location: 'Fort Lauderdale, Florida, USA'
-        highlights:
-          - 'Dissertation: <a href="https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd" target="_blank">SNS Use, Risk, and Executive Behavior</a>'
-          - 'Advisor: James Parrish, Ph.D.'
-          - 'Committee members: Jason B. Thatcher, Ph.D., James N. Smith, DBA'
-      
-      - institution: 'Kennesaw State University'
-        degree: 'Master of Science'
-        area: 'Information Systems, Supporting Area of Emphasis - Information Security'
-        date: 2007
-        location: 'Kennesaw, Georgia, USA'
-      
-      - institution: 'Kennesaw State University'
-        degree: 'Bachelor of Science'
-        area: 'Information Systems, Supporting Area of Emphasis - Information Security'
-        date: 2005
-        location: 'Kennesaw, Georgia, USA'
+  
