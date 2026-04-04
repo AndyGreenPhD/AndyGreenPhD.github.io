@@ -1,44 +1,38 @@
 cv:
   name: Andrew William Green, Ph.D. 
-  headline:
-  location: San Francisco, CA
-  email: john.doe@email.com
-  photo:
-  phone:
   website: https://andygreen.phd
+  
   social_networks:
     - network: LinkedIn
-      username: rendercv
+      username: AndyGreenPhD
     - network: GitHub
-      username: rendercv
+      username: AndyGreenPhD
+    - network: Mastodon
+      username: @AndyGreenPhD@infosec.exchange
+  
   custom_connections:
+  
   sections:
-    Welcome to RenderCV:
-      - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
-      - Each section title is arbitrary.
-      - You can choose any of the 9 entry types for each section.
-      - Markdown syntax is supported everywhere. This is **bold**, *italic*, and [link](https://example.com).
     education:
-      - institution: Princeton University
-        area: Computer Science
-        degree: PhD
-        date:
-        start_date: 2018-09
-        end_date: 2023-05
-        location: Princeton, NJ
+      - institution: Nova Southeastern University
+        degree: Doctor of Philosophy (Ph.D.)
+        area: Information Systems, Supporting Area of Emphasis - Information Security
+        date: 2020
+        location: Fort Lauderdale, Florida, USA
         summary:
         highlights:
-          - 'Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment'
-          - 'Advisor: Prof. Sanjeev Arora'
-          - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
-      - institution: Boğaziçi University
-        area: Computer Engineering
-        degree: BS
-        date:
-        start_date: 2014-09
-        end_date: 2018-06
-        location: Istanbul, Türkiye
-        summary:
-        highlights:
-          - 'GPA: 3.97/4.00, Valedictorian'
-          - Fulbright Scholarship recipient for Graduate Studies
+          - 'Dissertation: <a href="https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd" target="_blank">SNS Use, Risk, and Executive Behavior</a>'
+          - 'Advisor: James Parrish, Ph.D.'
+          - 'Committee members: Jason B. Thatcher, Ph.D., James N. Smith, DBA'
+      
+      - institution: Kennesaw State University
+        degree: Master of Science
+        area: Information Systems, Supporting Area of Emphasis - Information Security
+        date: 2007
+        location: Kennesaw, Georgia, USA
+      
+      - institution: Kennesaw State University
+        degree: Bachelor of Science
+        area: Information Systems, Supporting Area of Emphasis - Information Security
+        date: 2005
+        location: Kennesaw, Georgia, USA
