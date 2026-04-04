@@ -18,5 +18,20 @@ cv:
         date: 2020
         location: Fort Lauderdale, Florida, USA
         highlights:
-          - 'Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)'      
+          - 'Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)'
+          - 'Advisor - James Parrish, Ph.D.'
+        - - 'Committee Members - Jason B. Thatcher, Ph.D., James N. Smith, DBA'
+
+      - institution: Kennesaw State University
+        degree: Master of Science (M.S.)
+        area: Information Systems, Supporting Area of Emphasis - Information Security
+        date: 2007
+        location: Kennesaw, Georgia, USA
+
+      - institution: Kennesaw State University
+        degree: Bachelor of Science (B.S.)
+        area: Information Systems, Supporting Area of Emphasis - Information Security
+        date: 2005
+        location: Kennesaw, Georgia, USA
+    
        
