@@ -2,6 +2,11 @@
 design:
   theme: classic
   page:
-    size: a4
+    size: us-letter
     show_footer: false
     show_top_note: false
+
+  typography:
+    font_family: Latin Modern Roman
+    body: 12pt
+   
