@@ -259,15 +259,15 @@ contents:
   contents:
     - title: Reviewer
       Journals:
-        - title: Information Systems Frontiers
-        - title: ACM Digital Threats: Research and Practice
-        - title: Communications of the Association for Information Systems (CAIS)
-        - title: Organizationall Cybersecurity Journal: Practice, Process, & People
+        - bullet: Information Systems Frontiers
+        - bullet: ACM Digital Threats: Research and Practice
+        - bullet: Communications of the Association for Information Systems (CAIS)
+        - bullet: Organizationall Cybersecurity Journal: Practice, Process, & People
       Conferences:
-        - title: 2025 Americas Conference on Information Systems (AMCIS)
-        - title: 2025 European Conference on Information Systems (ECIS)
-        - title: 2025 Hawaii International Conference on System Sciences (HICSS)
-        - title: IEEE SoutheastCon 2024
+        - bullet: 2025 Americas Conference on Information Systems (AMCIS)
+        - bullet: 2025 European Conference on Information Systems (ECIS)
+        - bullet: 2025 Hawaii International Conference on System Sciences (HICSS)
+        - bullet: IEEE SoutheastCon 2024
 
 
 - title: Professional Positions
