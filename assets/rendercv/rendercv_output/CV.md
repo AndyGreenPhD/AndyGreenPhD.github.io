@@ -16,7 +16,9 @@ Fort Lauderdale, Florida, USA
 
 - Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)
 
-- Advisor \- James Parrish, Ph.D.
+- Advisor
+
+  - James Parrish, Ph.D.
 
 - Committee Members \- Jason B. Thatcher, Ph.D., James N. Smith, DBA
 
