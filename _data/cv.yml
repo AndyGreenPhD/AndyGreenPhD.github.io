@@ -1,333 +1,44 @@
-type: CodeCV
-contents:
-  - title: General Information
-    type: map
-    contents:
-      - name: Full Name
-        value: Andrew William Green, Ph.D.
-      - name: Languages
-        value: English
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Andrew William Green, Ph.D.
-    - name: Languages
-      value: English
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Philosophy - Information Systems, Supporting Area of Emphasis - Information Security
-      institution: Nova Southeastern University, Fort Lauderdale, Florida, US
-      year: 2020
-      description:
-        - title: Dissertation
-          contents:
-            - <a href="https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd" target="_blank">SNS Use, Risk, and Executive Behavior</a>
-        - title: Advisor
-          contents:
-            - James Parrish, Ph.D.
-        - title: Committee Members
-          contents:
-            - Jason B. Thatcher, Ph.D.
-            - James N. Smith, DBA
-
-    - title: Master of Science - Information Systems, Supporting Area of Emphasis - Information Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 2007
-
-    - title: Bachelor of Science - Information Systems, Supporting Area of Emphasis - Information Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 2005
-
-- title: Academic Positions
-  type: time_table
-  contents:
-    - title: Assistant Professor of Information Security and Assurance
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2020 - Present
-
-    - title: Full Graduate Faculty
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 4/2020 - Present
-
-    - title: Career Coach, Hughes Leadership Program
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 1/2017 - 8/2020
-
-    - title: Lecturer of Information Security and Assurance
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 6/2012 - 8/2020
-
-    - title: Temporary Instructor
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2011 - 5/2012
-
-    - title: Temporary Instructor
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 1/2010 - 8/2011
-
-    - title: Adjunct Instructor
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2008 - 12/2009
-
-  - title: Service - Institutional
-    type: time_table
-    contents:
-      - title: Vice Chair, Information Technology Advisory Committee (ITAC)
-        institution: Kennesaw State University, Kennesaw, Georgia, US
-        year: 1/2026 - Present
-- title: Service - Institutional
-  type: time_table
-  contents:
-    - title: Vice Chair., Information Technology Advisory Committee (ITAC)
-- title: Service - Institutional
-  type: time_table
-  contents:
-    - title: Vice Chair, Information Technology Advisory Committee (ITAC)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 1/2026 - Present
-
-    - title: Committee Member, Evening MBA Curriculum Review Committee - Coles College of Business
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 10/2025 - 5/2026
-
-      - title: Director, KSU Cyber Range at Coles College - Coles College of Business
-        institution: Kennesaw State University, Kennesaw, Georgia, US
-        year: 3/2024 - Present
-    - title: Co-chair, Faculty search committee - Assistant Professor of Information Security and Assurance - Department of Information Systems and Security
-    - title: Co-chair, Faculty search committee - Assistant Professor of Information Systems and Security - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 5/2025 - 3/2026
-      - title: Co-chair, Faculty search committee - Assistant Professor of Information Systems and Security - Department of Information Systems and Security
-        institution: Kennesaw State University, Kennesaw, Georgia, US
-        year: 5/2025 - 3/2026
-    - title: Co-chair, Faculty search committee - Assistant Professor of Information Systems and Security - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 5/2025 - 3/2026
-
-    - title: Director, KSU Cyber Range at Coles College - Coles College of Business
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 3/2024 - Present
-
-    - title: Faculty Advisor, Orthodox Christian Fellowship (OCF)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2022 - Present
-
-    - title: Program Coordinator, Information Security and Assurance (ISA) Undergraduate Program - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2015 - 8/2026
-
-    - title: Faculty Advisor, KSU Offensive Security Research Club (OffSec)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 12/2013 - Present
-    
-    - title: Committee Member, Cybersecurity governance committee
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2022 - 1/2026
-
-    - title: Committee Member, Retention, Progression, and Graduation (RPG) Committee for IS and ISA Programs - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2022 - 5/2023
-
-    - title: Committee Member, Coles Research and Development Council (RDC) - Coles College of Business
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2020 - 5/2023
-
-    - title: Committee Member, Faculty search committee - Assistant Professor of Information Security and Assurance - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 9/2020 - 5/2021
-
-    - title: Committee Chair, BBA-Information Security and Assurance Redesign Committee - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2020 - 5/2021
-
-    - title: Committee Chair, Faculty search committee - Clinical Assistant Professor of Information Security and Assurance - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 4/2020 - 9/2020
-
-    - title: Committee Member, Department chair search committee - Department of Information Systems - Department of Information Systems and Security
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2019 - 3/2020
-
-    - title: Committee Member, Curriculum Committee - Department of Information Systems
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 1/2013 - 5/2017
-
-    - title: Committee Member, Executive Director search committee - Institute for Cybersecurity Workforce Development (ICWD)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 2/2017 - 4/2017
-
-    - title: Assistant Director for Operations - Coles College Center for Information Security Education (CISE)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 1/2014 - 4/2016
-
-    - title: Committee Member, Faculty search committee - Lecturer of Information Systems
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 10/2015 - 12/2015
-
-    - title: Committee Member, University Undergraduate Policies and Curriculum Committee (UPCC)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2012 - 12/2015
-
-    - title: Committee Member, BBA-Information Security and Assurance Curriculum Working Group
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2009 - 8/2015
-
-    - title: Committee Member, Associate Dean of Undergraduate Programs search committee - Coles College of Business
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 3/2015 - 7/2015
-
-    - title: Faculty Advisor, KSU Information Systems Security Association (ISSA) Student Organization
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 8/2012 - 8/2014
-
-- title: Service - Professional
-  type: time_table
-  contents:
-    - title: President-Elect, Special Interest Group on Information Security and Privacy (SIGSEC)
-      institution: Association for Information Systems (AIS)
-      year: 8/2025 - Present
-
-    - title: Organizer
-      institution: BSides Atlanta Conference, Atlanta, Georgia, US
-      year: 1/2018 - Present
-
-    - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
-      institution: Association for Information Systems (AIS), Nashville, Tennessee, US
-      year: 5/2025 - 12/2025
-
-    - title: Track Organizer, Information Security and Privacy Track - Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Montréal, Quebec, Canada
-      year: 8/2020 - 8/2025
-
-    - title: At-large Director, Special Interest Group on Information Security and Privacy (SIGSEC)
-      institution: Association for Information Systems (AIS)
-      year: 8/2022 - 8/2025
-
-    - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
-      institution: Association for Information Systems (AIS), Bangkok, Thailand
-      year: 5/2024 - 12/2024
-
-    - title: Session Chair, 2024 Dewald Roode Information Systems Research Symposium (DRIS)
-      institution: Kennesaw State University, Kennesaw, Georgia, US
-      year: 10/2024
-
-    - title: Track Organizer, Information Security and Privacy Track - Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Salt Lake City, Utah, US
-      year: 5/2023 - 8/2024
-
-    - title: Workshop Organizer, Special Interest Group on Information Security and Privacy (SIGSEC) Pre-ICIS Workshop
-      institution: Association for Information Systems (AIS), Hyderabad, India
-      year: 5/2023 - 12/2023
-
-    - title: Session Chair, 29th Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Panama City, Panama
-      year: 8/2023
-
-    - title: Track Organizer, Information Security and Privacy Track - Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Minneapolis, Minnesota, US
-      year: 1/2022 - 8/2022
-
-    - title: Session Chair, 28th Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Minneapolis, Minnesota, US
-      year: 8/2022
-
-    - title: Track Organizer, Information Security and Privacy Track - 26th Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Salt Lake City, Utah, US
-      year: 1/2020 - 8/2020
-
-    - title: Session Chair, 26th Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), Salt Lake City, Utah, US
-      year: 8/2020
-
-    - title: Track Organizer, Information Security and Privacy Track - 24th Americas Conference on Information Systems (AMCIS)
-      institution: Association for Information Systems (AIS), New Orleans, Louisiana, US
-      year: 1/2018 - 8/2018
-
-    - title: Board Member (non-voting) - Metro Atlanta Chapter
-      institution: Information Systems Security Association (ISSA), Atlanta, Georgia, US
-      year: 1/2014 - 12/2014
-
-    - title: Program Committee Member,Southeast Conference
-      institution: Association for Computing Machinery (ACM), Tuscaloosa, Alabama, US
-      year: 1/2012 - 3/2012
-
-- title: Service - Editorial and Review
-  # type: time_table
-  contents:
-    - title: Reviewer
-      Journals:
-        - bullet: Information Systems Frontiers
-        - bullet: ACM Digital Threats: Research and Practice
-        - bullet: Communications of the Association for Information Systems (CAIS)
-        - bullet: Organizationall Cybersecurity Journal: Practice, Process, & People
-      Conferences:
-        - bullet: 2025 Americas Conference on Information Systems (AMCIS)
-        - bullet: 2025 European Conference on Information Systems (ECIS)
-        - bullet: 2025 Hawaii International Conference on System Sciences (HICSS)
-        - bullet: IEEE SoutheastCon 2024
-
-
-- title: Professional Positions
-  type: time_table
-  contents:
-    - title: Owner
-      institution: Strategic Security Consulting Services
-      year: 3/2020 - Present
-
-    - title: Owner
-      institution: Green Consulting
-      year: 3/2002 - 3/2020
-
-    - title: Software Developer
-      institution: Medquist
-      year: 9/1998 - 3/2002
-
-- title: Awards and Honors
-  type: time_table
-  contents:
-    - year: 2026
-      items:
-        - Named “Influential Instructor” by Graduating Students - Kennesaw State University
-    - year: 2025
-      items:
-        - Association for Information Systems (AIS) Distinguished Member
-        - Named “Influential Instructor” by Graduating Students - Kennesaw State University
-    - year: 2023
-      items:
-        - “Five in Flight” Alumni Award for Outstanding Service - Coles College of Business, Kennesaw State University
-    - year: 2022
-      items:
-        - Named “Influential Instructor” by Graduating Students - Kennesaw State University
-    - year: 2020
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-    - year: 2019
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-    - year: 2018
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-    - year: 2017
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-    - year: 2016
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-        - Innovation in Teaching Award - Coles College of Business, Kennesaw State University
-        - Gary Roberts Outstanding Advisor to Student Organizations Award - Coles College of Business, Kennesaw State University
-    - year: 2015
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-    - year: 2014
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-        - Gary Roberts Outstanding Advisor to Student Organizations Award - Coles College of Business, Kennesaw State University
-    - year: 2012
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
-    - year: 2011
-      items:
-        - Named "Influential Instructor" by Graduating Students - Kennesaw State University
+cv:
+  name: Andrew William Green, Ph.D. 
+  headline:
+  location: San Francisco, CA
+  email: john.doe@email.com
+  photo:
+  phone:
+  website: https://rendercv.com/
+  social_networks:
+    - network: LinkedIn
+      username: rendercv
+    - network: GitHub
+      username: rendercv
+  custom_connections:
+  sections:
+    Welcome to RenderCV:
+      - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
+      - Each section title is arbitrary.
+      - You can choose any of the 9 entry types for each section.
+      - Markdown syntax is supported everywhere. This is **bold**, *italic*, and [link](https://example.com).
+    education:
+      - institution: Princeton University
+        area: Computer Science
+        degree: PhD
+        date:
+        start_date: 2018-09
+        end_date: 2023-05
+        location: Princeton, NJ
+        summary:
+        highlights:
+          - 'Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment'
+          - 'Advisor: Prof. Sanjeev Arora'
+          - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
+      - institution: Boğaziçi University
+        area: Computer Engineering
+        degree: BS
+        date:
+        start_date: 2014-09
+        end_date: 2018-06
+        location: Istanbul, Türkiye
+        summary:
+        highlights:
+          - 'GPA: 3.97/4.00, Valedictorian'
+          - Fulbright Scholarship recipient for Graduate Studies
