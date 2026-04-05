@@ -7,8 +7,8 @@ cv:
       username: AndyGreenPhD
     - network: GitHub
       username: AndyGreenPhD
-    - network: Mastodon
-      username: '@AndyGreenPhD@infosec.exchange'
+    #- network: Mastodon
+    #  username: '@AndyGreenPhD@infosec.exchange'
   
   sections:
     education:
@@ -16,7 +16,7 @@ cv:
         degree: Ph.D.
         area: "Information Systems, Supporting Area of Emphasis - Information Security"
         date: 2020
-        location: Fort Lauderdale, Florida, USA
+        location: Fort Lauderdale, FL
         highlights:
           - 'Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)'
           - 'Advisor \- James Parrish, Ph.D.'
@@ -26,12 +26,10 @@ cv:
         degree: M.S.
         area: "Information Systems, Supporting Area of Emphasis - Information Security"
         date: 2007
-        location: Kennesaw, Georgia, USA
+        location: Kennesaw, GA
 
       - institution: Kennesaw State University
         degree: B.S.
         area: "Information Systems, Supporting Area of Emphasis - Information Security"
         date: 2005
-        location: Kennesaw, Georgia, USA
-    
-       
+        location: Kennesaw, GA
