@@ -1,44 +1,342 @@
 cv:
   name: Andrew William Green, Ph.D.
+  location: Kennesaw, Georgia, US
+  email: # add your email here
   website: https://andygreen.phd
-  
-  social_networks:
-    - network: LinkedIn
-      username: AndyGreenPhD
-    - network: GitHub
-      username: AndyGreenPhD
-    - network: Mastodon
-      username: '@AndyGreenPhD@infosec.exchange'
-  
+
   sections:
+
     education:
       - institution: Nova Southeastern University
-        degree: Ph.D.
-        area: "Information Systems, Supporting Area of Emphasis - Information Security"
-        date: 2020
-        location: Fort Lauderdale, FL
+        area: "Information Systems, Supporting Area of Emphasis — Information Security"
+        degree: PhD
+        end_date: "2020"
+        location: Fort Lauderdale, Florida, US
         highlights:
-          - 'Dissertation: [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)'
-          - 'Advisor \- James Parrish, Ph.D.'
-          - 'Committee Members \- Jason B. Thatcher, Ph.D., James N. Smith, DBA'
+          - "**Dissertation:** [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)"
+          - "**Advisor:** James Parrish, Ph.D."
+          - "**Committee Members:** Jason B. Thatcher, Ph.D.; James N. Smith, DBA"
 
       - institution: Kennesaw State University
-        degree: M.S.
-        area: "Information Systems, Supporting Area of Emphasis - Information Security"
-        date: 2007
-        location: Kennesaw, GA
+        area: "Information Systems, Supporting Area of Emphasis — Information Security"
+        degree: MS
+        end_date: "2007"
+        location: Kennesaw, Georgia, US
 
       - institution: Kennesaw State University
-        degree: B.S.
-        area: "Information Systems, Supporting Area of Emphasis - Information Security"
-        date: 2005
-        location: Kennesaw, GA
+        area: "Information Systems, Supporting Area of Emphasis — Information Security"
+        degree: BS
+        end_date: "2005"
+        location: Kennesaw, Georgia, US
 
-    experience:
-      - company: "Kennesaw State University"
-        position: "Assistant Professor of Information Security and Assurance"
-        start_date: 2020-08
+    academic_positions:
+      - company: Kennesaw State University
+        position: Assistant Professor of Information Security and Assurance
+        start_date: "2020-08"
         end_date: present
-        location: Kennesaw, GA
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: Full Graduate Faculty
+        start_date: "2020-04"
+        end_date: present
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: "Career Coach, Hughes Leadership Program"
+        start_date: "2017-01"
+        end_date: "2020-08"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: Lecturer of Information Security and Assurance
+        start_date: "2012-06"
+        end_date: "2020-08"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: Temporary Instructor
+        start_date: "2011-08"
+        end_date: "2012-05"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: Temporary Instructor
+        start_date: "2010-01"
+        end_date: "2011-08"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: Adjunct Instructor
+        start_date: "2008-08"
+        end_date: "2009-12"
+        location: Kennesaw, Georgia, US
+
+    professional_positions:
+      - company: Strategic Security Consulting Services
+        position: Owner
+        start_date: "2020-03"
+        end_date: present
+
+      - company: Green Consulting
+        position: Owner
+        start_date: "2002-03"
+        end_date: "2020-03"
+
+      - company: Medquist
+        position: Software Developer
+        start_date: "1998-09"
+        end_date: "2002-03"
+
+    institutional_service:
+      - company: Kennesaw State University
+        position: "Vice Chair, Information Technology Advisory Committee (ITAC)"
+        start_date: "2026-01"
+        end_date: present
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Coles College of Business"
+        position: "Committee Member, Evening MBA Curriculum Review Committee"
+        start_date: "2025-10"
+        end_date: "2026-05"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Co-chair, Faculty Search Committee — Assistant Professor of Information Systems and Security"
+        start_date: "2025-05"
+        end_date: "2026-03"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Coles College of Business"
+        position: "Director, KSU Cyber Range at Coles College"
+        start_date: "2024-03"
+        end_date: present
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: "Faculty Advisor, Orthodox Christian Fellowship (OCF)"
+        start_date: "2022-08"
+        end_date: present
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Program Coordinator, Information Security and Assurance (ISA) Undergraduate Program"
+        start_date: "2015-08"
+        end_date: "2026-08"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: "Faculty Advisor, KSU Offensive Security Research Club (OffSec)"
+        start_date: "2013-12"
+        end_date: present
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: "Committee Member, Cybersecurity Governance Committee"
+        start_date: "2022-08"
+        end_date: "2026-01"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Member, Retention, Progression, and Graduation (RPG) Committee for IS and ISA Programs"
+        start_date: "2022-08"
+        end_date: "2023-05"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Coles College of Business"
+        position: "Committee Member, Coles Research and Development Council (RDC)"
+        start_date: "2020-08"
+        end_date: "2023-05"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Member, Faculty Search Committee — Assistant Professor of Information Security and Assurance"
+        start_date: "2020-09"
+        end_date: "2021-05"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Chair, BBA–Information Security and Assurance Redesign Committee"
+        start_date: "2020-08"
+        end_date: "2021-05"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Chair, Faculty Search Committee — Clinical Assistant Professor of Information Security and Assurance"
+        start_date: "2020-04"
+        end_date: "2020-09"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Member, Department Chair Search Committee — Department of Information Systems"
+        start_date: "2019-08"
+        end_date: "2020-03"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems"
+        position: "Committee Member, Curriculum Committee"
+        start_date: "2013-01"
+        end_date: "2017-05"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Institute for Cybersecurity Workforce Development (ICWD)"
+        position: "Committee Member, Executive Director Search Committee"
+        start_date: "2017-02"
+        end_date: "2017-04"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Coles College Center for Information Security Education (CISE)"
+        position: Assistant Director for Operations
+        start_date: "2014-01"
+        end_date: "2016-04"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Member, Faculty Search Committee — Lecturer of Information Systems"
+        start_date: "2015-10"
+        end_date: "2015-12"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: "Committee Member, University Undergraduate Policies and Curriculum Committee (UPCC)"
+        start_date: "2012-08"
+        end_date: "2015-12"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Committee Member, BBA–Information Security and Assurance Curriculum Working Group"
+        start_date: "2009-08"
+        end_date: "2015-08"
+        location: Kennesaw, Georgia, US
+
+      - company: "Kennesaw State University — Coles College of Business"
+        position: "Committee Member, Associate Dean of Undergraduate Programs Search Committee"
+        start_date: "2015-03"
+        end_date: "2015-07"
+        location: Kennesaw, Georgia, US
+
+      - company: Kennesaw State University
+        position: "Faculty Advisor, KSU Information Systems Security Association (ISSA) Student Organization"
+        start_date: "2012-08"
+        end_date: "2014-08"
+        location: Kennesaw, Georgia, US
+
+    professional_service:
+      - company: Association for Information Systems (AIS)
+        position: "President-Elect, Special Interest Group on Information Security and Privacy (SIGSEC)"
+        start_date: "2025-08"
+        end_date: present
+
+      - company: "BSides Atlanta Conference, Atlanta, Georgia, US"
+        position: Organizer
+        start_date: "2018-01"
+        end_date: present
+
+      - company: "Association for Information Systems (AIS), Nashville, Tennessee, US"
+        position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
+        start_date: "2025-05"
+        end_date: "2025-12"
+
+      - company: "Association for Information Systems (AIS), Montréal, Quebec, Canada"
+        position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
+        start_date: "2020-08"
+        end_date: "2025-08"
+
+      - company: Association for Information Systems (AIS)
+        position: "At-large Director, Special Interest Group on Information Security and Privacy (SIGSEC)"
+        start_date: "2022-08"
+        end_date: "2025-08"
+
+      - company: "Association for Information Systems (AIS), Bangkok, Thailand"
+        position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
+        start_date: "2024-05"
+        end_date: "2024-12"
+
+      - company: "Kennesaw State University, Kennesaw, Georgia, US"
+        position: "Session Chair, 2024 Dewald Roode Information Systems Research Symposium (DRIS)"
+        date: "2024-10"
+
+      - company: "Association for Information Systems (AIS), Salt Lake City, Utah, US"
+        position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
+        start_date: "2023-05"
+        end_date: "2024-08"
+
+      - company: "Association for Information Systems (AIS), Hyderabad, India"
+        position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
+        start_date: "2023-05"
+        end_date: "2023-12"
+
+      - company: "Association for Information Systems (AIS), Panama City, Panama"
+        position: "Session Chair, 29th Americas Conference on Information Systems (AMCIS)"
+        date: "2023-08"
+
+      - company: "Association for Information Systems (AIS), Minneapolis, Minnesota, US"
+        position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
+        start_date: "2022-01"
+        end_date: "2022-08"
+
+      - company: "Association for Information Systems (AIS), Minneapolis, Minnesota, US"
+        position: "Session Chair, 28th Americas Conference on Information Systems (AMCIS)"
+        date: "2022-08"
+
+      - company: "Association for Information Systems (AIS), Salt Lake City, Utah, US"
+        position: "Track Organizer, Information Security and Privacy Track — 26th Americas Conference on Information Systems (AMCIS)"
+        start_date: "2020-01"
+        end_date: "2020-08"
+
+      - company: "Association for Information Systems (AIS), Salt Lake City, Utah, US"
+        position: "Session Chair, 26th Americas Conference on Information Systems (AMCIS)"
+        date: "2020-08"
+
+      - company: "Association for Information Systems (AIS), New Orleans, Louisiana, US"
+        position: "Track Organizer, Information Security and Privacy Track — 24th Americas Conference on Information Systems (AMCIS)"
+        start_date: "2018-01"
+        end_date: "2018-08"
+
+      - company: "Information Systems Security Association (ISSA), Atlanta, Georgia, US"
+        position: "Board Member (non-voting) — Metro Atlanta Chapter"
+        start_date: "2014-01"
+        end_date: "2014-12"
+
+      - company: "Association for Computing Machinery (ACM), Tuscaloosa, Alabama, US"
+        position: "Program Committee Member, Southeast Conference"
+        start_date: "2012-01"
+        end_date: "2012-03"
+
+    awards_and_honors:
+      - label: "2026"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2025"
+        details: AIS Distinguished Member
+      - label: "2025"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2023"
+        details: '"Five in Flight" Alumni Award for Outstanding Service — Coles College of Business, Kennesaw State University'
+      - label: "2022"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2020"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2019"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2018"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2017"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2016"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2016"
+        details: Innovation in Teaching Award — Coles College of Business, Kennesaw State University
+      - label: "2016"
+        details: Gary Roberts Outstanding Advisor to Student Organizations Award — Coles College of Business, Kennesaw State University
+      - label: "2015"
+        details: Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2014"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2014"
+        details: Gary Roberts Outstanding Advisor to Student Organizations Award — Coles College of Business, Kennesaw State University
+      - label: "2012"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
+      - label: "2011"
+        details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
       
     
