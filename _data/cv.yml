@@ -4,6 +4,14 @@ cv:
   email: # add your email here
   website: https://andygreen.phd
 
+  social_networks:
+    - network: LinkedIn
+      username: AndyGreenPhD
+    - network: GitHub
+      username: AndyGreenPhD
+    - network: Mastodon
+      username: '@AndyGreenPhD@infosec.exchange'
+
   sections:
 
     education:
