@@ -33,3 +33,12 @@ cv:
         area: "Information Systems, Supporting Area of Emphasis - Information Security"
         date: 2005
         location: Kennesaw, GA
+
+  experience:
+    - company: "Kennesaw State University"
+      title: "Assistant Professor of Information Security and Assurance"
+      start_date: 2020-08
+      end_date: present
+      location: Kennesaw, GA
+      
+    
