@@ -34,11 +34,11 @@ cv:
         date: 2005
         location: Kennesaw, GA
 
-  experience:
-    - company: "Kennesaw State University"
-      position: "Assistant Professor of Information Security and Assurance"
-      start_date: 2020-08
-      end_date: present
-      location: Kennesaw, GA
+    experience:
+      - company: "Kennesaw State University"
+        position: "Assistant Professor of Information Security and Assurance"
+        start_date: 2020-08
+        end_date: present
+        location: Kennesaw, GA
       
     
