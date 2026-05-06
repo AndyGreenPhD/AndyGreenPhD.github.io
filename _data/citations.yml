@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-05-06'
 papers:
   3Ka0WxIAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'Addressing Emerging Information Security Personnel Needs. A Look at Competitions in Academia: Do Cyber Defense Competitions Work?'
     year: '2013'
   3Ka0WxIAAAAJ:4DMP91E08xMC:
-    citations: 5
+    citations: 6
     title: To report or not to report? Extending Protection Motivation Theory to Vulnerability Discovery and Disclosure
     year: '2024'
   3Ka0WxIAAAAJ:4TOpqqG69KYC:
@@ -54,7 +54,7 @@ papers:
     title: Towards a Taxonomy of Information Spillage and Leakage
     year: '2019'
   3Ka0WxIAAAAJ:_kc_bZDykSQC:
-    citations: 18
+    citations: 19
     title: "Zombies, Sirens, and Lady Gaga \u2013 Oh My! Developing a Framework for Coordinated Vulnerability Disclosure for U.S. Emergency Alert Systems"
     year: '2020'
   3Ka0WxIAAAAJ:aqlVkmm33-oC:
@@ -62,7 +62,7 @@ papers:
     title: Analysis of Honeypots in detecting Tactics, Techniques, and Procedure (TTP) changes in Threat Actors based on Source IP Address
     year: '2023'
   3Ka0WxIAAAAJ:d1gkVwhDpl0C:
-    citations: 11
+    citations: 12
     title: Guide to Network Security
     year: '2012'
   3Ka0WxIAAAAJ:dhFuZR0502QC:
