@@ -16,6 +16,7 @@ cv:
       - institution: Nova Southeastern University
         area: "Information Systems, Supporting Area of Emphasis — Information Security"
         degree: PhD
+        start_date:
         end_date: "2020"
         location: Fort Lauderdale, Florida
         highlights:
