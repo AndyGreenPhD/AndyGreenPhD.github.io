@@ -16,8 +16,7 @@ cv:
       - institution: Nova Southeastern University
         area: "Information Systems, Supporting Area of Emphasis — Information Security"
         degree: PhD
-        start_date:
-        end_date: "2020"
+        end_date: "2020-05"
         location: Fort Lauderdale, Florida
         highlights:
           - "**Dissertation:** [SNS Use, Risk, and Executive Behavior](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2108&context=gscis_etd)"
