@@ -1,7 +1,12 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
-  theme: classic
+  theme: sb2nov
   page:
-    size: a4
+    size: us-letter
     show_footer: false
     show_top_note: false
+
+  typography:
+    font_family: Latin Modern Roman
+    body: 12pt
+   
