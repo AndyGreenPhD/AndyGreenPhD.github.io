@@ -12,7 +12,7 @@ cv:
 
   sections:
 
-    education:
+    Education:
       - institution: Nova Southeastern University
         area: "Information Systems, Supporting Area of Emphasis — Information Security"
         degree: PhD
@@ -35,7 +35,7 @@ cv:
         end_date: "2005"
         location: Kennesaw, Georgia, US
 
-    academic_positions:
+    Academic Positions:
       - company: Kennesaw State University
         position: Assistant Professor of Information Security and Assurance
         start_date: "2020-08"
@@ -78,7 +78,7 @@ cv:
         end_date: "2009-12"
         location: Kennesaw, Georgia, US
 
-    professional_positions:
+    Professional Positions:
       - company: Strategic Security Consulting Services
         position: Owner
         start_date: "2020-03"
@@ -94,7 +94,7 @@ cv:
         start_date: "1998-09"
         end_date: "2002-03"
 
-    institutional_service:
+    Institutional Service:
       - company: Kennesaw State University
         position: "Vice Chair, Information Technology Advisory Committee (ITAC)"
         start_date: "2026-01"
@@ -227,7 +227,7 @@ cv:
         end_date: "2014-08"
         location: Kennesaw, Georgia, US
 
-    professional_service:
+    Professional Service:
       - company: Association for Information Systems (AIS)
         position: "President-Elect, Special Interest Group on Information Security and Privacy (SIGSEC)"
         start_date: "2025-08"
@@ -309,7 +309,7 @@ cv:
         start_date: "2012-01"
         end_date: "2012-03"
 
-    awards_and_honors:
+    Awards and Honors:
       - label: "2026"
         details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
       - label: "2025"
