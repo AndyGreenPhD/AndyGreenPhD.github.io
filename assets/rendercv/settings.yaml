@@ -13,5 +13,5 @@ settings:
     dont_generate_html: false
     dont_generate_typst: false # typst generation is required for pdf output
     dont_generate_pdf: false
-    dont_generate_png: false
+    dont_generate_png: true
   bold_keywords: []
