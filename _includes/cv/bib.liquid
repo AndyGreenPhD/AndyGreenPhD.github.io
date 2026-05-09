@@ -1,3 +1,4 @@
+{% for entry in entries %}
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
@@ -71,12 +72,6 @@
           {% endfor %}
         {% endif %}
 
-        {% comment %}
-          Separator logic:
-          - 1 author:  no separator
-          - 2 authors: " and " between them (no comma)
-          - 3+ authors: ", " between all, ", and " before last
-        {% endcomment %}
         {% unless forloop.first %}
           {% if author_count == 2 %}
             {{- " and " -}}
@@ -261,3 +256,4 @@
 
   </div>
 </div>
+{% endfor %}
