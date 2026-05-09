@@ -31,8 +31,12 @@
             {% assign startFormatted = month_names[start_month_index] | append: ' ' | append: start_parts[0] %}
             {% if end_date != '' %}
               {% assign end_parts = end_date | split: '-' %}
-              {% assign end_month_index = end_parts[1] | minus: 1 %}
-              {% assign endFormatted = month_names[end_month_index] | append: ' ' | append: end_parts[0] %}
+              {% if end_parts[1] %}
+                {% assign end_month_index = end_parts[1] | minus: 1 %}
+                {% assign endFormatted = month_names[end_month_index] | append: ' ' | append: end_parts[0] %}
+              {% else %}
+                {% assign endFormatted = end_parts[0] %}
+              {% endif %}
             {% else %}
               {% assign endFormatted = 'Present' %}
             {% endif %}
