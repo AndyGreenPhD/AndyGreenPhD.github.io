@@ -163,6 +163,9 @@ layout: default
               {% elsif section_title == 'Institutional Service' %}
                 {% assign entries = section_entries %}
                 {% include cv/institutional_service.liquid %}
+              {% elsif section_title == 'Professional Service' %}
+                {% assign entries = section_entries %}
+                {% include cv/professional_service.liquid %}
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
