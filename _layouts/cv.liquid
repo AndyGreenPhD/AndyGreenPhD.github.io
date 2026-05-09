@@ -112,7 +112,19 @@ layout: default
                 {% for network in cv.social_networks %}
                   <tr>
                     <td class="p-1 pr-2 font-weight-bold"><b>{{ network.network }}</b></td>
-                    <td class="p-1 pl-2 font-weight-light">{{ network.username }}</td>
+                    <td class="p-1 pl-2 font-weight-light">
+                      {% if network.network == 'LinkedIn' %}
+                        <a href="https://www.linkedin.com/in/{{ network.username }}" target="_blank">{{ network.username }}</a>
+                      {% elsif network.network == 'GitHub' %}
+                        <a href="https://github.com/{{ network.username }}" target="_blank">{{ network.username }}</a>
+                      {% elsif network.network == 'Mastodon' %}
+                        <a href="https://infosec.exchange/@AndyGreenPhD" target="_blank">{{ network.username }}</a>
+                      {% elsif network.network == 'Twitter' or network.network == 'X' %}
+                        <a href="https://x.com/{{ network.username }}" target="_blank">{{ network.username }}</a>
+                      {% else %}
+                        {{ network.username }}
+                      {% endif %}
+                    </td>
                   </tr>
                 {% endfor %}
               {% endif %}
