@@ -233,20 +233,23 @@ cv:
         start_date: "2025-08"
         end_date: present
 
-      - company: "BSides Atlanta Conference, Atlanta, Georgia"
+      - company: "BSides Atlanta Conference"
         position: Organizer
         start_date: "2018-01"
         end_date: present
+        location: Atlanta, Georgia
 
-      - company: "Association for Information Systems (AIS), Nashville, Tennessee"
+      - company: "Association for Information Systems (AIS)"
         position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
         start_date: "2025-05"
         end_date: "2025-12"
+        location: Nashville, Tennessee
 
-      - company: "Association for Information Systems (AIS), Montréal, Quebec, Canada"
+      - company: "Association for Information Systems (AIS)"
         position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
         start_date: "2020-08"
         end_date: "2025-08"
+        location: Montréal, Quebec, Canada
 
       - company: Association for Information Systems (AIS)
         position: "At-large Director, Special Interest Group on Information Security and Privacy (SIGSEC)"
