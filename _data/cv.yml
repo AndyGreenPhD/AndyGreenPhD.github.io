@@ -249,68 +249,79 @@ cv:
         position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
         start_date: "2020-08"
         end_date: "2025-08"
-        location: Montréal, Quebec, Canada
+        location: Montréal, Canada
 
       - company: Association for Information Systems (AIS)
         position: "At-large Director, Special Interest Group on Information Security and Privacy (SIGSEC)"
         start_date: "2022-08"
         end_date: "2025-08"
 
-      - company: "Association for Information Systems (AIS), Bangkok, Thailand"
+      - company: "Association for Information Systems (AIS)"
         position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
         start_date: "2024-05"
         end_date: "2024-12"
+        location: Bangkok, Thailand
 
       - company: "Kennesaw State University, Kennesaw, Georgia"
         position: "Session Chair, 2024 Dewald Roode Information Systems Research Symposium (DRIS)"
         date: "2024-10"
 
-      - company: "Association for Information Systems (AIS), Salt Lake City, Utah"
+      - company: "Association for Information Systems (AIS)"
         position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
         start_date: "2023-05"
         end_date: "2024-08"
+        location: Salt Lake City, Utah
 
-      - company: "Association for Information Systems (AIS), Hyderabad, India"
+      - company: "Association for Information Systems (AIS)"
         position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
         start_date: "2023-05"
         end_date: "2023-12"
+        location: Hyderabad, India
 
-      - company: "Association for Information Systems (AIS), Panama City, Panama"
+      - company: "Association for Information Systems (AIS)"
         position: "Session Chair, 29th Americas Conference on Information Systems (AMCIS)"
         date: "2023-08"
+        location: Panama City, Panama
 
-      - company: "Association for Information Systems (AIS), Minneapolis, Minnesota"
+      - company: "Association for Information Systems (AIS)"
         position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
         start_date: "2022-01"
         end_date: "2022-08"
+        location: Minneapolis, Minnesota
 
-      - company: "Association for Information Systems (AIS), Minneapolis, Minnesota"
+      - company: "Association for Information Systems (AIS)"
         position: "Session Chair, 28th Americas Conference on Information Systems (AMCIS)"
         date: "2022-08"
+        location: Minneapolis, Minnesota
 
-      - company: "Association for Information Systems (AIS), Salt Lake City, Utah"
+      - company: "Association for Information Systems (AIS)"
         position: "Track Organizer, Information Security and Privacy Track — 26th Americas Conference on Information Systems (AMCIS)"
         start_date: "2020-01"
         end_date: "2020-08"
+        location: Salt Lake City, Utah
 
-      - company: "Association for Information Systems (AIS), Salt Lake City, Utah"
+      - company: "Association for Information Systems (AIS)"
         position: "Session Chair, 26th Americas Conference on Information Systems (AMCIS)"
         date: "2020-08"
+        location: Salt Lake City, Utah
 
-      - company: "Association for Information Systems (AIS), New Orleans, Louisiana"
+      - company: "Association for Information Systems (AIS)"
         position: "Track Organizer, Information Security and Privacy Track — 24th Americas Conference on Information Systems (AMCIS)"
         start_date: "2018-01"
         end_date: "2018-08"
+        location: New Orleans, Louisiana
 
-      - company: "Information Systems Security Association (ISSA), Atlanta, Georgia"
+      - company: "Information Systems Security Association (ISSA)"
         position: "Board Member (non-voting) — Metro Atlanta Chapter"
         start_date: "2014-01"
         end_date: "2014-12"
+        location: Atlanta, Georgia
 
-      - company: "Association for Computing Machinery (ACM), Tuscaloosa, Alabama"
+      - company: "Association for Computing Machinery (ACM)"
         position: "Program Committee Member, Southeast Conference"
         start_date: "2012-01"
         end_date: "2012-03"
+        location: Tuscaloosa, Alabama
 
     Awards and Honors:
       - label: "2026"
