@@ -106,6 +106,176 @@ cv:
             date: "2025-07-25"
             summary: "Based on industry use cases, we identify six distinct types of digital transformation (DT), each grounded in a specific concept or enabling technology. These DT types can be implemented individually or combined to drive transformation initiatives. While deploying a single DT type often focuses on improving operational efficiency or streamlining existing workflows, initiatives that combine multiple DT types tend to pursue more ambitious goals, such as the creation of new products, services, or business models. However, the complexity increases significantly with the integration of multiple DT types, as organizations must not only address behavioral changes but also overcome technical challenges involving systems integration, data architecture, and interoperability."
     
+          - title: "Unpacking digital transformation – Constructing a framework based on industry use cases"
+          - title: "What does ChatGPT Know about Information Systems?"
+            authors:
+              - O'Leary, Daniel E.
+              - French, Aaron M.
+              - Storey, Veda C.
+              - Buckman, Joseph R.
+              - Chua, Cecil
+              - Green, Andrew William
+              - Gu, Grace
+              - Niederman, Fred
+              - Pereira, Francis
+              - Templeton, Gary
+              - Wallace, Linda
+            doi: "10.17705/1CAIS.05619"
+            url: "https://aisel.aisnet.org/cais/vol56/iss1/19/"
+            journal: "Communications of the Association for Information Systems"
+            date: "2025-04-01"
+            summary: "Large language models such as ChatGPT provide efficient access to a wealth of information. However, there are significant questions regarding the depth and quality of knowledge in any one domain. This paper focuses specifically on the information systems (IS) field and assesses ChatGPT's knowledge. To analyze the extent and quality of information systems knowledge derived from queries to ChatGPT, we used over 3,000 queries from a broad range of exam and quiz questions. These queries were obtained from university courses and professional information system certification exams. The query topics are based on a framework for information systems education, with queries gathered from multiple faculty members at different universities. The results of querying ChatGPT with these questions find that ChatGPT can answer 65% to 85% of information systems queries successfully, across each of the areas of the framework. ChatGPT performed well on essay, true/false and multiple choice questions, with no statistical difference between its success rate on multiple choice and true/false questions. We conclude that ChatGPT tends to perform approximately at the level of an average student, but may not perform at a level sufficient to pass certain professional exams. ChatGPT's knowledge is very broad, covering virtually all areas of the information systems knowledge we identified, but not at an expert level."
+
+          - title: "To report or not to report? Extending Protection Motivation Theory to Vulnerability Discovery and Disclosure"
+            authors:
+            - Green, Andrew William
+            - Oliver, DeJarvis
+            - Woszczynski, Amy B.
+            doi: "10.1016/j.cose.2024.103880"
+            url: ""
+            journal: "Computers & Security"
+            date: "2024-07-01"
+            summary: "Vulnerability researchers face difficult choices when considering whether to reporting a finding to an organization with which they are unaffiliated. We used components of Protection Motivation Theory (PMT) to create the Vulnerability Discovery and Disclosure (VDD) model to understand the decision-making processes of vulnerability researchers. PMT uses high fear appeals, threat appraisals, and coping appraisals to encourage employee prosocial behaviors while VDD proposes low fear and threat with high coping, to encourage reporting. In this exploratory study, we surveyed active vulnerability researchers to gain insight into their concerns when deciding to report to an organization. Using principal components analysis, we developed and refined the VDD survey, which may be tested by future researchers. We also discovered a higher-order efficacy construct, comprised of response and self-efficacy. We theorize that well-developed vulnerability disclosure policies, in line with a low-fear, low-threat appraisal and high efficacy may establish a culture of trust between organizations and vulnerability researchers, encouraging more reports."
+
+          - title: "Principles of Network Security"
+            authors:
+            - Green, Andrew William
+            - Whitman, Michael E.
+            - Mattord, Herbert
+            doi: ""
+            url: "https://he.kendallhunt.com/product/principles-network-security"
+            journal: "Kendall Hunt Publishing"
+            date: "2024-01-01"
+            summary: "Principles of Network Security offers a comprehensive, approachable, and up-to-date foundation for teaching network security to students in high school, trade school, or college-level courses. This textbook introduces core concepts in network security, cryptography, secure architecture, threat analysis, and monitoring while addressing modern challenges like IoT, cloud security, AI, and Zero Trust frameworks. Each chapter combines foundational theory with real-world examples and current best practices. The book emphasizes practical knowledge across layered topics, from the OSI and TCP/IP models and data communication protocols to firewall configuration, VPN deployments, wireless network protections, and access control models. It includes coverage of leading standards and frameworks from NIST, CIS, and ISO. Rich pedagogical features - such as learning objectives, review questions, hands-on exercises, and short projects - help reinforce key skills and prepare students for further study or entry into cybersecurity roles. Whether used in a semester-long survey or as a base for certification pathways, this textbook equips students with the knowledge they need to navigate the complexities of modern network security."
+
+          - title: "Analysis of Honeypots in detecting Tactics, Techniques, and Procedures changes based on IP Address"
+            authors:
+            - Reynolds, Carson
+            - Green, Andrew William
+            doi: ""
+            url: "https://aisel.aisnet.org/treos_amcis2023/1/"
+            journal: "Americas Conference on Information Systems (AMCIS)"
+            date: "2023-08-01"
+            summary: "The financial and national security impacts of cybercrime globally are well documented. According to the 2020 FBI Internet Crime Report, financially motivated threat actors committed 86% of reported breaches, resulting in a total loss of approximately $4.1 billion in the United States alone (Federal Bureau of Investigation, 2022). In order to combat this, our research seeks to determine if threat actors change their tactics, techniques, and procedures (TTPs) based on the geolocation of their target's IP address. To answer this research question, we will construct a honeypot network distributed across multiple continents to collect attack data from geographically separate locations concurrently. We will configure the honeypots to offer vulnerable services and collect log data from the services for analysis. This approach will allow us to aggregate log data about attacks against specific services commonly targeted by threat actors. After we complete data collection, we will analyze the data to gain insight into the TTPs used by the threat actors. The analysis will use collected attack data attributes such as IP origin, service type, and executables delivered along with other transport layer analysis techniques to provide metadata on threat actor TTPs. Once the analysis is complete, we will have a greater insight into threat actor activities and produce a list of items that firms can use to monitor, protect, and maintain their environments and to detect attacks earlier, along with taking appropriate defensive action to lessen or eliminate the risk associated with these attacks."
+
+          - title: "Analysis of Honeypots in detecting Tactics, Techniques, and Procedures changes based on IP Address"
+            authors:
+            - Reynolds, Carson
+            - Green, Andy
+            doi: ""
+            url: "https://digitalcommons.kennesaw.edu/undergradsymposiumksu/spring2023/presentations/341/"
+            journal: "KSU Undergraduate Symposium"
+            date: "2023-04-01"
+            summary: "The financial and national security impacts of cybercrime globally are well documented. According to the 2020 FBI Internet Crime Report, financially motivated threat actors committed 86% of reported breaches, resulting in a total loss of approximately $4.1 billion in the United States alone (Federal Bureau of Investigation, 2022). In order to combat this, our research seeks to determine if threat actors change their tactics, techniques, and procedures (TTPs) based on the geolocation of their target's IP address. To answer this research question, we will construct a honeypot network distributed across multiple continents to collect attack data from geographically separate locations concurrently. We will configure the honeypots to offer vulnerable services and collect log data from the services for analysis. This approach will allow us to aggregate log data about attacks against specific services commonly targeted by threat actors. After we complete data collection, we will analyze the data to gain insight into the TTPs used by the threat actors. The analysis will use collected attack data attributes such as IP origin, service type, and executables delivered along with other transport layer analysis techniques to provide metadata on threat actor TTPs. Once the analysis is complete, we will have a greater insight into threat actor activities and produce a list of items that firms can use to monitor, protect, and maintain their environments and to detect attacks earlier, along with taking appropriate defensive action to lessen or eliminate the risk associated with these attacks."
+
+          - title: "Social Networking Continuance and Success: A Replication Study"
+            authors:
+            - French, Aaron M.
+            - Green, Andrew William
+            doi: "10.1080/08874417.2022.2119443"
+            url: ""
+            journal: "Journal of Computer Information Systems"
+            date: "2022-09-01"
+            summary: "The success of social networking sites relies on members' continuous use. We replicate a study evaluating the relationship of continued-use intention to the success of social networking sites to determine whether the results obtained with a US sample can be generalized to the South Korean context. Using two culturally distinct samples, we demonstrate limitations to the generalizability of the original study's findings and important constructs influencing continued-use intention across cultural boundaries."
+
+          - title: "Responding to Cybersecurity Challenges: Securing Vulnerable U.S. Emergency Alert Systems"
+            authors:
+            - Green, Andrew
+            - Woszczynski, Amy B.
+            - Dodson, Kelly
+            - Easton, Peter
+            doi: "10.17705/1CAIS.04608"
+            url: "https://aisel.aisnet.org/cais/vol46/iss1/8/"
+            journal: "Communications of the Association for Information Systems"
+            date: "2020-02"
+            summary: "U.S. emergency alert systems (EASs) are part of the nation's critical infrastructure. These systems are built on aging platforms and suffer from a fragmented interconnected network of partnerships. Some EASs have an easily identifiable vulnerability - their management website is available via the Internet. Authorities must secure these systems quickly. Other concerns exist, primarily the lack of policies for reporting vulnerabilities. To begin an assessment of U.S. EASs, we used Shodan to evaluate the availability of these websites in six southeastern states. We found 18 such websites that were accessible via the Internet, only requiring user credentials to login to the system. Next, we searched for published policies on the reporting of vulnerabilities; we found no vulnerability disclosure policies for any of the systems identified. To identify, prioritize, and address EAS vulnerabilities, we present a list of technical and management strategies to reduce cybersecurity threats. We recommend integrated policies and procedures at all levels of the public-private-government partnerships, along with system resilience, as lines of defense against cybersecurity threats. By implementing these strategies, U.S. EASs will be positioned to update critical infrastructure, notify groups of emergencies, and ensure the distribution of valid and reliable information to the populations at risk."
+
+          - title: "Zombies, Sirens, and Lady Gaga – Oh My! Developing a Framework for Coordinated Vulnerability Disclosure for U.S. Emergency Alert Systems"
+            authors:
+            - Woszczynski, Amy
+            - Green, Andrew
+            - Dodson, Kelly
+            - Easton, Peter
+            doi: "10.1016/j.giq.2019.101418"
+            url: ""
+            journal: "Government Information Quarterly"
+            date: "2020-01"
+            summary: "U.S. emergency alert systems (EAS) run on legacy software with aging hardware and limited cybersecurity. While EASs are an essential component of the U.S. critical infrastructure, they are often under-funded, and workers frequently lack the knowledge to protect these systems adequately. Recent compromises of various EASs have not inspired public confidence. We present a method for EAS authorities to engage with external cybersecurity researchers to find, recover from, and disclose vulnerabilities using coordinated vulnerability disclosure (CVD) policies. Clearly written CVD policies set guidelines and legal bounds for cybersecurity research, taking advantage of researcher expertise while working to strengthen the cybersecurity of the patchwork public-private-government networks comprising EASs. We intended to investigate the CVD policies of EASs in seven southeastern states; however, we could find no CVD policies through the entire supply chain. Instead, we investigated the CVD policies of the top 10 technology firms on the Fortune 500 list, analyzing best practices in terms of publication of a CVD policy, as well as: setting eligibility requirements, describing the submission process, delineating researcher restrictions, outlining agreements on sharing credit, and explaining bounties (if relevant). We recommend that EAS authorities develop CVD policies in line with suggested criteria, using policies from top technology organizations combined with the proposed framework, and using cybersecurity researchers as a valuable component of the EAS supply chain."
+
+          - title: "Learning Outcomes for Cyber Defense Competitions"
+            authors:
+            - Woszczynski, Amy B.
+            - Green, Andrew
+            doi: ""
+            url: "https://www.jise.org/Volume28/n1/JISEv28n1p21.html"
+            journal: "Journal of Information Systems Education"
+            date: "2017-11-01"
+            summary: "Cyber defense competitions (CDCs) simulate a real-world environment, where the competitors must protect the information assets of a fictional organization. These competitions are becoming popular at the high school and college levels, as well as in industry and governmental settings. However, there is little research to date on the learning outcomes associated with CDCs or the long-term benefits to the participants as they pursue future educational, employment or military goals. For this exploratory research project, we surveyed 11 judges and mentors participating in a well-established high school CDC held in the southeastern United States. Then we developed a set of recommended learning outcomes for CDCs, based on importance of the topic and participant preparedness for future information-security related endeavors. While most previous research has focused on technology issues, we analyzed technological, human, and social topics, to develop a comprehensive set of recommendations for future CDCs."
+
+          - title: "Principles of Incident Response and Disaster Recovery"
+            authors:
+            - Whitman, Michael E.
+            - Mattord, Herbert J.
+            - Green, Andrew
+            doi: ""
+            url: "https://www.cengage.com/c/principles-of-incident-response-and-disaster-recovery-2e-whitman/9781111138059"
+            journal: "Cengage Learning"
+            date: "2014"
+            summary: "PRINCIPLES OF INCIDENT RESPONSE & DISASTER RECOVERY, 2nd Edition presents methods to identify vulnerabilities within computer networks and the countermeasures that mitigate risks and damage. From market-leading content on contingency planning, to effective techniques that minimize downtime in an emergency, to curbing losses after a breach, this text is the resource needed in case of a network intrusion."
+
+          - title: "Addressing Emerging Information Security Personnel Needs. A Look at Competitions in Academia: Do Cyber Defense Competitions Work?"
+            authors:
+            - Green, Andrew
+            - Zafar, Humayun
+            doi: ""
+            url: "https://aisel.aisnet.org/amcis2013/ISSecurity/RoundTablePresentations/5/"
+            journal: "Americas Conference on Information Systems (AMCIS)"
+            date: "2013-08-01"
+            summary: "This paper is part of a proposed study that looks at the emerging information security personnel needs of organizations. We are attempting to explore the correlation between components of a regional cyber defense competition and an organization's needs in terms of employing adequately trained information security personnel. We look to identify some unique characteristics of a regional academic cyber defense competition via the critical success factors method."
+
+          - title: "Guide to Network Security"
+            authors:
+            - Whitman, Michael E.
+            - Mattord, Herbert J.
+            - Mackey, David
+            - Green, Andrew
+            doi: ""
+            url: "https://www.cengage.com/c/guide-to-network-security-1e-whitman"
+            journal: "Cengage Learning"
+            date: "2013"
+            summary: "GUIDE TO NETWORK SECURITY is a wide-ranging new text that provides a detailed review of the network security field, including essential terminology, the history of the discipline, and practical techniques to manage implementation of network security solutions. It begins with an overview of information, network, and web security, emphasizing the role of data communications and encryption. The authors then explore network perimeter defense technologies and methods, including access controls, firewalls, VPNs, and intrusion detection systems, as well as applied cryptography in public key infrastructure, wireless security, and web commerce. The final section covers additional topics relevant for information security practitioners, such as assessing network security, professional careers in the field, and contingency planning. Perfect for both aspiring and active IT professionals, GUIDE TO NETWORK SECURITY is an ideal resource for students who want to help organizations protect critical information assets and secure their systems and networks, both by recognizing current threats and vulnerabilities, and by designing and developing the secure systems of the future."
+
+          - title: "Hands-on Information Security Lab Manual"
+            authors:
+            - Whitman, Michael E.
+            - Mattord, Herbert J.
+            - Green, Andrew
+            doi: ""
+            url: "https://www.cengage.com/c/guide-to-network-security-1e-whitman"
+            journal: "Cengage Learning"
+            date: "2013"
+            summary: "HANDS-ON INFORMATION SECURITY LAB MANUAL, Fourth Edition, helps you hone essential information security skills by applying your knowledge to detailed, realistic exercises using Microsoft Windows 2000, Windows XP, Windows 7, and Linux. This wide-ranging, non-certification-based lab manual includes coverage of scanning, OS vulnerability analysis and resolution, firewalls, security maintenance, forensics, and more. The Fourth Edition includes new introductory labs focused on virtualization techniques and images, giving you valuable experience with some of the most important trends and practices in information security and networking today. All software necessary to complete the labs are either available online as a free download or included in the accompanying CD, making it easy to plan and complete lab work. An ideal resource for introductory, technical, and managerial courses or self-study, this versatile manual is a perfect supplement to the PRINCIPLES OF INFORMATION SECURITY, SECURITY FUNDAMENTALS, and MANAGEMENT OF INFORMATION SECURITY books."
+
+          - title: "Guide to Firewalls and VPNs"
+            authors:
+            - Whitman, Michael E.
+            - Mattord, Herbert J.
+            - Green, Andrew
+            doi: ""
+            url: "https://www.cengage.com/c/guide-to-firewalls-and-vpns-3e-whitman/9781111135393"
+            journal: "Cengage Learning"
+            date: "2012"
+            summary: "Firewalls are among the best-known network security tools in use today, and their critical role in information security continues to grow. However, firewalls are most effective when backed by thoughtful security planning, well-designed security policies, and integrated support from anti-virus software, intrusion detection systems, and related tools. GUIDE TO FIREWALLS AND VPNs, THIRD EDITION explores firewalls in the context of these critical elements, providing an in-depth guide that focuses on both managerial and technical aspects of security. Coverage includes packet filtering, authentication, proxy servers, encryption, bastion hosts, virtual private networks (VPNs), log file maintenance, and intrusion detection systems. The text also features an abundant selection of realistic projects and cases incorporating cutting-edge technology and current trends, giving students the opportunity to hone and apply the knowledge and skills they will need as working professionals. GUIDE TO FIREWALLS AND VPNs includes new and updated cases and projects, enhanced coverage of network security and VPNs, and information on relevant National Institute of Standards and Technology guidelines used by businesses and information technology professionals."
+
+          - title: "Management of Security Policies for Mobile Devices"
+            authors:
+            - Green, Andy
+            doi: "10.1145/1409908.1409933"
+            url: "https://dl.acm.org/doi/pdf/10.1145/1409908.1409933"
+            journal: "Information Security Curriculum Development Conference (InfoSecCD)"
+            date: "2007-08-01"
+            summary: "This paper is part of a proposed study that looks at the emerging information security personnel needs of organizations. We are attempting to explore the correlation between components of a regional cyber defense competition and an organization's needs in terms of employing adequately trained information security personnel. We look to identify some unique characteristics of a regional academic cyber defense competition via the critical success factors method."
+          
     Institutional Service:
       - company: Kennesaw State University
         position: "Vice Chair, Information Technology Advisory Committee (ITAC)"
