@@ -2,7 +2,7 @@
 settings:
   render_command:
     # Paths must be relative to _data/cv.yaml
-    #design: ../assets/rendercv/design.yaml
+    design: ../assets/rendercv/design.yaml
     locale: ../assets/rendercv/locale.yaml
     typst_path: ../assets/rendercv/rendercv_output/CV.typ
     pdf_path: ../assets/rendercv/rendercv_output/CV.pdf
@@ -15,6 +15,3 @@ settings:
     dont_generate_pdf: false
     dont_generate_png: true
   bold_keywords: []
-
-  design:
-    theme: harvard
