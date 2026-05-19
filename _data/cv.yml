@@ -2,8 +2,8 @@ design:
   theme: sb2nov
   page:
     size: us-letter
-    show_footer: false
-    show_top_note: false
+    show_footer: true
+    show_top_note: true
 
   typography:
     font_family:
@@ -11,8 +11,12 @@ design:
     font_size:
       body: 12pt
 
+locale:
+  language: english
+  last_updated: Updated
+
 cv:
-  name: Andrew William Green, PhD
+  name: Andrew William Green, Ph.D.
   website: https://andygreen.phd
 
   social_networks:
