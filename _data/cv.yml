@@ -1,5 +1,5 @@
 design:
-  theme: sb2nov
+  theme: harvard
   page:
     size: us-letter
     show_footer: true
@@ -11,9 +11,13 @@ design:
     font_size:
       body: 12pt
 
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: 'CURRENT_DATE*'
+
 locale:
   language: english
-  last_updated: Updated
+  last_updated: Last updated
 
 cv:
   name: Andrew William Green, Ph.D.
