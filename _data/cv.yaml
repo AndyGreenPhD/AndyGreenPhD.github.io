@@ -1,3 +1,14 @@
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    show_footer: false
+    show_top_note: false
+
+  typography:
+    font_family: Latin Modern Roman
+    body: 12pt
+
 cv:
   name: Andrew William Green, Ph.D.
   website: https://andygreen.phd
