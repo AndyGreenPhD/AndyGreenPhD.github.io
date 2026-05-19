@@ -13,7 +13,7 @@ design:
 
   templates:
     footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
-    top_note: 'CURRENT_DATE*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
 
 locale:
   language: english
