@@ -17,4 +17,4 @@ settings:
   bold_keywords: []
 
   design:
-  theme: harvard
+    theme: harvard
