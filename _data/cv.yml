@@ -1,5 +1,5 @@
 design:
-  theme: harvard
+  theme: sb2nov
   page:
     size: us-letter
     show_footer: true
