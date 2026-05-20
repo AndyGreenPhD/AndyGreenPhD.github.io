@@ -1,24 +1,60 @@
-<div>
+<ul class="card-text font-weight-light list-group list-group-flush">
   {% for entry in entries %}
-    <div class="card-text font-weight-light mt-2 pt-2" {% unless forloop.first %}style="border-top: 1px solid rgba(0,0,0,.125);"{% endunless %}>
+    <li class="list-group-item">
       <div class="row">
-        <div class="col-sm-3">
-          <table class="table table-cv table-sm table-borderless">
-            <tr>
-              <td class="p-1 font-weight-light">
-                {{ entry.start_date | default: "" }}{% if entry.end_date %} - {{ entry.end_date }}{% endif %}
-              </td>
-            </tr>
+        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+          {% assign month_names = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: ',' %}
+
+          {% assign start_date = entry.start_date | strip %}
+          {% assign end_date = entry.end_date | strip %}
+
+          {% if start_date != '' %}
+            {% assign start_parts = start_date | split: '-' %}
+            {% assign start_month_index = start_parts[1] | minus: 1 %}
+            {% assign startFormatted = month_names[start_month_index] | append: ' ' | append: start_parts[0] %}
+            {% if end_date != '' %}
+              {% assign end_parts = end_date | split: '-' %}
+              {% if end_parts[1] %}
+                {% assign end_month_index = end_parts[1] | minus: 1 %}
+                {% assign endFormatted = month_names[end_month_index] | append: ' ' | append: end_parts[0] %}
+              {% else %}
+                {% assign endFormatted = end_parts[0] %}
+              {% endif %}
+            {% else %}
+              {% assign endFormatted = 'Present' %}
+            {% endif %}
+            {% assign date = startFormatted | append: ' - ' | append: endFormatted %}
+          {% else %}
+            {% assign date = '' %}
+          {% endif %}
+
+          <table class="table-cv">
+            <tbody>
+              <tr>
+                <td>
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
+                </td>
+              </tr>
+            </tbody>
           </table>
         </div>
-        <div class="col-sm-9">
-          <h6 class="font-weight-bold">{{ entry.name }}</h6>
-          {% if entry.level %}<h6>{{ entry.level }}</h6>{% endif %}
-          {% if entry.role %}<h6>{{ entry.role }}</h6>{% endif %}
-          {% if entry.location %}<p class="font-weight-light">{{ entry.location }}</p>{% endif %}
-          {% if entry.project_title %}<p class="font-weight-light"><em>{{ entry.project_title }}</em></p>{% endif %}
+        <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
+          {% if entry.name %}
+            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
+          {% endif %}
+          {% if entry.level %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.level }}</h6>
+          {% endif %}
+          {% if entry.role %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.role }}</h6>
+          {% endif %}
+          {% if entry.location %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.location }}</h6>
+          {% endif %}
+          {% if entry.project_title %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ entry.project_title }}</h6>
+          {% endif %}
         </div>
       </div>
-    </div>
-  {% endfor %}
-</div>
+    </li>
+  {% endfor
