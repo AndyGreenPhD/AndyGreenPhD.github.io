@@ -1,8 +1,7 @@
-<div class="card mt-3 p-3">
-  <h3 class="card-title">Editorial and Review Activities</h3>
-  <ul class="card-text font-weight-light list-group list-group-flush">
-    {% for entry in site.data.editorial %}
-    <li class="list-group-item">{{ entry }}</li>
-    {% endfor %}
-  </ul>
-</div>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    {% if entry.bullet %}
+      <li class="list-group-item">{{ entry.bullet | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
