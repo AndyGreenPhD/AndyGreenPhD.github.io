@@ -1,5 +1,5 @@
 design:
-  theme: sb2nov
+  theme: harvard
   page:
     size: us-letter
     show_footer: true
@@ -26,8 +26,8 @@ cv:
   social_networks:
     - network: LinkedIn
       username: AndyGreenPhD
-    - network: GitHub
-      username: AndyGreenPhD
+    #- network: GitHub
+    #  username: AndyGreenPhD
     - network: Mastodon
       username: '@AndyGreenPhD@infosec.exchange'
 
@@ -553,7 +553,7 @@ cv:
         start_date: 2021-08
         end_date: 2021-12
         location: Kennesaw State University
-        summary: 'Graduate Research Assistant'
+        summary: 'Masters - Graduate Research Assistant'
         highlights:
           - "Created Amazon AWS scripts for use in ISA class labs"
 
