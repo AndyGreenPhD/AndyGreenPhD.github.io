@@ -532,6 +532,15 @@ cv:
         end_date: "2012-03"
         location: Tuscaloosa, Alabama
 
+    Graduate Students Supervised:
+      - name: 'Melissa-Anne Cunningham-Sereque'
+        start_date: 2025-04
+        end_date: 2026-05
+        location: Kennesaw State University
+        level: Ph.D.
+        role: Dissertation committee member
+        project_title: "The Digital Divide and Participation in Financial Services:  A Self-Determination Theory Perspective"
+
     Awards and Honors:
       - label: "2026"
         details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'

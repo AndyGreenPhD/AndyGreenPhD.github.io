@@ -1,0 +1,18 @@
+<table class="table table-cv table-sm table-borderless">
+  {% for entry in entries %}
+    <tr>
+      <td class="p-1 pr-2 font-weight-light w-50">
+        <strong>{{ entry.name }}</strong>
+        {% if entry.project_title %}<br><em>{{ entry.project_title }}</em>{% endif %}
+      </td>
+      <td class="p-1 pl-2 font-weight-light">
+        {% if entry.level %}{{ entry.level }}{% endif %}
+        {% if entry.role %} &middot; {{ entry.role }}{% endif %}
+        {% if entry.location %}<br>{{ entry.location }}{% endif %}
+      </td>
+      <td class="p-1 pl-2 font-weight-light text-right">
+        {{ entry.start_date | default: "" }}{% if entry.end_date %} – {{ entry.end_date }}{% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+</table>
