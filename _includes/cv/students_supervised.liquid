@@ -52,7 +52,18 @@
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.location }}</h6>
           {% endif %}
           {% if entry.project_title %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ entry.project_title }}</h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
+              {% if entry.url %}
+                <a href="{{ entry.url }}" target="_blank">{{ entry.project_title }}</a>
+              {% else %}
+                {{ entry.project_title }}
+              {% endif %}
+            </h6>
+          {% endif %}
+          {% if entry.doi %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
+            </h6>
           {% endif %}
         </div>
       </div>
