@@ -541,7 +541,24 @@ cv:
         highlights:
           - "Dissertation: The Digital Divide and Participation in Financial Services:  A Self-Determination Theory Perspective"
 
+      - name: James Nicolas Kammerdiener
+        start_date: 2023-10
+        end_date: 2023-03
+        location: Kennesaw State University
+        summary: 'Masters - Research supervisor'
+        highlights:
+          - "2023 Research Symposium on Homeland Security - Poster session: 'Critical Success Factors for Entry-Level Developers to Write Code More Securely'"
+
     Undergraduate Students Supervised:
+      
+      - name: Colin Lingerfelt
+        start_date: 2023-10
+        end_date: 2023-03
+        location: Kennesaw State University
+        summary: 'Undergraduate - Research Supervisor'
+        highlights:
+          - "2023 Research Symposium on Homeland Security - Poster session: 'How effective is the use of decentralized identities in mitigating financial risk to medical providers resulting from the theft of patients' medical data?'"
+      
       - name: Carson Reynolds
         start_date: 2022-10
         end_date: 2023-05
