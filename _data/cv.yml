@@ -17,7 +17,7 @@ design:
 
 locale:
   language: english
-  last_updated: Last updated
+  last_updated: Updated
 
 cv:
   name: Andrew William Green, Ph.D.
@@ -548,6 +548,14 @@ cv:
         summary: 'Masters - Research supervisor'
         highlights:
           - "2023 Research Symposium on Homeland Security poster session: 'Critical Success Factors for Entry-Level Developers to Write Code More Securely'"
+      
+      - name: Victor Okereke
+        start_date: 2021-08
+        end_date: 2021-12
+        location: Kennesaw State University
+        summary: 'Graduate Research Assistant'
+        highlights:
+          - "Created Amazon AWS scripts for use in ISA class labs"
 
     Undergraduate Students Supervised:
       
