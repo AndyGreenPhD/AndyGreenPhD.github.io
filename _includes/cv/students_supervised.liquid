@@ -3,9 +3,13 @@
     <div class="card-text font-weight-light mt-2 pt-2" {% unless forloop.first %}style="border-top: 1px solid rgba(0,0,0,.125);"{% endunless %}>
       <div class="row">
         <div class="col-sm-3">
-          <p class="font-weight-light">
-            {{ entry.start_date | default: "" }}{% if entry.end_date %} - {{ entry.end_date }}{% endif %}
-          </p>
+          <table class="table table-cv table-sm table-borderless">
+            <tr>
+              <td class="p-1 font-weight-light">
+                {{ entry.start_date | default: "" }}{% if entry.end_date %} - {{ entry.end_date }}{% endif %}
+              </td>
+            </tr>
+          </table>
         </div>
         <div class="col-sm-9">
           <h6 class="font-weight-bold">{{ entry.name }}</h6>
