@@ -1,18 +1,20 @@
-<table class="table table-cv table-sm table-borderless">
+<div>
   {% for entry in entries %}
-    <tr>
-      <td class="p-1 pr-2 font-weight-light w-50">
-        <strong>{{ entry.name }}</strong>
-        {% if entry.project_title %}<br><em>{{ entry.project_title }}</em>{% endif %}
-      </td>
-      <td class="p-1 pl-2 font-weight-light">
-        {% if entry.level %}{{ entry.level }}{% endif %}
-        {% if entry.role %} &middot; {{ entry.role }}{% endif %}
-        {% if entry.location %}<br>{{ entry.location }}{% endif %}
-      </td>
-      <td class="p-1 pl-2 font-weight-light text-right">
-        {{ entry.start_date | default: "" }}{% if entry.end_date %} – {{ entry.end_date }}{% endif %}
-      </td>
-    </tr>
+    <div class="card-text font-weight-light mt-2 pt-2" {% unless forloop.first %}style="border-top: 1px solid rgba(0,0,0,.125);"{% endunless %}>
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="font-weight-light">
+            {{ entry.start_date | default: "" }}{% if entry.end_date %} - {{ entry.end_date }}{% endif %}
+          </p>
+        </div>
+        <div class="col-sm-9">
+          <h6 class="font-weight-bold">{{ entry.name }}</h6>
+          {% if entry.level %}<h6>{{ entry.level }}</h6>{% endif %}
+          {% if entry.role %}<h6>{{ entry.role }}</h6>{% endif %}
+          {% if entry.location %}<p class="font-weight-light">{{ entry.location }}</p>{% endif %}
+          {% if entry.project_title %}<p class="font-weight-light"><em>{{ entry.project_title }}</em></p>{% endif %}
+        </div>
+      </div>
+    </div>
   {% endfor %}
-</table>
+</div>
