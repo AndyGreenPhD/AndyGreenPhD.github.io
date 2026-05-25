@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-25'
 papers:
   3Ka0WxIAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'Addressing Emerging Information Security Personnel Needs. A Look at Competitions in Academia: Do Cyber Defense Competitions Work?'
     year: '2013'
   3Ka0WxIAAAAJ:4DMP91E08xMC:
-    citations: 6
+    citations: 7
     title: To report or not to report? Extending Protection Motivation Theory to Vulnerability Discovery and Disclosure
     year: '2024'
   3Ka0WxIAAAAJ:4TOpqqG69KYC:
@@ -26,7 +26,7 @@ papers:
     title: Analysis of Honeypots in detecting Tactics, Techniques, and Procedures changes based on IP Address
     year: '2023'
   3Ka0WxIAAAAJ:9yKSN-GCB0IC:
-    citations: 91
+    citations: 92
     title: Principles of incident response and disaster recovery
     year: '2013'
   3Ka0WxIAAAAJ:KlAtU1dfN6UC:
