@@ -27,8 +27,11 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Andrew William (Andy) Green, Ph.D., is an Assistant Professor of Information Security and Assurance in the Information Systems Department, located in the Michael J. Coles College of Business at Kennesaw State University, Kennesaw, Georgia.  Andy currently serves as the program coordinator for the Information Security and Assurance undergraduate degree program, as well as the faculty advisor for the award-winning student-led KSU Offensive Security Research Club.
+Andrew W. (Andy) Green, Ph.D., is an Assistant Professor of Information Security and Assurance in the Department of Information Systems and Security at the Michael J. Coles College of Business at Kennesaw State University. He directs the KSU Cyber Range at Coles College and serves as the faculty advisor for the Orthodox Christian Fellowship (OCF) Club at KSU. Green also chairs the Parish Cybersecurity Committee of the Greek Orthodox Archdiocese of America.
 
-Green has almost two decades of experience in information security.  Before entering academia full-time, Andy worked as an information security consultant, focusing primarily on the needs of small and medium-sized businesses.  Before that, Green worked in the healthcare IT field, where he developed and supported transcription interfaces for medical facilities throughout the United States. 
+Before transitioning to full-time academia, Green spent more than twenty years in cybersecurity. His experience includes cybersecurity and IT consulting for small- to mid-sized businesses, as well as earlier work in healthcare IT, where he developed and supported transcription interfaces used by medical facilities across the U.S.
 
-Andy’s research interest focuses on problems found at the intersection of security, privacy, and public policy, and his research has been published in top-tier academic journals.  Green is also a co-author of several academic textbooks on various information security-related topics that have been used in classrooms globally.  Andy is also a frequent contributor to local, regional, and national media outlets on issues related to information security.
+Green’s academic research examines the connections between information security, privacy, and public policy. His work has appeared in leading peer-reviewed journals, and he has co-authored several textbooks used in university courses worldwide. He also provides expert analysis and commentary on cybersecurity for various media outlets.
+
+He currently serves as President-Elect of the Special Interest Group on Information Security and Privacy (SIGSEC) within the Association for Information Systems (AIS), an international association of information systems scholars that named him a Distinguished Member in 2025.
+
