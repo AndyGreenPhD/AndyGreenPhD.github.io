@@ -59,7 +59,8 @@ cv:
     Academic Positions:
       - company: Kennesaw State University
         position: Associate Professor of Information Security and Assurance
-        start_date: "2026-06"
+        start_date: "2026-07"
+        end_date: present
         location: Kennesaw, Georgia
 
       - company: Kennesaw State University
