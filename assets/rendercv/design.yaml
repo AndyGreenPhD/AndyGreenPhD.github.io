@@ -1,4 +1,5 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
+# 6/19/2026 - Comment from green - this file is not used but must be left in place for process to work.  All design information is now in the cv.yml file.  This file is just a placeholder to satisfy the process requirements.
 design:
   theme: sb3nov
   page:

@@ -1,5 +1,5 @@
 design:
-  theme: harvard
+  theme: sb2nov
   page:
     size: us-letter
     show_footer: true
@@ -24,12 +24,12 @@ cv:
   website: https://andygreen.phd
 
   social_networks:
-    - network: LinkedIn
-      username: AndyGreenPhD
+    #- network: LinkedIn
+    #  username: AndyGreenPhD
     #- network: GitHub
     #  username: AndyGreenPhD
-    - network: Mastodon
-      username: '@AndyGreenPhD@infosec.exchange'
+    #- network: Mastodon
+    #  username: '@AndyGreenPhD@infosec.exchange'
 
   sections:
 
