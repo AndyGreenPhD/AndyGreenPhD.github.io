@@ -58,6 +58,12 @@ cv:
 
     Academic Positions:
       - company: Kennesaw State University
+        position: Associate Professor of Information Security and Assurance
+        start_date: "2026-08"
+        end_date: present
+        location: Kennesaw, Georgia
+
+      - company: Kennesaw State University
         position: Assistant Professor of Information Security and Assurance
         start_date: "2020-08"
         end_date: "2026-08"
@@ -297,13 +303,13 @@ cv:
         summary: "This paper is part of a proposed study that looks at the emerging information security personnel needs of organizations. We are attempting to explore the correlation between components of a regional cyber defense competition and an organization's needs in terms of employing adequately trained information security personnel. We look to identify some unique characteristics of a regional academic cyber defense competition via the critical success factors method."   
 
     Institutional Service:
-      - company: Kennesaw State University
+      - company: "Kennesaw State University - Coles College of Business"
         position: "Committee Member, Five in Flight Alumni Award Selection Committee"
         start_date: "2026-06"
         end_date: "2026-10"
         location: Kennesaw, Georgia
 
-      - company: Kennesaw State University
+      - company: "Kennesaw State University - Coles College of Business"
         position: "Committee Member, Coles College Faculty Review Committee (CFRC)"
         start_date: "2026-05"
         end_date: present
@@ -325,6 +331,12 @@ cv:
         position: "Co-chair, Faculty Search Committee — Assistant Professor of Information Systems and Security"
         start_date: "2025-05"
         end_date: "2026-03"
+        location: Kennesaw, Georgia
+
+      - company: "Kennesaw State University - Coles College of Business"
+        position: "Committee Member, Five in Flight Awards Committee"
+        start_date: "2024-06"
+        end_date: "2024-11"
         location: Kennesaw, Georgia
 
       - company: "Kennesaw State University — Coles College of Business"
