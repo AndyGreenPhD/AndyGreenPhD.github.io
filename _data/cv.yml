@@ -662,4 +662,7 @@ cv:
       - label: "2011"
         details: 'Named "Influential Instructor" by Graduating Students — Kennesaw State University'
       
-    
+    Professional Development Activities:
+      - name: "Claude 101"
+        summary: "Technology Training, Anthropic"
+        date: "2026-06"
