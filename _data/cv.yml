@@ -582,6 +582,90 @@ cv:
         end_date: "2012-03"
         location: Tuscaloosa, Alabama
 
+    Public Service:
+      - position: Chairperson, Cybersecurity Committee
+        company: Greek Orthodox Metropolis of Atlanta
+        location: Atlanta, Georgia
+        start_date: "2024-07"
+        end_date: present
+
+      - position: Chairperson, Parish Cybersecurity Subcommittee
+        company: Greek Orthodox Archdiocese of America
+        location: New York, New York
+        start_date: "2024-03"
+        end_date: present
+
+      - position: Chairperson, Cybersecurity Committee
+        company: Holy Transfiguration Greek Orthodox Church
+        location: Marietta, Georgia
+        start_date: "2024-01"
+        end_date: present
+
+      - position: Chairperson, Network King of the Hill Capture the Flag (CTF) event
+        company: KSU Cyber Range at Coles College
+        location: Kennesaw, Georgia
+        start_date: "2024-07"
+        end_date: "2024-07"
+
+      - position: Chairperson, Network King of the Hill Capture the Flag (CTF) event
+        company: KSU Cyber Range at Coles College
+        location: Kennesaw, Georgia
+        start_date: "2024-06"
+        end_date: "2024-06"
+
+      - position: Chairperson, Network King of the Hill Capture the Flag (CTF) event
+        company: KSU Cyber Range at Coles College
+        location: Kennesaw, Georgia
+        start_date: "2024-05"
+        end_date: "2024-06"
+
+      - position: Chairperson, Network King of the Hill Capture the Flag (CTF) event
+        company: KSU Cyber Range at Coles College
+        location: Kennesaw, Georgia
+        start_date: "2024-04"
+        end_date: "2024-04"
+
+      - position: Competition Manager, South East Collegiate Cyber Defense Competition
+        company: Kennesaw State University
+        location: Kennesaw, Georgia
+        start_date: "2020-10"
+        end_date: "2023-05"
+
+      - position: Chairperson, The Westminster School CTF
+        company: The Westminster School
+        location: Atlanta, Georgia
+        start_date: "2022-12"
+        end_date: "2023-01"
+
+      - position: Chairperson, The Westminster School CTF
+        company: The Westminster School
+        location: Atlanta, Georgia
+        start_date: "2021-08"
+        end_date: "2022-01"
+
+      - position: Chairperson, Fall 2021 KSU ISA CTF
+        company: Kennesaw State University
+        location: Kennesaw, Georgia
+        start_date: "2021-08"
+        end_date: "2021-11"
+
+      - position: Chairperson, Fall 2020 KSU ISA CTF
+        company: Kennesaw State University
+        location: Kennesaw, Georgia
+        start_date: "2020-08"
+        end_date: "2020-11"
+
+      - position: Guest Speaker
+        company: TIE Atlanta
+        location: Atlanta, Georgia
+        date: "2018-03"
+
+      - position: Committee Member, Southeastern Regional Collegiate Cyber Defense Competition
+        company: Kennesaw State University
+        location: Kennesaw, Georgia
+        start_date: "2005-08"
+        end_date: "2016-04"
+
     Graduate Students Supervised:
       - name: 'Melissa-Anne Cunningham-Sereque'
         start_date: 2025-04
