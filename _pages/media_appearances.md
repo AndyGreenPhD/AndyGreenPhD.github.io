@@ -39,7 +39,7 @@ nav_order: 5
 
 **May 3** 
 
-[WXIA TV - Cobb County cyberattack | Group demands ransom](https://www.youtube.com/watch?v=ZYS_lDJrhhc)
+[WXIA TV - Cobb County cyberattack - Group demands ransom](https://www.youtube.com/watch?v=ZYS_lDJrhhc)
 
 **March 26**
 
