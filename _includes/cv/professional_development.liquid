@@ -1,0 +1,101 @@
+{% comment %}
+  Professional development entry renderer for RenderCV NormalEntry format
+  Fields: name, date, start_date, end_date, location, summary, highlights, url
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+          {% capture start_date %}
+            {% if entry.start_date %}{{ entry.start_date }}{% elsif entry.startDate %}{{ entry.startDate }}{% endif %}
+          {% endcapture %}
+          {% capture end_date %}
+            {% if entry.end_date %}{{ entry.end_date }}{% elsif entry.endDate %}{{ entry.endDate }}{% endif %}
+          {% endcapture %}
+          {% assign start_date = start_date | strip %}
+          {% assign end_date = end_date | strip %}
+
+          {% if entry.date %}
+            {% assign date = entry.date %}
+          {% elsif start_date != '' %}
+            {% assign month_names = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: ',' %}
+            {% assign start_parts = start_date | split: '-' %}
+            {% if start_parts[1] %}
+              {% assign start_month_index = start_parts[1] | minus: 1 %}
+              {% assign startFormatted = month_names[start_month_index] | append: ' ' | append: start_parts[0] %}
+            {% else %}
+              {% assign startFormatted = start_parts[0] %}
+            {% endif %}
+            {% if end_date != '' %}
+              {% assign end_parts = end_date | split: '-' %}
+              {% if end_parts[1] %}
+                {% assign end_month_index = end_parts[1] | minus: 1 %}
+                {% assign endFormatted = month_names[end_month_index] | append: ' ' | append: end_parts[0] %}
+              {% else %}
+                {% assign endFormatted = end_parts[0] %}
+              {% endif %}
+            {% else %}
+              {% assign endFormatted = 'Present' %}
+            {% endif %}
+            {% assign date = startFormatted | append: ' - ' | append: endFormatted %}
+          {% else %}
+            {% assign date = '' %}
+          {% endif %}
+
+          <table class="table-cv">
+            <tbody>
+              <tr>
+                <td>
+                  {% if date != '' %}
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
+                  {% endif %}
+                </td>
+              </tr>
+              {% capture location %}
+                {% if entry.location %}{{ entry.location }}{% endif %}
+              {% endcapture %}
+              {% assign location = location | strip %}
+              {% if location != '' %}
+                <tr>
+                  <td>
+                    <p class="location">
+                      <i class="fa-solid fa-location-dot iconlocation"></i>
+                      {{ location }}
+                    </p>
+                  </td>
+                </tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </div>
+        <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
+          {% if entry.url %}
+            <h6 class="title font-weight-bold ml-1 ml-md-4">
+              <a href="{{ entry.url }}">{{ entry.name }}</a>
+            </h6>
+          {% elsif entry.name %}
+            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
+          {% endif %}
+
+          {% if entry.summary %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+            </h6>
+          {% endif %}
+
+          {% if entry.highlights %}
+            <ul class="items">
+              {% for item in entry.highlights %}
+                <li>
+                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
