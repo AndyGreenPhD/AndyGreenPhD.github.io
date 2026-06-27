@@ -183,6 +183,9 @@ layout: default
               {% elsif section_title == 'Publications' %}
                 {% assign entries = section_entries %}
                 {% include cv/bib.liquid %}
+              {% elsif section_title == 'Editorial and Review Activities' %}
+                {% assign entries = section_entries %}
+                {% include cv/editorial.liquid %}
               {% elsif section_title == 'Institutional Service' %}
                 {% assign entries = section_entries %}
                 {% include cv/institutional_service.liquid %}
@@ -195,9 +198,6 @@ layout: default
               {% elsif section_title == 'Undergraduate Students Supervised' %}
                 {% assign entries = section_entries %}
                 {% include cv/students_supervised.liquid %}
-              {% elsif section_title == 'Editorial and Review Activities' %}
-                {% assign entries = section_entries %}
-                {% include cv/editorial.liquid %}
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
