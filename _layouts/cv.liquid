@@ -192,6 +192,9 @@ layout: default
               {% elsif section_title == 'Professional Service' %}
                 {% assign entries = section_entries %}
                 {% include cv/professional_service.liquid %}
+              {% elsif section_title == 'Public Service' %}
+                {% assign entries = section_entries %}
+                {% include cv/public_service.liquid %}
               {% elsif section_title == 'Graduate Students Supervised' %}
                 {% assign entries = section_entries %}
                 {% include cv/students_supervised.liquid %}
