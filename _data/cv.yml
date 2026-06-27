@@ -666,6 +666,7 @@ cv:
 
       - name: "Claude 101"
         summary: "Technology Training, Anthropic"
+        location: "Online"
         date: "Jun 2026"
 
       - name: "InfraGard Atlanta Annual Meeting 2026"
