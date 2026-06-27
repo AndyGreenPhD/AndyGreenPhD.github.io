@@ -461,18 +461,18 @@ cv:
 
     Professional Service:
       - company: Association for Information Systems (AIS)
-        position: "President-Elect, Special Interest Group on Information Security and Privacy (SIGSEC)"
+        position: "President-Elect, Special Interest Group on Information Security and Privacy (SIG SEC)"
         start_date: "2025-08"
         end_date: present
 
-      - company: "BSides Atlanta Conference"
+      - company: "BSides Atlanta Cybersecurity Conference"
         position: Organizer
         start_date: "2018-01"
         end_date: present
         location: Atlanta, Georgia
 
       - company: "Association for Information Systems (AIS)"
-        position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
+        position: "Workshop Organizer, SIG SEC Pre-ICIS Workshop"
         start_date: "2025-05"
         end_date: "2025-12"
         location: Nashville, Tennessee
@@ -484,12 +484,12 @@ cv:
         location: Montréal, Canada
 
       - company: Association for Information Systems (AIS)
-        position: "At-large Director, Special Interest Group on Information Security and Privacy (SIGSEC)"
+        position: "At-large Director, Special Interest Group on Information Security and Privacy (SIG SEC)"
         start_date: "2022-08"
         end_date: "2025-08"
 
       - company: "Association for Information Systems (AIS)"
-        position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
+        position: "Workshop Organizer, SIG SEC Pre-ICIS Workshop"
         start_date: "2024-05"
         end_date: "2024-12"
         location: Bangkok, Thailand
@@ -506,7 +506,7 @@ cv:
         location: Salt Lake City, Utah
 
       - company: "Association for Information Systems (AIS)"
-        position: "Workshop Organizer, SIGSEC Pre-ICIS Workshop"
+        position: "Workshop Organizer, SIG SEC Pre-ICIS Workshop"
         start_date: "2023-05"
         end_date: "2023-12"
         location: Hyderabad, India
