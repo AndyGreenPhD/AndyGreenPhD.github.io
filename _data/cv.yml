@@ -675,8 +675,9 @@ cv:
       - name: "2025 International Conference on Information Systems (ICIS)"
         summary: "Conference Attendance, Association for Information Systems (AIS)"
         location: "Nashville, Tennessee, USA"
-        start_date: "2025-12-14"
-        end_date: "2025-12-17"
+        date: "December 14-17, 2025"
+        #start_date: "2025-12-14"
+        #end_date: "2025-12-17"
 
       - name: "Workshop on Information Security and Privacy (WISP)"
         summary: "Workshop, Association for Information Systems Special Interest Group in Information Security and Privacy (SIG SEC)"
