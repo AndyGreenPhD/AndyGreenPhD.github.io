@@ -7,6 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+# 2026
+
+**June 30**
+
+[2026 Clergy-Laity Congress Presentation on Cybersecurity Risk Management for Parish Leadership](/assets/pdf/june-2026-clc-cybersecurity-risk-management-for-parish-leadership.pdf)
+
+---
+
 # 2025
 
 **June 14** 
