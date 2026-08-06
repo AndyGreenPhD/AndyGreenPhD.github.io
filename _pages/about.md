@@ -27,7 +27,7 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Andrew W. (Andy) Green, Ph.D., is an Assistant Professor of Information Security and Assurance in the Department of Information Systems and Security at the Michael J. Coles College of Business at Kennesaw State University. He directs the KSU Cyber Range at Coles College and serves as the faculty advisor for the Orthodox Christian Fellowship (OCF) Club at KSU. Green also chairs the Parish Cybersecurity Committee of the Greek Orthodox Archdiocese of America.
+Andrew W. (Andy) Green, Ph.D., is an Associate Professor of Information Security and Assurance in the Department of Information Systems and Security at the Michael J. Coles College of Business at Kennesaw State University. He directs the KSU Cyber Range at Coles College and serves as the faculty advisor for the Orthodox Christian Fellowship (OCF) Club at KSU. Green also chairs the Parish Cybersecurity Committee of the Greek Orthodox Archdiocese of America.
 
 Before transitioning to full-time academia, Green spent more than twenty years in cybersecurity. His experience includes cybersecurity and IT consulting for small- to mid-sized businesses, as well as earlier work in healthcare IT, where he developed and supported transcription interfaces used by medical facilities across the U.S.
 
