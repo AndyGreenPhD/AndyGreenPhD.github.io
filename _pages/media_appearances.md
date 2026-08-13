@@ -9,6 +9,10 @@ nav_order: 5
 
 # 2026
 
+**August 12**
+
+[WSB TV - Fake tech stole gym’s internet, so he’d get paid every time they paid the bills, police say](https://www.wsbtv.com/news/local/gwinnett-county/fake-tech-stole-gyms-internet-so-hed-get-paid-every-time-they-paid-bills-police-say/DSISANZKBVBG7OPA5CT3KDGOQU/)
+
 **May 9**
 
 [WXIA TV -  Canvas platform back online after cyber breach](https://www.youtube.com/watch?v=yzXEbVH9f3g)
