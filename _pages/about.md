@@ -33,5 +33,5 @@ Before transitioning to full-time academia, Green spent more than twenty years i
 
 Green’s academic research examines the connections between information security, privacy, and public policy. His work has appeared in leading peer-reviewed journals, and he has co-authored several textbooks used in university courses worldwide. He also provides expert analysis and commentary on cybersecurity for various media outlets.
 
-He currently serves as President-Elect of the Special Interest Group on Information Security and Privacy (SIGSEC) within the Association for Information Systems (AIS), an international association of information systems scholars that named him a Distinguished Member in 2025.
+He currently serves as President of the Special Interest Group on Information Security and Privacy (SIG SEC) within the Association for Information Systems (AIS), an international association of information systems scholars that named him a Distinguished Member in 2025.
 
