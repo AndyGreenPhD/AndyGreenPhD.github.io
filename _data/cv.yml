@@ -490,7 +490,7 @@ cv:
       - company: "Association for Information Systems (AIS)"
         position: "President, Special Interest Group on Information Security and Privacy (SIG SEC)"
         start_date: "2026-08"
-        end_date: current
+        end_date: present
 
       - company: Association for Information Systems (AIS)
         position: "President-Elect, Special Interest Group on Information Security and Privacy (SIG SEC)"
