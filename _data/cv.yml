@@ -487,10 +487,15 @@ cv:
         location: Kennesaw, Georgia
 
     Professional Service:
+      - company: "Association for Information Systems (AIS)"
+        position: "President, Special Interest Group on Information Security and Privacy (SIG SEC)"
+        start_date: "2026-08"
+        end_date: current
+
       - company: Association for Information Systems (AIS)
         position: "President-Elect, Special Interest Group on Information Security and Privacy (SIG SEC)"
         start_date: "2025-08"
-        end_date: present
+        end_date: "2026-08"
 
       - company: "BSides Atlanta Cybersecurity Conference"
         position: Organizer
