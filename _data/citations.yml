@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-26'
 papers:
   3Ka0WxIAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -29,10 +29,6 @@ papers:
     citations: 92
     title: Principles of incident response and disaster recovery
     year: '2013'
-  3Ka0WxIAAAAJ:KlAtU1dfN6UC:
-    citations: 0
-    title: Hands-On Information Security Lab Manual, 4th Edition
-    year: '2014'
   3Ka0WxIAAAAJ:M3ejUd6NZC8C:
     citations: 1
     title: SNS Use, Risk, and Executive Behavior
@@ -66,7 +62,7 @@ papers:
     title: Guide to Network Security
     year: '2012'
   3Ka0WxIAAAAJ:dhFuZR0502QC:
-    citations: 3
+    citations: 5
     title: "Unpacking digital transformation\u2013Constructing a framework based on industry use cases"
     year: '2025'
   3Ka0WxIAAAAJ:kNdYIx-mwKoC:
@@ -86,6 +82,6 @@ papers:
     title: Guide to Firewalls & VPNs
     year: '2011'
   3Ka0WxIAAAAJ:u5HHmVD_uO8C:
-    citations: 18
+    citations: 19
     title: Management of security policies for mobile devices
     year: '2007'
