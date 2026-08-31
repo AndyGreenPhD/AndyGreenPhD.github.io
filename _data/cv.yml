@@ -750,6 +750,11 @@ cv:
       
     Professional Development Activities:
 
+      - name: "2026 Americas Conference on Information Systems (AMCIS)"
+        summary: "Conference Attendance, Association for Information Systems (AIS)"
+        location: "Reno, Nevada"
+        date: "Aug 20-22, 2026"
+
       - name: "Claude 101"
         summary: "Technology Training, Anthropic"
         location: "Online"
