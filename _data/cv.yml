@@ -504,6 +504,12 @@ cv:
         location: Atlanta, Georgia
 
       - company: "Association for Information Systems (AIS)"
+        position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
+        start_date: "2025-05"
+        end_date: "2026-08"
+        location: Montréal, Canada
+
+      - company: "Association for Information Systems (AIS)"
         position: "Workshop Organizer, SIG SEC Pre-ICIS Workshop"
         start_date: "2025-05"
         end_date: "2025-12"
@@ -511,7 +517,7 @@ cv:
 
       - company: "Association for Information Systems (AIS)"
         position: "Track Organizer, Information Security and Privacy Track — Americas Conference on Information Systems (AMCIS)"
-        start_date: "2020-08"
+        start_date: "2024-05"
         end_date: "2025-08"
         location: Montréal, Canada
 
