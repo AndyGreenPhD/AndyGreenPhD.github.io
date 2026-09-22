@@ -227,6 +227,10 @@ WSB TV - Fulton County ransomware attack
 
 [Harvard Crimson - In Massive Security Oversight, Thousands of Private University Documents Left Vulnerable](https://www.thecrimson.com/article/2021/10/12/security-oversight-harvard-administration/)
 
+**September 20**
+
+[Security expert says DeKalb County poorly prepared to protect people's personal information](https://www.wsbtv.com/video/local-video/security-expert-says-dekalb-county-poorly-prepared-protect-peoples-personal-information/cc87171d-885d-4b10-8691-05fcc972c6b3/)
+
 **September 16**
 
 [AdvisorSmith - The Best Cyber Insurance Companies for 2021](https://advisorsmith.com/cyber-liability-insurance/best-cyber-insurance-companies/)
