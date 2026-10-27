@@ -9,7 +9,7 @@ nav_order: 5
 
 # 2026
 
-** October 26**
+**October 26**
 
 [WSB TV - Georgia Secretary of State says AI bot had no access to sensitive voter information](https://www.wsbtv.com/news/local/georgia-secretary-state-says-ai-bot-had-no-access-sensitive-vote-information/66LSGC2PVRHGPCCVCBNIQWKXBE/)
 
