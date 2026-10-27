@@ -9,6 +9,10 @@ nav_order: 5
 
 # 2026
 
+** October 26**
+
+[WSB TV - Georgia Secretary of State says AI bot had no access to sensitive voter information](https://www.wsbtv.com/news/local/georgia-secretary-state-says-ai-bot-had-no-access-sensitive-vote-information/66LSGC2PVRHGPCCVCBNIQWKXBE/)
+
 **August 12**
 
 [WSB TV - Fake tech stole gym’s internet, so he’d get paid every time they paid the bills, police say](https://www.wsbtv.com/news/local/gwinnett-county/fake-tech-stole-gyms-internet-so-hed-get-paid-every-time-they-paid-bills-police-say/DSISANZKBVBG7OPA5CT3KDGOQU/)
