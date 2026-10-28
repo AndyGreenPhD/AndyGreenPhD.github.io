@@ -9,6 +9,10 @@ nav_order: 5
 
 # 2026
 
+**October 27**
+
+[WANF TV - 3 arrested in alleged Cherokee High School shooting plot](https://www.atlantanewsfirst.com/2026/10/27/police-arrest-3-alleged-cherokee-high-school-shooting-plot/)
+
 **October 26**
 
 [WSB TV - Georgia Secretary of State says AI bot had no access to sensitive voter information](https://www.wsbtv.com/news/local/georgia-secretary-state-says-ai-bot-had-no-access-sensitive-vote-information/66LSGC2PVRHGPCCVCBNIQWKXBE/)
