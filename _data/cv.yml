@@ -330,6 +330,12 @@ cv:
         - bullet: "2012 Association for Computing Machinery Southeast Conference (ACMSE)"
 
     Institutional Service:
+      - company: "Kennesaw State University — Department of Information Systems and Security"
+        position: "Department Voting Officer"
+        start_date: "2026-10"
+        end_date: present
+        location: Kennesaw, Georgia
+      
       - company: "Kennesaw State University — Coles College of Business"
         position: "Co-chair, Faculty Search Committee — Assistant Professor of Information Systems and Security"
         start_date: "2026-06"
@@ -339,7 +345,7 @@ cv:
       - company: "Kennesaw State University - Coles College of Business"
         position: "Committee Member, 2026 Five in Flight Alumni Award Selection Committee"
         start_date: "2026-05"
-        end_date: present
+        end_date: "2026-10"
         location: Kennesaw, Georgia
 
       - company: "Kennesaw State University - Coles College of Business"
