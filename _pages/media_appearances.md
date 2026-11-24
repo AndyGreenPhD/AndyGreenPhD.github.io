@@ -9,6 +9,10 @@ nav_order: 5
 
 # 2026
 
+**November 16**
+
+[WSB TV - Banking outage leaves local business owner unable to pay employees](https://www.wsbtv.com/news/local/banking-outage-leaves-local-business-owner-unable-pay-employees/Y6ZB2VZNLVHA5NQNIZKO3SUL7A/)
+
 **October 27**
 
 [WANF TV - 3 arrested in alleged Cherokee High School shooting plot](https://www.atlantanewsfirst.com/2026/10/27/police-arrest-3-alleged-cherokee-high-school-shooting-plot/)
